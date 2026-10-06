@@ -1,0 +1,20 @@
+{
+  "className": "Part",
+  "properties": {
+    "Shape": "Ball",
+    "size": [
+      1.3,
+      1.3,
+      1.3
+    ],
+    "Color": "#FFBF40",
+    "Material": "Neon",
+    "Anchored": false,
+    "CanCollide": false,
+    "CanTouch": false,
+    "CanQuery": false,
+    "Massless": true,
+    "TopSurface": "Smooth",
+    "BottomSurface": "Smooth"
+  }
+}

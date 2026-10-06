@@ -1,0 +1,12 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ReplicatedStorage/Assets/SigmaFaces/SigmaFace_4/Face"
+    }
+  },
+  "attributes": {
+    "Placeholder": true,
+    "ReplaceMe": "Replace this placeholder with your final Sigma Face model for Rizz Level 4 (keep the name SigmaFace_4)"
+  }
+}

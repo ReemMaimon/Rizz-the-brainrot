@@ -201,6 +201,26 @@ local function playFace(abilityId, configured)
 	if lifetime > 0 then task.delay(lifetime, function() if faceStates[abilityId] == state then clearFace(abilityId) end end) end
 end
 
+-- Scene action used by SigmaFaceService: tween the server-attached face from EntranceScale to FinalScale.
+local function revealFace(reveal)
+	local character = player.Character
+	local face = character and character:WaitForChild(reveal.FaceName or "SigmaFace", 2)
+	if not face or not face:IsA("Model") then return end
+	local entrance, final = tonumber(reveal.EntranceScale) or 0.5, tonumber(reveal.FinalScale) or 1
+	local scale = Instance.new("NumberValue")
+	scale.Value = entrance
+	face:ScaleTo(entrance)
+	local connection = scale.Changed:Connect(function(value) if face.Parent then face:ScaleTo(math.max(0.01, value)) end end)
+	local style = reveal.Bounce and Enum.EasingStyle.Back or Enum.EasingStyle.Quad
+	local tween = TweenService:Create(scale, TweenInfo.new(math.max(0.05, tonumber(reveal.Duration) or 0.5), style, Enum.EasingDirection.Out), {Value = final})
+	tween.Completed:Connect(function()
+		connection:Disconnect()
+		if face.Parent then face:ScaleTo(final) end
+		scale:Destroy()
+	end)
+	tween:Play()
+end
+
 local function isConfigured(value)
 	if type(value) == "string" then return value ~= "" end
 	return type(value) == "table" and next(value) ~= nil
@@ -225,6 +245,10 @@ local function executeSequence(abilityId, configured, phase, context)
 					VFXService:Play(abilityId, step.EffectName or phase, context, step.VFX)
 				elseif actionName == "Face" and type(step.Face) == "table" then
 					playFace(abilityId, {Face = step.Face})
+				elseif actionName == "CameraEffect" then
+					triggerImpactFeedback()
+				elseif actionName == "FaceReveal" and type(step.Reveal) == "table" then
+					revealFace(step.Reveal)
 				elseif actionName == "StopAnimation" then
 					AnimationService:StopAbilityAnimation(player)
 				end

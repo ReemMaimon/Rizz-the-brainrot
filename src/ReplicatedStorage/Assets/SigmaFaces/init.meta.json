@@ -1,0 +1,4 @@
+{
+  "className": "Folder",
+  "attributes": { "README": "Sigma Face models. Names must match SigmaFaceConfig.SigmaFaces[level].Model. SigmaFace_2..10 are PLACEHOLDERS - replace them with your final models (Model with PrimaryPart, optional Attachment named SigmaFaceAttachment)." }
+}
