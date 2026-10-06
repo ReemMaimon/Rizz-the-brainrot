@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [971.8186, 476.67996, -947.681, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "Transparency": 0.75,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "H7gsGfG2H7gs" },
+  "childOrder": ["Main", "Lighting"]
+}

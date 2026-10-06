@@ -1,0 +1,9 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0.0000043415585, -1.5933589, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [90.87538, 18.087107, 32.411724, 0.009663507, 0.9999533, 0, 0, 0, -1, -0.9999533, 0.009663507, 0],
+    "Part0": { "$ref": "Workspace/Nature Asset Pack - Studs Style~3/Rock 4/Part~3" }
+  },
+  "attributes": { "_lemonadeUniqueId": "IZCORQA755UX" }
+}

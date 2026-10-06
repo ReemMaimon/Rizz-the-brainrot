@@ -1,0 +1,11 @@
+{
+  "className": "UIGridLayout",
+  "properties": {
+    "CellPadding": [[0.01, 0], [0.01, 0]],
+    "CellSize": [[0.46, 0], [0.5, 0]],
+    "HorizontalAlignment": "Center",
+    "SortOrder": "LayoutOrder",
+    "VerticalAlignment": "Center"
+  },
+  "attributes": { "_lemonadeUniqueId": "UFsGQDTZUFsG" }
+}

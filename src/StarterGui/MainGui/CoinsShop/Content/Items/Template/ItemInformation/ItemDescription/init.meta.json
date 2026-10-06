@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 2,
+    "Position": [[0.7487889, 0], [0.675636, 0]],
+    "Size": [[1.4975778, 0], [0.64872795, 0]],
+    "Text": "An average hand to slap thieves and send them flying!",
+    "TextColor3": "#D9D9D9",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Left"
+  },
+  "attributes": { "_lemonadeUniqueId": "HPF3uaxtHPF3" }
+}

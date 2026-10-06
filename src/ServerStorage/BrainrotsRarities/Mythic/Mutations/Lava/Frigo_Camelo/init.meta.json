@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Lava/Frigo_Camelo/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "N22JLNPC4R34" },
+  "tags": ["Brainrot"]
+}

@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      331.10425,
+      8.97937,
+      -118.46138,
+      0,
+      0,
+      1.0000005,
+      -0.9914537,
+      0.13046032,
+      0,
+      -0.13046074,
+      -0.9914537,
+      0
+    ],
+    "Color": "#F8F8F8",
+    "TopSurface": "Smooth",
+    "size": [0.625, 0.25, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "FK54FUALEFRW" }
+}

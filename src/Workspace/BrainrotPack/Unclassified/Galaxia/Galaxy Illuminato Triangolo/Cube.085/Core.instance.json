@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [[0, "#AA55FF"], [1, "#AA55FF"]],
+    "Lifetime": [1, 1],
+    "LightEmission": 0.4,
+    "LockedToPart": true,
+    "Rate": 15,
+    "RotSpeed": [-200, 200],
+    "Size": [[0, 3, 0], [1, 3, 0]],
+    "Speed": [0, 0],
+    "Texture": "http://www.roblox.com/asset/?id=243664672",
+    "Transparency": [[0, 1, 0], [0.50374067, 0.6956521, 0], [1, 1, 0]],
+    "ZOffset": 1
+  },
+  "attributes": { "_lemonadeUniqueId": "RAYRHUHW5GUD" }
+}

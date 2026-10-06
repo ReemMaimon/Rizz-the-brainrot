@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Hacker /Hacker_Glorbo_Fruttodrillo/Mesh"
+    }
+  },
+  "attributes": { "_lemonadeUniqueId": "JC4DQSCSOPIT" },
+  "tags": ["Brainrot"]
+}

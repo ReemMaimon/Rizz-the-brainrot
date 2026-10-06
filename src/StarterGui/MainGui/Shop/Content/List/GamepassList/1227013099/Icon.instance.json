@@ -1,0 +1,15 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://124462372989137",
+    "Position": [[0.5405144, 0], [0.48230577, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.19646402, 0], [0.5833239, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "W77EKJDzW77E" }
+}

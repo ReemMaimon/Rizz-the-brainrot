@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~8/Sigma face" }
+  },
+  "attributes": { "_lemonadeUniqueId": "Y4XNHWMD2RQG" }
+}

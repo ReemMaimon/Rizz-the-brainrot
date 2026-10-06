@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "Position": [[0.3, 0], [0.61, 0]],
+    "Size": [[0.4, 0], [0.12, 0]],
+    "Text": "Waiting",
+    "TextColor3": "#FFEB82",
+    "TextSize": 21,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "xonNwiaUxonN" }
+}

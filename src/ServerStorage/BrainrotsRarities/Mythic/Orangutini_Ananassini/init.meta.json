@@ -1,0 +1,23 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Orangutini_Ananassini/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "8wFYgx228wFY" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "Proxy",
+    "HumanoidRootPart",
+    "Cube.015",
+    "Cube.006",
+    "Cube.005",
+    "Cube.004",
+    "Cube.002",
+    "Cube.001",
+    "Cube",
+    "Diamond"
+  ]
+}

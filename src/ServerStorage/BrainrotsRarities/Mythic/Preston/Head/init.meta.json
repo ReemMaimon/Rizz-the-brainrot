@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [199.11328, 6.2845683, -84.701904, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "Color": "#F8F8F8",
+    "PivotOffset": [0, -4.5, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "TopSurface": "Smooth",
+    "size": [2, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "VFfWqJ3TVFfW" },
+  "childOrder": ["Mesh", "Default ROBLOX Face"]
+}

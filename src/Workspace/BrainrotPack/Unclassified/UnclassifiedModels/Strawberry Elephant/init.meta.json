@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Strawberry Elephant/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 4, "_lemonadeUniqueId": "4JJVPGMXYX3W" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

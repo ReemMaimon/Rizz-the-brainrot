@@ -1,0 +1,31 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [814.30945, 7.41876, -87.65005, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "LeftSurface": "Weld",
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "RightSurface": "Weld",
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "6TD5P4MEBW64" },
+  "childOrder": [
+    "BodyFrontAttachment",
+    "WaistBackAttachment",
+    "Cinder",
+    "PointLight",
+    "WaistFrontAttachment",
+    "BodyBackAttachment",
+    "NeckAttachment",
+    "Left Shoulder",
+    "WaistCenterAttachment",
+    "LeftCollarAttachment",
+    "RightCollarAttachment",
+    "Right Shoulder",
+    "Left Hip",
+    "Right Hip",
+    "Neck"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [820.80945, 7.41876, -87.15005, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "EnableFluidForces": false,
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "TWXLZWD4RS5Y" },
+  "childOrder": ["RootJoint", "RootAttachment"]
+}

@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/RightUpperArm/RightElbowRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/RightLowerArm/RightElbowRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": 5,
+    "TwistUpperAngle": 120,
+    "UpperAngle": 20
+  },
+  "attributes": { "_lemonadeUniqueId": "PNHQ73MXF5UK" }
+}

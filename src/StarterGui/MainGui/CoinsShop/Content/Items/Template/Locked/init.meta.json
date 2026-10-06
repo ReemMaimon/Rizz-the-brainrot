@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#000000",
+    "BackgroundTransparency": 0.2,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.5, 0], [0.5, 0]],
+    "Size": [[1, 0], [1, 0]],
+    "ZIndex": 2
+  },
+  "attributes": { "_lemonadeUniqueId": "ZvH9ExuoZvH9" }
+}

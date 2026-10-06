@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Mutations/Lava/Lirili_Larila/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "FZB2HEIYNF25" },
+  "tags": ["Brainrot"]
+}

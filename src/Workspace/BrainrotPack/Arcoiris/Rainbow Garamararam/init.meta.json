@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Garamararam/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "KKA3A2G35ZQH" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

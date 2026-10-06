@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Fluri_Flura/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0.3, "_lemonadeUniqueId": "TBWOT5OO3HPV" },
+  "tags": ["Brainrot"]
+}

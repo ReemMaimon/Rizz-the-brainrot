@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "Smoke-01",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [1115.4935, 479.87997, -976.606, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "Transparency": 0.75,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "IYoxf2bbIYox" }
+}

@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "properties": { "CFrame": [-4.5, 0.5, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "AWN4Fc6EAWN4" },
+  "childOrder": ["Circle", "Beam", "Star", "Beam~2"]
+}

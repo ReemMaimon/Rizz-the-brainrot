@@ -1,0 +1,25 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [0, 100, 0],
+    "Brightness": 5,
+    "Color": [[0, "#0000FF"], [1, "#0000FF"]],
+    "FlipbookFramerate": [32, 32],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "Random",
+    "FlipbookStartRandom": true,
+    "Lifetime": [1, 1],
+    "LightEmission": 0.5,
+    "LockedToPart": true,
+    "Orientation": "FacingCameraWorldUp",
+    "Rate": 10,
+    "RotSpeed": [10, 10],
+    "Rotation": [-10, 10],
+    "Size": [[0, 15, 0], [1, 15, 0]],
+    "Speed": [0, 0],
+    "SpreadAngle": [100, -100],
+    "Texture": "rbxassetid://13771290435",
+    "ZOffset": 1
+  },
+  "attributes": { "EmitCount": 1, "EmitDelay": 0, "_lemonadeUniqueId": "SQR6ZRGT7ZPD" }
+}

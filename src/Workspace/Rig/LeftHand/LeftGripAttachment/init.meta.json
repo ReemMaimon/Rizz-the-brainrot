@@ -1,0 +1,20 @@
+{
+  "className": "Attachment",
+  "properties": {
+    "CFrame": [
+      0.16731703,
+      -0.18874106,
+      -0.032271117,
+      1,
+      2.2496396e-32,
+      0,
+      0,
+      1.8369701e-16,
+      1,
+      2.2496396e-32,
+      -1,
+      1.8369701e-16
+    ]
+  },
+  "attributes": { "_lemonadeUniqueId": "BLISWNLF4ON2" }
+}

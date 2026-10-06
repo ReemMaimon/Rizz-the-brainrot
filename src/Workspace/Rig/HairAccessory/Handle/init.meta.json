@@ -1,0 +1,26 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      502.38596,
+      5.9014473,
+      -65.24404,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "CanCollide": false,
+    "MeshId": "rbxassetid://4659494539",
+    "RenderFidelity": "Precise",
+    "TextureID": "rbxassetid://4659494623",
+    "size": [1.3476787, 1.500268, 1.4734647]
+  },
+  "attributes": { "_lemonadeUniqueId": "7UCDR7IEJIEO" },
+  "childOrder": ["AvatarPartScaleType", "AccessoryRigidConstraint", "HairAttachment", "OriginalSize"]
+}

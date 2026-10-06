@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [937.157, 488.03, -955.955, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "shape": "Ball",
+    "size": [6.8, 6.8, 6.8]
+  },
+  "attributes": { "_lemonadeUniqueId": "Nr1iIH9xNr1i" },
+  "childOrder": ["Main", "Main~2", "FireSpecs1"]
+}

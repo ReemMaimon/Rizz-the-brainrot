@@ -1,0 +1,10 @@
+{
+  "className": "UIListLayout",
+  "properties": {
+    "HorizontalAlignment": "Center",
+    "Padding": [0.0052310373, 0],
+    "SortOrder": "LayoutOrder",
+    "Wraps": true
+  },
+  "attributes": { "_lemonadeUniqueId": "MAixKixrMAix" }
+}

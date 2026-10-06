@@ -1,0 +1,13 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.2580982, 0], [0.23452865, 0]],
+    "Size": [[0.48328108, 0], [0.08603239, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "bjRP73l9bjRP" },
+  "childOrder": ["UIAspectRatioConstraint", "TutorialMessage"]
+}

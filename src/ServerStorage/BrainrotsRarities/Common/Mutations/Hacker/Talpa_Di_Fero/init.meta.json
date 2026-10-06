@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Mutations/Hacker /Talpa_Di_Fero/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "LZKQUCOZHHWL" },
+  "tags": ["Brainrot"]
+}

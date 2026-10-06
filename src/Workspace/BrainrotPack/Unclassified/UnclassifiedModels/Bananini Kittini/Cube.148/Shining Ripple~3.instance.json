@@ -1,0 +1,21 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Shining Ripple",
+  "properties": {
+    "Brightness": 2,
+    "Color": [[0, "#D041FF"], [1, "#D041FF"]],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [1.5, 2],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 8,
+    "Rotation": [-360, 360],
+    "Size": [[0, 1.3911996, 0.45464048], [1, 1.3942304, 0.6817788]],
+    "Speed": [0.13942303, 0.27884606],
+    "SpreadAngle": [360, 360],
+    "Texture": "rbxassetid://100300862060592",
+    "Transparency": [[0, 0.96000004, 0], [0.3377193, 0.625, 0.08484852], [1, 0.96000004, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "B7JBUUDNW36W" }
+}

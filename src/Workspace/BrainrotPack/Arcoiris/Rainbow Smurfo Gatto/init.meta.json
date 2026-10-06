@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Smurfo Gatto/Cube.134" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "VXU7DRGMXW3C" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Anims", "Cube.134", "AnimationController"]
+}

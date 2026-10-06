@@ -1,0 +1,8 @@
+{
+  "className": "RigidConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/HairAccessory/Handle/HairAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/Head/HairAttachment" }
+  },
+  "attributes": { "_lemonadeUniqueId": "2JJ77SBGT3SO" }
+}

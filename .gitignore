@@ -1,0 +1,12 @@
+# Roblox Git Sync: local state, backups and caches (never commit these)
+.rbxsync/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Roblox place files are not the source of truth here
+*.rbxl.lock
+*.rbxlx.lock

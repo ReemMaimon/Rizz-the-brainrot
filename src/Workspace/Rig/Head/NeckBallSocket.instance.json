@@ -1,0 +1,12 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/UpperTorso/NeckRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/Head/NeckRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -40,
+    "TwistUpperAngle": 40
+  },
+  "attributes": { "_lemonadeUniqueId": "6ZVLOKDKA5UJ" }
+}

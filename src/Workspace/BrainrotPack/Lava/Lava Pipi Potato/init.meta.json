@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Pipi Potato/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "SXPUZ7KIYUZF" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Mesh"]
+}

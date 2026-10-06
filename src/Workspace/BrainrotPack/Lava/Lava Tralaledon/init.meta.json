@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Tralaledon/Cube.009" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "TN7APXNQ7QGK" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.009", "Anims", "AnimationController"]
+}

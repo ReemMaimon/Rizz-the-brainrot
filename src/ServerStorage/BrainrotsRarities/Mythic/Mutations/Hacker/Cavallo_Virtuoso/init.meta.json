@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Hacker /Cavallo_Virtuoso/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "LPPVYYB3B775" },
+  "tags": ["Brainrot"]
+}

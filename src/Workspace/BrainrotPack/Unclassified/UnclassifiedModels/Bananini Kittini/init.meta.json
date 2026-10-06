@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Bananini Kittini/Cube.148" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": -0.5, "_lemonadeUniqueId": "TVOWQLPIXK7Z" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.148", "AnimationController", "Anims"]
+}

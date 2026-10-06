@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "Sigma face shiny VFX ",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [742.5348, 3.9187317, -52.62506, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "hw1G24Wmhw1G" }
+}

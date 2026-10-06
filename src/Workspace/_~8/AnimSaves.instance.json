@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "ServerStorage/RBX_ANIMSAVES/" }
+  },
+  "attributes": { "_lemonadeUniqueId": "JEM7VDLC4SKP" }
+}

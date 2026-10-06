@@ -1,0 +1,25 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      327.47925,
+      7.385087,
+      -62.439087,
+      1,
+      -7.8713756e-9,
+      0,
+      7.8713756e-9,
+      1,
+      4.144422e-16,
+      -3.2622303e-24,
+      -4.144422e-16,
+      1
+    ],
+    "CanCollide": false,
+    "TopSurface": "Smooth",
+    "size": [1.1999991, 0.79999983, 1.4000001]
+  },
+  "attributes": { "_lemonadeUniqueId": "SABABWN4AEEM" },
+  "childOrder": ["OriginalSize", "Mesh", "AccessoryWeld", "HatAttachment"]
+}

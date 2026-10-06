@@ -1,0 +1,14 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxasset://textures/ui/GuiImagePlaceholder.png",
+    "ImageTransparency": 1,
+    "Position": [[0.36752933, 0], [-0.32177714, 0]],
+    "Size": [[0.30618134, 0], [0.26327214, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "AeuhPK0EAeuh" },
+  "childOrder": ["Hide", "TextLabel", "UICorner", "UIAspectRatioConstraint", "UIStroke", "UIGradient"]
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Cachorrito Melonito/Plane.011" }
+  },
+  "attributes": { "_lemonadeUniqueId": "T6F2NNF2B2RS" },
+  "tags": ["Brainrot"]
+}

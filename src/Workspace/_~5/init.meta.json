@@ -1,0 +1,25 @@
+{
+  "className": "Model",
+  "name": "",
+  "attributes": { "_lemonadeUniqueId": "GkQOWgBBGkQO" },
+  "childOrder": [
+    "CharacterMesh",
+    "Shirt",
+    "Pants",
+    "Body Colors",
+    "CharacterMesh~2",
+    "Humanoid",
+    "Torso",
+    "ROBLOXCap",
+    "CharacterMesh~3",
+    "CharacterMesh~4",
+    "CharacterMesh~5",
+    "Right Leg",
+    "HumanoidRootPart",
+    "Proxy",
+    "Left Arm",
+    "Left Leg",
+    "Head",
+    "Right Arm"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "className": "BodyColors",
+  "properties": {
+    "HeadColor3": "#EAB892",
+    "LeftArmColor3": "#EAB892",
+    "LeftLegColor3": "#2154B9",
+    "RightArmColor3": "#EAB892",
+    "RightLegColor3": "#2154B9",
+    "TorsoColor3": "#6225D1"
+  },
+  "attributes": { "_lemonadeUniqueId": "gxeHElyygxeH" }
+}

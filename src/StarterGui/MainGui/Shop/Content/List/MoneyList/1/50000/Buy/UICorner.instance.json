@@ -1,0 +1,10 @@
+{
+  "className": "UICorner",
+  "properties": {
+    "BottomLeftRadius": [0.2, 0],
+    "BottomRightRadius": [0.2, 0],
+    "TopLeftRadius": [0.2, 0],
+    "TopRightRadius": [0.2, 0]
+  },
+  "attributes": { "_lemonadeUniqueId": "AITlQHfDAITl" }
+}

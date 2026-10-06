@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Rainbow/Tigroligre_Frutonni/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "T57BNYIXHXCB" },
+  "tags": ["Brainrot", "Rainbow"]
+}

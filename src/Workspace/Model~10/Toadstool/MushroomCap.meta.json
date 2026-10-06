@@ -1,0 +1,11 @@
+{
+  "className": "UnionOperation",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [834.93726, 40.60604, -186.81223, 0.8480481, 0, -0.52991927, 0, 1, 0, 0.52991927, 0, 0.8480481],
+    "Color": "#CF2026",
+    "UsePartColor": true,
+    "size": [34.09689, 17.048445, 34.09689]
+  },
+  "attributes": { "_lemonadeUniqueId": "BLGRPWAWUSB2" }
+}

@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0, 1],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "LayoutOrder": 3,
+    "Position": [[0.009999994, 0], [0.98, 0]],
+    "Size": [[1, 0], [0.25, 0]],
+    "Text": "$30,000",
+    "TextColor3": "#AD0003",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "8p2fyfYk8p2f" }
+}

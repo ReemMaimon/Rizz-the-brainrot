@@ -1,0 +1,20 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Circle79",
+  "properties": {
+    "Brightness": 3.65,
+    "Color": [[0, "#FF557F"], [1, "#FF557F"]],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [2.2, 2.2],
+    "Rate": 1,
+    "RotSpeed": [10, 10],
+    "Rotation": [10, 10],
+    "Size": [[0, 5, 0], [1, 5.125, 0]],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://16502428362",
+    "Transparency": [[0, 1, 0], [0.19676213, 0.69375, 0], [0.7011208, 0.625, 0], [1, 1, 0]],
+    "ZOffset": 0.05
+  },
+  "attributes": { "_lemonadeUniqueId": "TDY6JJIDZVUE" }
+}

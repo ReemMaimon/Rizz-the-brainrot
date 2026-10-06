@@ -1,0 +1,10 @@
+{
+  "className": "UIPadding",
+  "properties": {
+    "PaddingBottom": [0, 10],
+    "PaddingLeft": [0, 14],
+    "PaddingRight": [0, 14],
+    "PaddingTop": [0, 10]
+  },
+  "attributes": { "_lemonadeUniqueId": "JheyuuFZJhey" }
+}

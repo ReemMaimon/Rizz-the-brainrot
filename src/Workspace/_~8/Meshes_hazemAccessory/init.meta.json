@@ -1,0 +1,7 @@
+{
+  "className": "Accessory",
+  "name": "Meshes/hazemAccessory",
+  "properties": { "AttachmentPoint": [0.14198399, -0.60024595, -0.040971126, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "ADOJXAPDH6OM" },
+  "childOrder": ["ThumbnailConfiguration", "Handle"]
+}

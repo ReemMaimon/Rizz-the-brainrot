@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "name": "BeamAttachment",
+  "properties": { "CFrame": [2, 2, -1.2506485, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "JMI76CNFVLZN" }
+}

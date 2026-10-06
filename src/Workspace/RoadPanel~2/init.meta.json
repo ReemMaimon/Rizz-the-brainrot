@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "RoadPanel",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [121.442444, 25.995262, -91.494514, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CastShadow": false,
+    "Color": "#1B2A35",
+    "TopSurface": "Smooth",
+    "size": [33, 9, 0.5]
+  },
+  "attributes": { "_lemonadeUniqueId": "HphiCieAHphi" }
+}

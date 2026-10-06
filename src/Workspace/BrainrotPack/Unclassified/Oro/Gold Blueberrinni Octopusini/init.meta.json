@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Blueberrinni Octopusini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "GFGO5GMQIDC2" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Mesh"]
+}

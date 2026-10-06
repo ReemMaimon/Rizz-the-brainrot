@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/special skibidi toilet/Cube.123" }
+  },
+  "attributes": { "_lemonadeUniqueId": "2N6TVICCUM3D" },
+  "tags": ["Brainrot"]
+}

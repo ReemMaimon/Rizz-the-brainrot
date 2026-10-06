@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Yess My Examen/Cube.021" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "OZ6VOOLVUQAK" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Cube.021", "AnimationController"]
+}

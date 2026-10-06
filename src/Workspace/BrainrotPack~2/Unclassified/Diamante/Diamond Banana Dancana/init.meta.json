@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Diamante/Diamond Banana Dancana/Cube.092" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "4VM2BTOITVL6" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Cube.092"]
+}

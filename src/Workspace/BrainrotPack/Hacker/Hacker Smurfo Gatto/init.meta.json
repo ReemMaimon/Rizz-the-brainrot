@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Smurfo Gatto/Cube.134" }
+  },
+  "attributes": { "_lemonadeUniqueId": "QI2RFIAFA4MQ" },
+  "tags": ["Brainrot"]
+}

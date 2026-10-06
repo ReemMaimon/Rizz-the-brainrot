@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/Auras/Fire-Aura-01/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "G3VVCIHLHPI3" },
+  "childOrder": ["Humanoid", "Torso", "Head", "Right Leg", "Left Arm", "HumanoidRootPart", "Left Leg", "Right Arm"]
+}

@@ -1,0 +1,15 @@
+{
+  "attributes": { "_lemonadeUniqueId": "PAWLMJC4UAB5" },
+  "childOrder": [
+    "run",
+    "fall",
+    "sit",
+    "climb",
+    "PlayEmote",
+    "toolnone",
+    "walk",
+    "ScaleDampeningPercent",
+    "idle",
+    "jump"
+  ]
+}

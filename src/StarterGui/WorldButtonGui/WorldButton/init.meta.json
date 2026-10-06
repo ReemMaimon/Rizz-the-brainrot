@@ -1,0 +1,15 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://83476694162338",
+    "Position": [[0.39762607, 0], [0.04035309, 0]],
+    "ScaleType": "Tile",
+    "Size": [[0.21354967, 0], [0.11909066, 0]],
+    "TileSize": [[0, 100], [0, 100]]
+  },
+  "attributes": { "_lemonadeUniqueId": "MDVNKAMGCKGM" },
+  "childOrder": ["WorldTextLabel", "UICorner", "UIStroke"]
+}

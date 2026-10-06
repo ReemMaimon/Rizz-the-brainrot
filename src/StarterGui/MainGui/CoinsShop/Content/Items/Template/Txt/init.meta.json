@@ -1,0 +1,23 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [1, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.98630136, 0], [0.050209206, 0]],
+    "Size": [[0.456621, 0], [0.29288703, 0]],
+    "Text": "Basic, but gets the job done.\rYour first steps into the depths",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Right",
+    "TextYAlignment": "Top",
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "cjAQ9ZxzcjAQ" }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Diamond /Matteo/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "3TD2P6PB3QJO" },
+  "tags": ["Brainrot"]
+}

@@ -1,0 +1,37 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      502.7972,
+      2.6060133,
+      -65.3647,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "CanCollide": false,
+    "Color": "#5B9A4C",
+    "HasJointOffset": true,
+    "JointOffset": [0.08852786, 0.39062032, 0.01341024],
+    "MeshId": "https://assetdelivery.roblox.com/v1/asset/?id=14915799303",
+    "RenderFidelity": "Precise",
+    "size": [0.80979973, 1.330495, 1.1099386]
+  },
+  "attributes": { "_lemonadeUniqueId": "OO43SEEOL7VN" },
+  "childOrder": [
+    "RightUpperLeg",
+    "RightHip",
+    "RightHipBallSocket",
+    "AvatarPartScaleType",
+    "RightKneeRigAttachment",
+    "RightHipRigAttachment",
+    "RightFootNoCollision",
+    "OriginalSize"
+  ]
+}

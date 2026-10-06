@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Galaxy/Galaxy_Brr_Brr_Patapim/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "CF6TNZD7HVP7" },
+  "tags": ["Brainrot"]
+}

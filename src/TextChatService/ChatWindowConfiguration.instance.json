@@ -1,0 +1,18 @@
+{
+  "className": "ChatWindowConfiguration",
+  "properties": {
+    "BackgroundColor3": "#191B1D",
+    "BackgroundTransparency": 0.3,
+    "Enabled": true,
+    "FontFace": { "Family": "rbxasset://fonts/families/BuilderSans.json", "Style": "Normal", "Weight": "Medium" },
+    "HeightScale": 1,
+    "HorizontalAlignment": "Left",
+    "TextChannelDisplayMode": "AllTextChannels",
+    "TextColor3": "#FFFFFF",
+    "TextSize": 18,
+    "TextStrokeColor3": "#000000",
+    "TextStrokeTransparency": 0.5,
+    "VerticalAlignment": "Top",
+    "WidthScale": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Diamond /Torrtuginni_Dragonfrutini/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "WXNXTIB76GNO" },
+  "tags": ["Brainrot"]
+}

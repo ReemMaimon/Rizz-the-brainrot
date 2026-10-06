@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Noo My Examen/Cube.011" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "TX6DDYOA7PRZ" },
+  "tags": ["Brainrot"]
+}

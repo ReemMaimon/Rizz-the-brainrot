@@ -1,0 +1,15 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "AutoButtonColor": false,
+    "BackgroundColor3": "#FFFFFF",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.6465141, 0], [0.745066, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.4840284, 0], [0.22071244, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "ZA4DMYkQZA4D" },
+  "childOrder": ["Price", "UIScale", "UIStroke", "UIGradient", "UICorner"]
+}

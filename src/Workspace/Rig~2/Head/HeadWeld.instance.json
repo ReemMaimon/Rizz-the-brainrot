@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, 0.5, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "C1": [-0.000042319298, 0.11977172, 0.5643162, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "Workspace/Rig~2/Head" },
+    "Part1": { "$ref": "Workspace/Rig/Brows/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "yRJS3cF9yRJS" }
+}

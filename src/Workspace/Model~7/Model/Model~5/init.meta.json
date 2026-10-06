@@ -1,0 +1,27 @@
+{
+  "className": "Model",
+  "name": "Model",
+  "attributes": { "_lemonadeUniqueId": "UNT4IdwcUNT4" },
+  "childOrder": [
+    "Part",
+    "Part~2",
+    "Wedge",
+    "Part~3",
+    "Part~4",
+    "Part~5",
+    "Part~6",
+    "Wedge~2",
+    "Part~7",
+    "Wedge~3",
+    "Part~8",
+    "Part~9",
+    "Wedge~4",
+    "Wedge~5",
+    "Wedge~6",
+    "Part~10",
+    "Part~11",
+    "Wedge~7",
+    "Part~12",
+    "Wedge~8"
+  ]
+}

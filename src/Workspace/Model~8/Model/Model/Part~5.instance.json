@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      332.10425,
+      8.483612,
+      -118.52669,
+      0,
+      0,
+      1.0000005,
+      -0.9914537,
+      0.13046032,
+      0,
+      -0.13046074,
+      -0.9914537,
+      0
+    ],
+    "Color": "#C4281C",
+    "TopSurface": "Smooth",
+    "size": [0.375, 0.25, 0.25]
+  },
+  "attributes": { "_lemonadeUniqueId": "Klifsoy8Klif" }
+}

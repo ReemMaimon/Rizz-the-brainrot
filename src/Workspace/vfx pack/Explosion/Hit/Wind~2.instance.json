@@ -1,0 +1,20 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Wind",
+  "properties": {
+    "Brightness": 10,
+    "Color": [[0, "#AC62FF"], [1, "#AC62FF"]],
+    "EmissionDirection": "Front",
+    "Lifetime": [0.1, 0.2],
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 60,
+    "Rotation": [-360, 360],
+    "Size": [[0, 0, 0], [0.3, 17.1887, 1.71887], [1, 29.2207, 5.1566]],
+    "Speed": [0.0034377303, 0.0034377303],
+    "SpreadAngle": [-360, 360],
+    "Texture": "rbxassetid://10176632695",
+    "Transparency": [[0, 1, 0], [0.277709, 0.7375, 0], [1, 1, 0]],
+    "ZOffset": 6.8754606
+  },
+  "attributes": { "EmitCount": 7, "EmitDelay": 0, "_lemonadeUniqueId": "RmFmioWyRmFm" }
+}

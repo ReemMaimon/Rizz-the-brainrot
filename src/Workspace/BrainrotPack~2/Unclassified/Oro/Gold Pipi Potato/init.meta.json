@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Pipi Potato/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "HQBEHMNRUQKB" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

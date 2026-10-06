@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "Workspace//smitehammer/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "IYX67VNBO3O6" }
+}

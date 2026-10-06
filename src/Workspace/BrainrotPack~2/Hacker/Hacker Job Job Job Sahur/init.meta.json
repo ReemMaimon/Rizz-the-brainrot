@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Job Job Job Sahur/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "R5F5O6LPMKJ5" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Mesh"]
+}

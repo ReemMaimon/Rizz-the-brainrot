@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Diamante/Diamond Tralaledon/Cube.009" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "OI76K2P62C33" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Cube.009"]
+}

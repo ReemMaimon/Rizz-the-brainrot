@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Pandaccini Bananini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "NSIJVLFWTNOP" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "AnimationController", "Anims"]
+}

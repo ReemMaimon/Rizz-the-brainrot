@@ -1,0 +1,23 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [0, 0, -10],
+    "Brightness": 5,
+    "EmissionDirection": "Left",
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.4, 0.4],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Orientation": "VelocityParallel",
+    "Rate": 15,
+    "Rotation": [85, 95],
+    "Size": [[0, 0, 0], [1, 2.669903, 0]],
+    "Speed": [10, 10],
+    "SpreadAngle": [5, 0],
+    "Texture": "rbxassetid://16923007448",
+    "Transparency": [[0, 1, 0], [0.4993773, 0, 0], [1, 1, 0]],
+    "ZOffset": 1
+  },
+  "attributes": { "EmitCount": 10, "EmitDelay": 0.1, "_lemonadeUniqueId": "CKDA2OOI5CRV" }
+}

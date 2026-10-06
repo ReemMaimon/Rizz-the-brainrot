@@ -1,0 +1,9 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -0.91077495, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [46.284107, 16.182917, 44.36683, 0.6579714, 0.75304294, 0, 0, 0, -1, -0.75304294, 0.6579714, 0],
+    "Part0": { "$ref": "Workspace/Mushroom 2~2/Part~3" }
+  },
+  "attributes": { "_lemonadeUniqueId": "C5FDR6EP5OFB" }
+}

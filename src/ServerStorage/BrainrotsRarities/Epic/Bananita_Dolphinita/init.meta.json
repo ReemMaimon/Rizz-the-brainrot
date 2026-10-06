@@ -1,0 +1,19 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Bananita_Dolphinita/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "BuQexG9rBuQe" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "Text",
+    "Proxy",
+    "HumanoidRootPart",
+    "Cube.015",
+    "Cube.003",
+    "Cube.002",
+    "Cube.001",
+    "Diamond"
+  ]
+}

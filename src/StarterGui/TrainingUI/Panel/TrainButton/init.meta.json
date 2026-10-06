@@ -1,0 +1,19 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "AnchorPoint": [0.5, 1],
+    "BackgroundColor3": "#FF69CA",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Heavy" },
+    "Position": [[0.5, 0], [0.94, 0]],
+    "Size": [[0.78, 0], [0.35216, 0]],
+    "Text": "TRAIN",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 17,
+    "TextWrapped": true,
+    "ZIndex": 7
+  },
+  "attributes": { "_lemonadeUniqueId": "PPRNLBFIZHOV" },
+  "childOrder": ["UICorner", "UIStroke", "ButtonCorner"]
+}

@@ -1,0 +1,19 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 10,
+    "Drag": 6,
+    "Enabled": false,
+    "Lifetime": [0.25, 0.5],
+    "LightEmission": 1,
+    "LightInfluence": 0.5,
+    "Orientation": "VelocityParallel",
+    "Size": [[0, 2, 0], [0.43556598, 1.8253335, 0], [1, 0, 0]],
+    "Speed": [50, 100],
+    "SpreadAngle": [180, 180],
+    "Squash": [[0, -1, 0], [1, -1, 0]],
+    "Texture": "rbxassetid://7216979807",
+    "Transparency": [[0, 1, 0], [0.49756598, 0, 0], [1, 0.4893334, 0]]
+  },
+  "attributes": { "EmitCount": 15, "_lemonadeUniqueId": "ockBQGFlockB" }
+}

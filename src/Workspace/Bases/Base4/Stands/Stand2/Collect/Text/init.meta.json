@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [436.7317, 4.9036093, -172.57907, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CastShadow": false,
+    "Color": "#00E300",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "Material": "SmoothPlastic",
+    "RightSurface": "Studs",
+    "Transparency": 1,
+    "size": [2.8764997, 0.30382553, 5.5578046]
+  },
+  "attributes": { "_lemonadeUniqueId": "VfsLURCoVfsL" }
+}

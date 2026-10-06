@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Strawberrelli Flamingelli/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "WDA4EFFPTV76" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Mesh"]
+}

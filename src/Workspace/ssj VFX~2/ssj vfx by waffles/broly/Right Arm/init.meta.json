@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [859.7109, 4.4335303, -68.59039, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Color": "#7F7F7F",
+    "size": [1, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "ZGO6TNGDWGOM" },
+  "childOrder": ["RightShoulderAttachment", "RightGripAttachment"]
+}

@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [383.6376, 12.544339, -180.52626, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CastShadow": false,
+    "Color": "#1B2A35",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "Material": "SmoothPlastic",
+    "RightSurface": "Studs",
+    "Transparency": 0.8,
+    "size": [1.2158796, 13.247008, 38.79267]
+  },
+  "attributes": { "_lemonadeUniqueId": "KEZASRLJ4NQG" }
+}

@@ -1,0 +1,24 @@
+{
+  "className": "Attachment",
+  "attributes": { "_lemonadeUniqueId": "HOGj17GCHOGj" },
+  "childOrder": [
+    "ParticleEmitter",
+    "BLACKSHARDS",
+    "ground1",
+    "ParticleEmitter~2",
+    "crescents",
+    "impact",
+    "ParticleEmitter~3",
+    "crescentblack(4",
+    "ParticleEmitter~4",
+    "impact2",
+    "glow(1)",
+    "ParticleEmitter~5",
+    "brightershards",
+    "ParticleEmitter~6",
+    "ParticleEmitter~7",
+    "rocks(14",
+    "flash(1",
+    "ParticleEmitter~8"
+  ]
+}

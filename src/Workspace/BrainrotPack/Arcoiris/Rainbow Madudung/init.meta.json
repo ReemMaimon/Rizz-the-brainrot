@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Madudung/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "PQU6CNMI3GA3" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

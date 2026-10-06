@@ -1,0 +1,20 @@
+{
+  "className": "ScreenGui",
+  "properties": { "ScreenInsets": "DeviceSafeInsets", "ZIndexBehavior": "Sibling" },
+  "attributes": { "_lemonadeUniqueId": "PvRu23H9PvRu" },
+  "childOrder": [
+    "BrainrotInfoController",
+    "Buttons",
+    "Rebirth",
+    "Index",
+    "CoinsShop",
+    "LeftBottom",
+    "Frame",
+    "ErrorGui",
+    "TutorialFrame",
+    "ServerVersion",
+    "Shop",
+    "BrainrotInfoPanel",
+    "AbilityCardShop"
+  ]
+}

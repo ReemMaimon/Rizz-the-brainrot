@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      326.10425,
+      8.483719,
+      -118.527054,
+      0,
+      0,
+      1.0000005,
+      -0.99143875,
+      0.13057417,
+      0,
+      -0.13057458,
+      -0.99143875,
+      0
+    ],
+    "Color": "#C4281C",
+    "TopSurface": "Smooth",
+    "size": [0.375, 0.25, 0.25]
+  },
+  "attributes": { "_lemonadeUniqueId": "PKYDM2O3G34K" }
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Pipi Potato/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "25FQ22EMAIWU" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "AnimationController", "Anims"]
+}

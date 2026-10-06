@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [764.95013, 5.692204, 13.206107, 0.6579714, 0, 0.75304294, 0, 1, 0, -0.75304294, 0, 0.6579714],
+    "Color": "#BFBFBF",
+    "TopSurface": "Smooth",
+    "size": [0.62153256, 0.53491306, 1.0131481]
+  },
+  "attributes": { "_lemonadeUniqueId": "VLTSQ5N6P6FE" }
+}

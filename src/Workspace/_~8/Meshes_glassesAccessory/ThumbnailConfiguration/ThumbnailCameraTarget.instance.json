@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "Workspace//Meshes/glassesAccessory/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "6XQKESLK4I4J" }
+}

@@ -1,0 +1,5 @@
+{
+  "className": "EqualizerSoundEffect",
+  "properties": { "HighGain": 10, "LowGain": 10, "MidGain": -0.8 },
+  "attributes": { "_lemonadeUniqueId": "YTJVmBy2YTJV" }
+}

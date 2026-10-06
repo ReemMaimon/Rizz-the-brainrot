@@ -1,0 +1,15 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "AutoButtonColor": false,
+    "BackgroundColor3": "#D40004",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "ImageColor3": "#FF0004",
+    "Position": [[0.93891513, 0], [0.52848136, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.08733624, 0], [0.877193, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "sVhUEuk0sVhU" }
+}

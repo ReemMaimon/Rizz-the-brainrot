@@ -1,0 +1,17 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Auras/RNG-Aura-01/HumanoidRootPart/BeamAttachment~4" },
+    "Attachment1": { "$ref": "Workspace/Auras/RNG-Aura-01/HumanoidRootPart/BeamAttachment~8" },
+    "Brightness": 5,
+    "Color": [[0, "#D174FF"], [1, "#D174FF"]],
+    "CurveSize0": 5,
+    "CurveSize1": -5,
+    "LightEmission": 1,
+    "Segments": 50,
+    "Texture": "rbxassetid://12781812529",
+    "Width0": 7.5,
+    "Width1": 7.5
+  },
+  "attributes": { "_lemonadeUniqueId": "7cdOqsLZ7cdO" }
+}

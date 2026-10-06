@@ -1,0 +1,10 @@
+{
+  "className": "Highlight",
+  "properties": {
+    "DepthMode": "Occluded",
+    "FillColor": [1, 0.94, 0.82],
+    "FillTransparency": 1,
+    "OutlineColor": [1, 0.94, 0.82]
+  },
+  "attributes": { "_lemonadeUniqueId": "fJiDst3pfJiD" }
+}

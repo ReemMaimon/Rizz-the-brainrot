@@ -1,0 +1,7 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ReplicatedStorage/AbilityFaces/Sigma Face Model/{6de41eb6-4beb-4eda-b556-064c2bde2afe}" }
+  },
+  "attributes": { "_lemonadeUniqueId": "S6P5X6KY5GQC" }
+}

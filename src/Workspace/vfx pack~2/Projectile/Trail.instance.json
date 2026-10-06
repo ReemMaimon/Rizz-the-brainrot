@@ -1,0 +1,28 @@
+{
+  "className": "Trail",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/vfx pack~2/Projectile/Attachment1" },
+    "Attachment1": { "$ref": "Workspace/vfx pack~2/Projectile/Attachment2" },
+    "Brightness": 4.5,
+    "Color": [
+      [0, "#000000"],
+      [0.0829016, "#AAAAFF"],
+      [0.274611, "#AA55FF"],
+      [0.900166, [0.00443706, 0.00871748, 0.0133111]],
+      [1, "#000000"]
+    ],
+    "FaceCamera": true,
+    "Lifetime": 0.25,
+    "Texture": "rbxassetid://9035707329",
+    "Transparency": [[0, 0, 0], [1, 0, 0]],
+    "WidthScale": [
+      [0, 0, 0],
+      [0.0435897, 0.1875, 0],
+      [0.164103, 1, 0],
+      [0.285256, 0.2875, 0],
+      [0.421154, 0.13125, 0],
+      [1, 0, 0]
+    ]
+  },
+  "attributes": { "_lemonadeUniqueId": "SYNG6MMZ6IBU" }
+}

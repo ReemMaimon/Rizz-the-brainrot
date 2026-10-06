@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Chef Crabracadabra/Mesh" }
+  },
+  "attributes": { "Offset": 0.5, "ZOffset": -0.5, "_lemonadeUniqueId": "U7SIV2KJK4KZ" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

@@ -1,0 +1,13 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundTransparency": 1,
+    "Image": "rbxassetid://139489652867400",
+    "Position": [[0.5, 0], [0.5, 0]],
+    "ScaleType": "Fit",
+    "Size": [[1.003, 0], [1.005, 0]],
+    "ZIndex": 2
+  },
+  "attributes": { "_lemonadeUniqueId": "nT52E3XZnT52" }
+}

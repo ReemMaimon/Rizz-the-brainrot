@@ -1,0 +1,12 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [465.56335, 7.793122, -90.312164, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "HasSkinnedMesh": true,
+    "MeshId": "rbxassetid://110562471795285",
+    "PivotOffset": [-8.0466265e-8, -2.1119292, -1.1004409, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "TextureID": "rbxassetid://115435298217347",
+    "size": [1.4297032, 1.3659735, 0.42604277]
+  },
+  "attributes": { "_lemonadeUniqueId": "FY4V0BNbFY4V" }
+}

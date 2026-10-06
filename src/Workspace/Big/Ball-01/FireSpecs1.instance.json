@@ -1,0 +1,19 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#CE390F"], [1, "#CE390F"]],
+    "Drag": 1,
+    "EmissionDirection": "Front",
+    "Lifetime": [0.5, 0.75],
+    "LockedToPart": true,
+    "Rate": 125,
+    "ShapeStyle": "Surface",
+    "Size": [[0, 0, 0], [0.25714287, 2.7184463, 0], [1, 0, 0]],
+    "Speed": [-40, -40],
+    "SpreadAngle": [20, 20],
+    "Texture": "rbxassetid://11187840108",
+    "Transparency": [[0, 1, 0], [0.29265255, 0, 0], [1, 0, 0]]
+  },
+  "attributes": { "EmitDelay": 0, "_lemonadeUniqueId": "oxB78QMyoxB7" }
+}

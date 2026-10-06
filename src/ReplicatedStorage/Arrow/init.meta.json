@@ -1,0 +1,7 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ReplicatedStorage/Arrow/MainPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "X9z6Or1pX9z6" }
+}

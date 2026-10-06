@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "Position": [[0.04, 0], [0.19, 0]],
+    "Size": [[0.42, 0], [0.42000002, 0]],
+    "Text": "HP: 0 / 0\nRizz: 0\nRizz Level: 1\nMana: 0 / 0",
+    "TextColor3": "#EBF0FF",
+    "TextSize": 18,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "FS0QiMOoFS0Q" }
+}

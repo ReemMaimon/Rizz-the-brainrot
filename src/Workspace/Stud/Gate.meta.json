@@ -1,0 +1,12 @@
+{
+  "className": "UnionOperation",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [663.38824, 2.0982232, 13.783165, -0.2756374, 0, 0.9612617, 0, 1, 0, -0.9612617, 0, -0.2756374],
+    "CastShadow": false,
+    "Color": "#956A4E",
+    "UsePartColor": true,
+    "size": [0.7023264, 4.389272, 6.3205357]
+  },
+  "attributes": { "_lemonadeUniqueId": "UKLRG5PQDC5D" }
+}

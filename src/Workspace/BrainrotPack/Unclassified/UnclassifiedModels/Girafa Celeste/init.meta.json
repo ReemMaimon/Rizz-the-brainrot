@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Girafa Celeste/Mesh" }
+  },
+  "attributes": { "Offset": 1, "ZOffset": 2.3, "_lemonadeUniqueId": "4XBGGNBHCN7X" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

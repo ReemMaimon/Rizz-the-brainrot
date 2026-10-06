@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "properties": { "CFrame": [0.45914847, 0.30064905, -0.0286558, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "L2FAAOMQ3C24" },
+  "childOrder": ["OriginalPosition", "JointRotation"]
+}

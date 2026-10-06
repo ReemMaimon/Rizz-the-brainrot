@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "properties": { "CFrame": [0, 0, -1, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "2TFV57DG6YPT" },
+  "childOrder": ["Smoke", "Fire", "Fire2"]
+}

@@ -1,0 +1,23 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [
+      8.65839e-9,
+      0.025000095,
+      0.19972776,
+      1,
+      7.8713756e-9,
+      -3.2622303e-24,
+      -7.8713756e-9,
+      1,
+      -4.144422e-16,
+      0,
+      4.144422e-16,
+      1
+    ],
+    "C1": [0, 0.6, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "Workspace/_~5/ROBLOXCap/Handle" },
+    "Part1": { "$ref": "Workspace//Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "cpPKBLE8cpPK" }
+}

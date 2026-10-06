@@ -1,0 +1,5 @@
+{
+  "className": "Humanoid",
+  "attributes": { "_lemonadeUniqueId": "SDVVCVJOBSU5" },
+  "childOrder": ["HumanoidDescription", "Animator"]
+}

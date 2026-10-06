@@ -1,0 +1,18 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 15,
+    "Color": [[0, "#FF557F"], [1, "#FF557F"]],
+    "Drag": 1,
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.5, 0.85],
+    "Orientation": "FacingCameraWorldUp",
+    "Rate": 10,
+    "Size": [[0, 0, 0], [0.25, 0.25, 0.25], [1, 0, 0]],
+    "Speed": [0.5, 3],
+    "Texture": "rbxassetid://86448734575922",
+    "ZOffset": 0.15
+  },
+  "attributes": { "_lemonadeUniqueId": "R66JHFHM4J5A" }
+}

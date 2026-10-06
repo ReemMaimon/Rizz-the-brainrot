@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Hacker /Orcalero_Orcala/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "X3VP4UEMSN3B" },
+  "tags": ["Brainrot"]
+}

@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "Sigma face wind VFX ",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [736.818, 3.918757, -67.62503, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "IWBgetWgIWBg" }
+}

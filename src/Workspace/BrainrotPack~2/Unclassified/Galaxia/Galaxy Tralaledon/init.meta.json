@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Galaxia/Galaxy Tralaledon/Cube.009" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "U47N2SKRLLSY" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Cube.009"]
+}

@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "name": "cresent 2",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [954.0814, 475.55496, -856.0862, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "Color": "#000000",
+    "TopSurface": "Smooth",
+    "size": [5, 5, 0.25]
+  },
+  "attributes": { "_lemonadeUniqueId": "ki7PYuACki7P" }
+}

@@ -1,0 +1,25 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 1],
+    "BackgroundColor3": "#141623",
+    "BackgroundTransparency": 0.1,
+    "Position": [[0.5, 0], [1, -20]],
+    "Size": [[0.25, 0], [0, 120]],
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "CxnCVWmQCxnC" },
+  "childOrder": [
+    "Corner",
+    "Stroke",
+    "BrainrotName",
+    "Rarity",
+    "Hint",
+    "Padding",
+    "Layout",
+    "SizeConstraint",
+    "StartEncounterButton",
+    "Feedback",
+    "CompactScale"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Rare/Gangster_Footera/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 1.3, "_lemonadeUniqueId": "EVRHE6EHFUOK" },
+  "tags": ["Brainrot"]
+}

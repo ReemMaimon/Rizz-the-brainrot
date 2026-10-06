@@ -1,0 +1,5 @@
+{
+  "className": "UITextSizeConstraint",
+  "properties": { "MaxTextSize": 20, "MinTextSize": 10 },
+  "attributes": { "_lemonadeUniqueId": "EPN7ECMWFSOE" }
+}

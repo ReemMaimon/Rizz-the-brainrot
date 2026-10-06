@@ -1,0 +1,9 @@
+{
+  "className": "WrapTarget",
+  "properties": {
+    "CageMeshId": "https://assetdelivery.roblox.com/v1/asset/?id=14915799437",
+    "CageOrigin": [0.013386488, -0.010107815, -0.0011482686, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "ImportOrigin": [-1.370187, -0.502684, -0.027635217, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "OJ2PZUCJRQLC" }
+}

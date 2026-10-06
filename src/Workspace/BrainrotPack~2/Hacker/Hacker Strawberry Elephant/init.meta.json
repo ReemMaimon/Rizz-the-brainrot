@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Strawberry Elephant/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "LKR3RZJPBWLM" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

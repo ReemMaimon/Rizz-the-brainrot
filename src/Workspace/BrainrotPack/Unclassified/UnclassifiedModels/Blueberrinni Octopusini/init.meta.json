@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Blueberrinni Octopusini/Mesh" }
+  },
+  "attributes": { "Offset": 3.6, "ZOffset": 0.2, "_lemonadeUniqueId": "TTSMOGIMQYSS" },
+  "tags": ["Brainrot"]
+}

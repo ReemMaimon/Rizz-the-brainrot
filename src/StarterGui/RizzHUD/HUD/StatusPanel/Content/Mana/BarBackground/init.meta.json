@@ -1,0 +1,13 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#303444",
+    "Position": [[0, 0], [0.95840925, 0]],
+    "Size": [[1, 0], [0.25, 0]]
+  },
+  "attributes": {
+    "OrigBarPos": "0.479166657, 0",
+    "OrigBarPos2": "0.824810743, 0",
+    "_lemonadeUniqueId": "omc8zoGMomc8"
+  }
+}

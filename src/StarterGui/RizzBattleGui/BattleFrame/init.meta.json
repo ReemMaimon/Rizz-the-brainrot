@@ -1,0 +1,27 @@
+{
+  "className": "Frame",
+  "properties": {
+    "Active": true,
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#181C2A",
+    "BackgroundTransparency": 0.08,
+    "Position": [[0.5, 0], [0.72, 0]],
+    "Size": [[0.48, 0], [0.3, 0]],
+    "ZIndex": 10
+  },
+  "attributes": { "_lemonadeUniqueId": "k7v6f2KKk7v6" },
+  "childOrder": [
+    "TimerLabel",
+    "PlayerStats",
+    "StatusLabel",
+    "SizeConstraint",
+    "PlayerTitle",
+    "TurnLabel",
+    "Stroke",
+    "Corner",
+    "AbilityPanel",
+    "BrainrotStats",
+    "BrainrotTitle",
+    "CompactScale"
+  ]
+}

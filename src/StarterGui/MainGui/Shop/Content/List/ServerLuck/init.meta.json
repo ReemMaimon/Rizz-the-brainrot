@@ -1,0 +1,12 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.021625355, 0], [0.011701674, 0]],
+    "Size": [[0.95674926, 0], [0.36054844, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "3D305Za03D30" }
+}

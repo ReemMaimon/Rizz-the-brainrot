@@ -1,0 +1,23 @@
+{
+  "className": "TextLabel",
+  "name": "ItemName",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.22877772, 0], [0.3965916, 0]],
+    "Size": [[0.40551636, 0], [0.21772738, 0]],
+    "Text": "Get Admin Commands",
+    "TextColor3": "#D6D6D6",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "Wxe7V1GAWxe7" },
+  "tags": ["RainbowText"],
+  "childOrder": ["UIStroke", "UIGradient"]
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": { "_lemonadeUniqueId": "X7RN24GEE2JJ" },
+  "childOrder": [
+    "jump",
+    "idle",
+    "point",
+    "laugh",
+    "toollunge",
+    "toolslash",
+    "toolnone",
+    "wave",
+    "swim",
+    "swimidle",
+    "walk",
+    "PlayEmote",
+    "sit",
+    "ScaleDampeningPercent",
+    "dance2",
+    "dance",
+    "mood",
+    "run",
+    "cheer",
+    "dance3",
+    "fall",
+    "climb"
+  ]
+}

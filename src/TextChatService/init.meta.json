@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "ChatVersion": "TextChatService",
+    "CreateDefaultCommands": true,
+    "CreateDefaultTextChannels": true
+  },
+  "childOrder": [
+    "ChatWindowConfiguration",
+    "ChatInputBarConfiguration",
+    "BubbleChatConfiguration",
+    "ChannelTabsConfiguration"
+  ]
+}

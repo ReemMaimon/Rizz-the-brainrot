@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Smurfo Gatto/Cube.134" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "5SDTG6D4TYDO" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Cube.134", "AnimationController"]
+}

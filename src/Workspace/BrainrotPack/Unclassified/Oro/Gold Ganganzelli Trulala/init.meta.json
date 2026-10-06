@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Ganganzelli Trulala/Plane.002" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "KDOPYDOF6BGQ" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Plane.002", "AnimationController", "Anims"]
+}

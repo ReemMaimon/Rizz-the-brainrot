@@ -1,0 +1,15 @@
+{
+  "className": "BillboardGui",
+  "properties": {
+    "Active": true,
+    "ClipsDescendants": true,
+    "DistanceUpperLimit": -0.835841,
+    "Enabled": false,
+    "LightInfluence": 1,
+    "MaxDistance": 96.56399,
+    "Size": [[3.343364, 0], [2.6746912, 0]],
+    "ZIndexBehavior": "Sibling"
+  },
+  "attributes": { "_lemonadeUniqueId": "M7saZ80mM7sa" },
+  "childOrder": ["AmountToTake", "UIListLayout", "CollectText"]
+}

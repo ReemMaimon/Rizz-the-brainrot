@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [834.276, 5.363022, -181.05736, 0.8001596, 0, 0.59978724, 0, 1, 0, -0.59978724, 0, 0.8001596],
+    "Color": "#910000",
+    "TopSurface": "Smooth",
+    "size": [1.5898284, 0.50382054, 1.8712949]
+  },
+  "attributes": { "_lemonadeUniqueId": "GKODYLCALNUW" }
+}

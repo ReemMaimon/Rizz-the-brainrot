@@ -1,0 +1,20 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.5151833, 0], [-0.040785067, 0]],
+    "Size": [[0.81029654, 0], [0.20679751, 0]],
+    "Text": "You Will Unlock: ",
+    "TextColor3": "#FFEC20",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "7k6gkmM47k6g" }
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Diamante/Diamond Yess My Examen/Cube.021" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "7TX3XHL4QHVE" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.021", "AnimationController"]
+}

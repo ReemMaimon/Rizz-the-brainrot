@@ -1,0 +1,10 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#2A2F42",
+    "BackgroundTransparency": 0.18,
+    "LayoutOrder": 6,
+    "Size": [[1, 0], [0.104909614, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "ohqJAgrdohqJ" }
+}

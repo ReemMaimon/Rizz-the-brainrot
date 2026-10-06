@@ -1,0 +1,28 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      137.55135,
+      1.2133613,
+      -62.18641,
+      0.9999973,
+      0,
+      0.0000074207783,
+      0,
+      1,
+      0,
+      -0.000010460615,
+      0,
+      1.0000019
+    ],
+    "Color": "#FFFF00",
+    "Material": "Neon",
+    "TopSurface": "Smooth",
+    "Transparency": 0.7,
+    "size": [15.001285, 0.10778702, 15.001285]
+  },
+  "attributes": { "_lemonadeUniqueId": "XGZU43FMNVN5" },
+  "childOrder": ["Weld", "Mesh", "Spin", "Part"]
+}

@@ -1,0 +1,18 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://126131926164992",
+    "LayoutOrder": 1,
+    "Position": [[0.5091894, 0], [0.5137811, 0]],
+    "Size": [[0.95466423, 0], [0.41453546, 0]],
+    "ZIndex": 5
+  },
+  "attributes": { "_lemonadeUniqueId": "zLEtheggzLEt" },
+  "tags": ["StarterPack"],
+  "childOrder": ["TitleName", "Buy", "ItemName", "Items", "ItemName~2", "UIStroke", "UIGradient", "UICorner"]
+}

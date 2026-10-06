@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "Position": [[0.54, 0], [0.05, 0]],
+    "Size": [[0.42, 0], [0.12, 0]],
+    "Text": "BRAINROT",
+    "TextColor3": "#FFB478",
+    "TextSize": 22,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "iSHq5XhBiSHq" }
+}

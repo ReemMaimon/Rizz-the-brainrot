@@ -1,0 +1,6 @@
+{
+  "className": "CharacterMesh",
+  "name": "CharacterMesh",
+  "properties": { "BodyPart": "LeftLeg", "MeshId": 81487640 },
+  "attributes": { "_lemonadeUniqueId": "dLoi7unbdLoi" }
+}

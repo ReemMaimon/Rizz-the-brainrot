@@ -1,0 +1,6 @@
+{
+  "className": "CharacterMesh",
+  "name": "CharacterMesh",
+  "properties": { "BodyPart": "Torso", "MeshId": 82907945 },
+  "attributes": { "_lemonadeUniqueId": "VI7V6JKJ4MRA" }
+}

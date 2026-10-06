@@ -1,0 +1,16 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [849.91956, 483.28934, -1077.7861, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [0.5, 0.5, 0.5]
+  },
+  "attributes": { "_lemonadeUniqueId": "acv1XjjLacv1" },
+  "childOrder": ["Trail", "Main", "Attachment1", "Attachment2"]
+}

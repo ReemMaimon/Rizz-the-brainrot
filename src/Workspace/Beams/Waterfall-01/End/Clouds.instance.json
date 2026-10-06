@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "EmissionDirection": "Front",
+    "Lifetime": [1.1, 1.1],
+    "LockedToPart": true,
+    "Rate": 10,
+    "Rotation": [-360, 360],
+    "Speed": [1, 1],
+    "SpreadAngle": [0, 360],
+    "Texture": "http://www.roblox.com/asset/?id=275871881",
+    "Transparency": [[0, 1, 0], [0.49875313, 0, 0], [1, 1, 0]],
+    "ZOffset": 1
+  },
+  "attributes": { "_lemonadeUniqueId": "PgTHe6Z3PgTH" }
+}

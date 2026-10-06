@@ -1,0 +1,25 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      630.2053,
+      4.3246374,
+      -178.67169,
+      0.5387599,
+      -0.16923928,
+      0.8252822,
+      0.2996901,
+      0.954033,
+      -1.9500947e-8,
+      -0.78735113,
+      0.24732877,
+      0.5647141
+    ],
+    "Color": "#A100A1",
+    "TopSurface": "Smooth",
+    "size": [0.22564831, 0.12249511, 0.2882091]
+  },
+  "attributes": { "_lemonadeUniqueId": "BYHG2EARKIIS" }
+}

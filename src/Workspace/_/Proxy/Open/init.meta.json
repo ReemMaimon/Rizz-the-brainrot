@@ -1,0 +1,5 @@
+{
+  "className": "ProximityPrompt",
+  "properties": { "ActionText": "Open Tools Shop", "MaxActivationDistance": 15, "RequiresLineOfSight": false },
+  "attributes": { "_lemonadeUniqueId": "Z62HO2D75MFI" }
+}

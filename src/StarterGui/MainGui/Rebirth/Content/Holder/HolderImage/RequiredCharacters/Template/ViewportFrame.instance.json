@@ -1,0 +1,14 @@
+{
+  "className": "ViewportFrame",
+  "properties": {
+    "Ambient": "#FFFFFF",
+    "BackgroundColor3": "#000000",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "LightColor": "#FFFFFF",
+    "Position": [[0, 0], [0.07000009, 0]],
+    "Size": [[1, 0], [0.9262939, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "6tlECYAc6tlE" }
+}

@@ -1,0 +1,14 @@
+{
+  "className": "Sky",
+  "properties": {
+    "CelestialBodiesShown": false,
+    "SkyboxBk": "http://www.roblox.com/Asset/?ID=401664839",
+    "SkyboxDn": "http://www.roblox.com/Asset/?ID=401664862",
+    "SkyboxFt": "http://www.roblox.com/Asset/?ID=401664960",
+    "SkyboxLf": "http://www.roblox.com/Asset/?ID=401664881",
+    "SkyboxRt": "http://www.roblox.com/Asset/?ID=401664901",
+    "SkyboxUp": "http://www.roblox.com/Asset/?ID=401664936",
+    "StarCount": 0
+  },
+  "attributes": { "_lemonadeUniqueId": "9QObzFp79QOb" }
+}

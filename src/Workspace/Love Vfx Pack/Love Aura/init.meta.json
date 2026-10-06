@@ -1,0 +1,22 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/Love Vfx Pack/Love Aura/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "EGN32DGRX6SS" },
+  "childOrder": [
+    "Head",
+    "Accessory (Meshes_gojohairAccessory)",
+    "Shirt",
+    "Pants",
+    "Body Colors",
+    "HumanoidRootPart",
+    "Humanoid",
+    "Torso",
+    "Left Arm",
+    "Right Arm",
+    "auraPart",
+    "Left Leg",
+    "Right Leg"
+  ]
+}

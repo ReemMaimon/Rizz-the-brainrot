@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Bold" },
+    "LayoutOrder": 1,
+    "Position": [[0, 0], [0.024273274, 0]],
+    "Size": [[1, 0], [0.1, 0]],
+    "Text": "Rizz status",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 34,
+    "TextWrapped": true,
+    "TextXAlignment": "Left"
+  },
+  "attributes": {
+    "OrigTextScaled": false,
+    "OrigTextSize": 34,
+    "OrigTitleHeight": "0.0650027841, 0",
+    "_lemonadeUniqueId": "Dv6kyjOeDv6k"
+  }
+}

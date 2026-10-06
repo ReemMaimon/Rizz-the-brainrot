@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Triplito Tralaleritos/Cube.023" }
+  },
+  "attributes": { "_lemonadeUniqueId": "PZCLANE4MNBP" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Cube.023"]
+}

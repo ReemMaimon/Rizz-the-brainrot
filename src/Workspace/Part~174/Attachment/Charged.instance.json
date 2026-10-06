@@ -1,0 +1,16 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 10,
+    "Color": [[0, "#94E6FF"], [1, "#94E6FF"]],
+    "Enabled": false,
+    "Lifetime": [0.5, 0.5],
+    "LightEmission": 1,
+    "LightInfluence": 0.5,
+    "Size": [[0, 0, 0], [1, 15.376506, 0]],
+    "Speed": [0, 0],
+    "Texture": "http://www.roblox.com/asset/?id=249902641",
+    "Transparency": [[0, 0.48266673, 0], [1, 1, 0]]
+  },
+  "attributes": { "EmitCount": 1, "_lemonadeUniqueId": "c1JE7ai0c1JE" }
+}

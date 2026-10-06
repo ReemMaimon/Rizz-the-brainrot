@@ -1,0 +1,14 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": "#000000",
+    "BackgroundTransparency": 0.5,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "LayoutOrder": 1,
+    "ScaleType": "Fit",
+    "Size": [[0, 241], [0, 241]]
+  },
+  "attributes": { "_lemonadeUniqueId": "xKf89l2ExKf8" },
+  "childOrder": ["NameLabel", "RarityLabel", "UICorner", "Locked"]
+}

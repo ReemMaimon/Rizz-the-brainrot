@@ -1,0 +1,15 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "LayoutOrder": 5,
+    "Position": [[0.49927714, 0], [0.40084162, 0]],
+    "Size": [[1, 0], [0.75, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "fmoRbMW6fmoR" },
+  "childOrder": ["1227013099", "UIGridLayout", "Main"]
+}

@@ -1,0 +1,23 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Strange VFX",
+  "properties": {
+    "Brightness": 6,
+    "Color": [
+      [0, [0.9882811, 0.86825114, 0.20346965]],
+      [1, [0.9882811, 0.86825114, 0.20346965]]
+    ],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.7, 1.3],
+    "LightEmission": -0.5,
+    "LockedToPart": true,
+    "Rotation": [-360, 360],
+    "Size": [[0, 2.0802276, 0], [1, 2.0802276, 0]],
+    "Speed": [0.008320914, 0.008320914],
+    "Texture": "rbxassetid://18369800560",
+    "Transparency": [[0, 0.5, 0], [1, 0.5, 0]],
+    "ZOffset": -1
+  },
+  "attributes": { "_lemonadeUniqueId": "L2QTRGCCJEYN" }
+}

@@ -1,0 +1,20 @@
+{
+  "className": "Bone",
+  "properties": {
+    "CFrame": [
+      0.000004012448,
+      1.5021864,
+      2.50778e-7,
+      1,
+      0,
+      0,
+      0,
+      -0.007797718,
+      -0.9999696,
+      0,
+      0.9999696,
+      -0.007797718
+    ]
+  },
+  "attributes": { "_lemonadeUniqueId": "PFHCCWFRLP7E" }
+}

@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Heavy" },
+    "LayoutOrder": 1,
+    "Position": [[0.5000002, 0], [0.041493744, 0]],
+    "Size": [[0.8755187, 0], [0.22594292, 0]],
+    "Text": "Steve",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "ZIndex": 3
+  },
+  "attributes": { "_lemonadeUniqueId": "h7l3VUC2h7l3" }
+}

@@ -1,0 +1,16 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Regular" },
+    "Position": [[0.18, 0], [0.38, 0]],
+    "Size": [[0.55, 0], [0.35, 0]],
+    "Text": "Three cards with a chance to unlock new moves.",
+    "TextColor3": "#BECDE6",
+    "TextScaled": true,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "TextYAlignment": "Top"
+  },
+  "attributes": { "_lemonadeUniqueId": "Uoe8sUUQUoe8" }
+}

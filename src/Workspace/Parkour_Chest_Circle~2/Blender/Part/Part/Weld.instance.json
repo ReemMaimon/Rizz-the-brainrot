@@ -1,0 +1,23 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, 0.053893566, -0.000004470802, 1, -0.0000030398935, 0, 0, 0, 1, -0.0000030398933, -1, 0],
+    "C1": [
+      -8.636196,
+      -4.5127425,
+      0.5470116,
+      -0.8201579,
+      -0.5721293,
+      0.0030307928,
+      0.0014949923,
+      0.0031542603,
+      0.9999939,
+      -0.5721354,
+      0.8201574,
+      -0.0017316624
+    ],
+    "Part0": { "$ref": "Workspace/Parkour_Chest_Circle~2/Blender/Part/Part" },
+    "Part1": { "$ref": "Workspace/Parkour_Chest/Model/Meshes/Reward Chest" }
+  },
+  "attributes": { "_lemonadeUniqueId": "ZWFWXBHJGNKS" }
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Pipi Potato/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "FPEGOHLWT4DH" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

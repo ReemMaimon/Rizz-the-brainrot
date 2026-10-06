@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [1052.1187, 479.17996, -929.63104, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "EnableFluidForces": false,
+    "size": [1, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "t4p10FUat4p1" },
+  "childOrder": ["RightGripAttachment", "RightShoulderAttachment", "RA"]
+}

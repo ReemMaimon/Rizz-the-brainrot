@@ -1,0 +1,25 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      665.1718,
+      1.1835191,
+      6.870109,
+      0.9019625,
+      -0.19780475,
+      0.38384646,
+      0.18740739,
+      0.98014766,
+      0.06472242,
+      -0.38902858,
+      0.013558477,
+      0.92112637
+    ],
+    "Color": "#005E16",
+    "TopSurface": "Smooth",
+    "size": [0.3511417, 2.0190651, 0.35114175]
+  },
+  "attributes": { "_lemonadeUniqueId": "BUYEYJL7B7RQ" }
+}

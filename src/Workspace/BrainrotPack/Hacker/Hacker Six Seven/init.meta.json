@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Six Seven/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "GRGV6YGYEVDI" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

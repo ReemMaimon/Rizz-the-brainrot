@@ -1,0 +1,12 @@
+{
+  "className": "WrapLayer",
+  "properties": {
+    "CageMeshId": "https://assetdelivery.roblox.com/v1/asset/?id=11822598747",
+    "CageOrigin": [-0.000042319298, -0.2893572, 0.5643182, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "ImportOrigin": [0, -2.627973, -0.000099778175, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Order": 2,
+    "ReferenceMeshId": "https://assetdelivery.roblox.com/v1/asset/?id=11822598758",
+    "ReferenceOrigin": [-0.000042319298, -0.2893572, 0.5643182, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "EKKBCGJCHLYG" }
+}

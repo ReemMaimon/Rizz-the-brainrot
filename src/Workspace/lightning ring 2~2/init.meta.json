@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "name": "lightning ring 2",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [964.0814, 475.55496, -868.5862, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "Color": "#000000",
+    "TopSurface": "Smooth",
+    "size": [5, 5, 0.25]
+  },
+  "attributes": { "_lemonadeUniqueId": "0EYJVqFb0EYJ" }
+}

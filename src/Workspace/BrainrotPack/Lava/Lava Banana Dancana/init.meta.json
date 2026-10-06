@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Banana Dancana/Cube.092" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "NSY44RNOQQJS" },
+  "tags": ["Brainrot"]
+}

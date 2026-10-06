@@ -1,0 +1,9 @@
+{
+  "className": "WrapTarget",
+  "properties": {
+    "CageMeshId": "rbxassetid://130900895221582",
+    "CageOrigin": [-0.000066399574, 0.008567095, 0.008448064, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "ImportOrigin": [0.000066399574, -2.545669, -0.008545876, 1, 0, 0, 0, 1, 0, 0, 0, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "F7ZMW4GLRM5I" }
+}

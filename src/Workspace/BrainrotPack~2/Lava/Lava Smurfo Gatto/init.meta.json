@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Smurfo Gatto/Cube.134" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "DECS4QBRXX2D" },
+  "tags": ["Brainrot"]
+}

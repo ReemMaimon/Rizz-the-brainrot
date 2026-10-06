@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Rare/Mutations/Gold/Gold_Boneca_Ambalabu/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "XVCMLLBHZVGE" },
+  "tags": ["Brainrot"]
+}

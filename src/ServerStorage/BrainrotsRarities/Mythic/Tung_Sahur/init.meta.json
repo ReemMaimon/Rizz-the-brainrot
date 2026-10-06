@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Tung_Sahur/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": -0.5, "_lemonadeUniqueId": "V5IRXXNBSHSH" },
+  "tags": ["Brainrot"]
+}

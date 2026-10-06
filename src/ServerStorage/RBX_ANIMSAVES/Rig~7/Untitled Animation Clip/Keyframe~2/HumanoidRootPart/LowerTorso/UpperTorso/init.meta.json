@@ -1,0 +1,21 @@
+{
+  "className": "Pose",
+  "properties": {
+    "CFrame": [
+      0,
+      0,
+      -0.000022888184,
+      0.99714315,
+      -1.4198177e-8,
+      0.075547256,
+      -1.9929681e-8,
+      1.000001,
+      -6.57875e-9,
+      -0.07554743,
+      -1.7417133e-8,
+      0.99714226
+    ]
+  },
+  "attributes": { "_lemonadeUniqueId": "SuHgGLFJSuHg" },
+  "childOrder": ["RightUpperArm", "Head"]
+}

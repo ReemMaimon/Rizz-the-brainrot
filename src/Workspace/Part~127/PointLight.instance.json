@@ -1,0 +1,5 @@
+{
+  "className": "PointLight",
+  "properties": { "Range": 25 },
+  "attributes": { "_lemonadeUniqueId": "68eVsRft68eV" }
+}

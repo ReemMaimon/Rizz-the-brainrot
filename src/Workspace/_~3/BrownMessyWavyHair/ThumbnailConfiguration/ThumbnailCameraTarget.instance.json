@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "Workspace//BrownMessyWavyHair/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "ucXd9esEucXd" }
+}

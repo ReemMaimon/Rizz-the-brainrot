@@ -1,0 +1,11 @@
+{
+  "className": "AnimationConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/LeftLowerArm/LeftWristRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/LeftHand/LeftWristRigAttachment" },
+    "IsKinematic": true,
+    "MaxForce": 0,
+    "MaxTorque": 3000
+  },
+  "attributes": { "_lemonadeUniqueId": "7RZSJVBOHKTM" }
+}

@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [537.70435, 7.9855905, -91.592705, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CastShadow": false,
+    "Color": "#111111",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "Material": "SmoothPlastic",
+    "RightSurface": "Studs",
+    "Transparency": 0.55,
+    "size": [1.4870765, 13.980659, 22.536499]
+  },
+  "attributes": { "_lemonadeUniqueId": "MLT20eUAMLT2" }
+}

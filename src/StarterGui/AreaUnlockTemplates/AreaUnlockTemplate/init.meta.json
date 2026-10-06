@@ -1,0 +1,13 @@
+{
+  "className": "SurfaceGui",
+  "properties": {
+    "AlwaysOnTop": true,
+    "CanvasSize": [1000, 600],
+    "Enabled": false,
+    "MaxDistance": 2500,
+    "PixelsPerStud": 60,
+    "SizingMode": "PixelsPerStud",
+    "ZIndexBehavior": "Sibling"
+  },
+  "attributes": { "_lemonadeUniqueId": "S0tPGYQWS0tP" }
+}

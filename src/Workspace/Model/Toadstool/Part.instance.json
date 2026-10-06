@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [770.5297, 14.424048, 15.779816, 0.9396927, 0, 0.34202012, 0, 1, 0, -0.34202012, 0, 0.9396927],
+    "Color": "#957771",
+    "TopSurface": "Smooth",
+    "size": [5.048906, 22.010586, 4.7489057]
+  },
+  "attributes": { "_lemonadeUniqueId": "654NAVMGBFG2" }
+}

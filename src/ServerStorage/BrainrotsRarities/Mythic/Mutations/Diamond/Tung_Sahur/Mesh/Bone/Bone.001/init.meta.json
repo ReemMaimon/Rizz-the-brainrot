@@ -1,0 +1,6 @@
+{
+  "className": "Bone",
+  "properties": { "CFrame": [3.4186466e-11, 0.91427636, -8.491896e-10, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "LRMS4HMOWDNS" },
+  "childOrder": ["Bone.002", "Bone.006", "Bone.003"]
+}

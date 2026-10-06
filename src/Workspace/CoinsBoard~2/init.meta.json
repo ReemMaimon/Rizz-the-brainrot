@@ -1,0 +1,7 @@
+{
+  "className": "Model",
+  "name": "CoinsBoard",
+  "attributes": { "_lemonadeUniqueId": "MZ23SCOJCMSM" },
+  "tags": ["Leaderboard"],
+  "childOrder": ["Part", "Part~2", "Part~3", "Part~4", "Main", "Part~5"]
+}

@@ -1,0 +1,6 @@
+{
+  "className": "Accessory",
+  "properties": { "AttachmentPoint": [0.01, 0.23, -0.01, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "6z0qS3Px6z0q" },
+  "childOrder": ["ThumbnailConfiguration", "Handle"]
+}

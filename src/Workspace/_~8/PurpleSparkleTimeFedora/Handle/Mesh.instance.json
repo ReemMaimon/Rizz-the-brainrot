@@ -1,0 +1,10 @@
+{
+  "className": "SpecialMesh",
+  "properties": {
+    "MeshId": "http://www.roblox.com/asset/?id=1285237",
+    "MeshType": "FileMesh",
+    "Scale": [1.1, 1.1, 1.1],
+    "TextureId": "http://www.roblox.com/asset/?id=63036639"
+  },
+  "attributes": { "_lemonadeUniqueId": "LIVNAGGVA2YB" }
+}

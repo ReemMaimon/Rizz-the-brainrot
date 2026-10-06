@@ -1,0 +1,23 @@
+{
+  "className": "Tool",
+  "properties": {
+    "CanBeDropped": false,
+    "Grip": [
+      0.14105225,
+      -0.08298111,
+      -1.0257416,
+      -0.029927444,
+      0.97519636,
+      0.21930885,
+      0.47509408,
+      0.2069169,
+      -0.8552608,
+      -0.87942594,
+      0.07859658,
+      -0.4695025
+    ],
+    "TextureId": "http://www.roblox.com/asset/?id=223080070"
+  },
+  "attributes": { "_lemonadeUniqueId": "C6MIFzWwC6MI" },
+  "childOrder": ["Script", "MouseIcon", "LocalScript", "Sit", "SitR15", "Handle"]
+}

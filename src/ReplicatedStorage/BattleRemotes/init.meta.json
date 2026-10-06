@@ -1,0 +1,12 @@
+{
+  "attributes": { "_lemonadeUniqueId": "5aNGaxnN5aNG" },
+  "childOrder": [
+    "StartBattle",
+    "ChooseAction",
+    "BattleState",
+    "BattleCamera",
+    "AbilityRequest",
+    "AbilityResponse",
+    "AbilityEquipRequest"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Mutations/Rainbow/Pipi_Kiwi/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "AJSMBJA4VT76" },
+  "tags": ["Brainrot", "Rainbow"]
+}

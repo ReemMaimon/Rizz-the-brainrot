@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [295.47418, 9.762798, -124.03226, 1, 0, 0, 0, 0, 1, 0, -1, 0],
+    "CanCollide": false,
+    "Locked": true,
+    "RotVelocity": [1, 1, 1],
+    "size": [1, 6, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "cg2ORL51cg2O" },
+  "childOrder": ["WhackSound", "Mesh", "Decal", "Attachment"]
+}

@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [0, 1.9999951, 0],
+    "Brightness": 5,
+    "Color": [[0, "#000000"], [1, "#000000"]],
+    "Drag": 5,
+    "Lifetime": [0.2, 0.5],
+    "LockedToPart": true,
+    "Size": [[0, 5, 0], [1, 5, 0]],
+    "Speed": [4.9999876, 24.999939],
+    "SpreadAngle": [90, 90],
+    "Texture": "http://www.roblox.com/asset/?id=13711999895",
+    "ZOffset": 1
+  },
+  "attributes": { "_lemonadeUniqueId": "THWPTBAN4WX4" }
+}

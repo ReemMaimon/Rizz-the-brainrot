@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Yess My Examen/Cube.021" }
+  },
+  "attributes": { "_lemonadeUniqueId": "KJU4FNBXK5GK" },
+  "tags": ["Brainrot"]
+}

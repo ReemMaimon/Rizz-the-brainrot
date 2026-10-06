@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Ganganzelli Trulala/Plane.002" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "BWZZCVLSUUDT" },
+  "tags": ["Brainrot", "Rainbow"]
+}

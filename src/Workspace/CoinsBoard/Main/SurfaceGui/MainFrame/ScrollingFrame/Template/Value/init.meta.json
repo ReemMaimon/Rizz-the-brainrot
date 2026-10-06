@@ -1,0 +1,18 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "LayoutOrder": 4,
+    "Position": [[0.67, 0], [0, 0]],
+    "Size": [[0.3, 0], [1, 0]],
+    "Text": "1",
+    "TextColor3": "#F2FF01",
+    "TextSize": 80,
+    "TextXAlignment": "Right"
+  },
+  "attributes": { "_lemonadeUniqueId": "xptUbcZPxptU" }
+}

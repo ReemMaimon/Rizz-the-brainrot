@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Diamond /Cocofanto_Elefanto/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "JTJ6YGHNG2FX" },
+  "tags": ["Brainrot"]
+}

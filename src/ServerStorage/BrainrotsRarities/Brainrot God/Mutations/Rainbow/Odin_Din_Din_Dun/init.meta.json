@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Rainbow/Odin_Din_Din_Dun/Circle" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "IUZOHSEIEAUO" },
+  "tags": ["Brainrot", "Rainbow"]
+}

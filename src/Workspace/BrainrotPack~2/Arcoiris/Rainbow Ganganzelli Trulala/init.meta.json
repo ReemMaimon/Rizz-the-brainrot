@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Ganganzelli Trulala/Plane.002" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "3MYPLWAFQOOJ" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Plane.002", "Anims", "AnimationController"]
+}

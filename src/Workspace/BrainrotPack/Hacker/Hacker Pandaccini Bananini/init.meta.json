@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Pandaccini Bananini/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "L7QFV2LJVNBL" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

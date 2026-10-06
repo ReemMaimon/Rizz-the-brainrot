@@ -1,0 +1,10 @@
+{
+  "className": "Atmosphere",
+  "properties": {
+    "Color": "#C7C7C7",
+    "Decay": "#6A707D",
+    "Density": 0.2,
+    "Offset": 0.25
+  },
+  "attributes": { "_lemonadeUniqueId": "GeeKA17nGeeK" }
+}

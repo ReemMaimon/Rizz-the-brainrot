@@ -1,0 +1,11 @@
+{
+  "className": "Motor6D",
+  "properties": {
+    "C0": [1, 0.5, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "C1": [-0.5, 0.5, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "MaxVelocity": 0.1,
+    "Part0": { "$ref": "Workspace/Folder~2/Inuzuka 3/Torso" },
+    "Part1": { "$ref": "Workspace/Folder/Inuzuka 3/Right Arm" }
+  },
+  "attributes": { "_lemonadeUniqueId": "OMZQLLJA323U" }
+}

@@ -1,0 +1,28 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      407.10425,
+      4.995261,
+      -58.4102,
+      1.0000005,
+      -2.9802326e-8,
+      -7.450583e-9,
+      -7.450583e-9,
+      7.4505815e-9,
+      1.0000005,
+      2.9802326e-8,
+      -1,
+      -7.4505815e-9
+    ],
+    "CanCollide": false,
+    "Color": "#F2F3F3",
+    "Massless": true,
+    "MeshId": "rbxassetid://100236442845675",
+    "PivotOffset": [1.4901161e-8, -0.4784143, -4.917383e-7, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "RotVelocity": [1, 1, 1],
+    "size": [0.5236149, 5.5718102, 0.5236149]
+  },
+  "attributes": { "_lemonadeUniqueId": "TuDmAKp1TuDm" },
+  "childOrder": ["SurfaceAppearance", "Highlight"]
+}

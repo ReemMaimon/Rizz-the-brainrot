@@ -1,0 +1,11 @@
+{
+  "className": "WedgePart",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [324.79175, 9.757797, -128.83382, 0, 0, 1, 0, -1, 0, 1, 0, 0],
+    "Color": "#F8F8F8",
+    "size": [0.25000253, 0.3750004, 0.375]
+  },
+  "attributes": { "_lemonadeUniqueId": "z6C7BViyz6C7" }
+}

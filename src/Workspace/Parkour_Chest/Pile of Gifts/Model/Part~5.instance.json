@@ -1,0 +1,31 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [
+      128.4351,
+      1.9178855,
+      -63.19755,
+      0.98732173,
+      0.11224079,
+      -0.112240635,
+      0,
+      0.70710635,
+      0.70710737,
+      0.15873234,
+      -0.6981424,
+      0.6981414
+    ],
+    "Color": "#111111",
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "SmoothPlastic",
+    "RightSurface": "SmoothNoOutlines",
+    "TopSurface": "SmoothNoOutlines",
+    "size": [0.111015886, 0.11101592, 0.09868089]
+  },
+  "attributes": { "_lemonadeUniqueId": "vSBzLekWvSBz" }
+}

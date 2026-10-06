@@ -1,0 +1,14 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#CE390F"], [1, "#CE390F"]],
+    "Drag": 5,
+    "Lifetime": [0.5, 0.75],
+    "Rate": 200,
+    "Size": [[0, 0, 0], [0.25, 0.700771, 0], [1, 0, 0]],
+    "SpreadAngle": [30, 360],
+    "Texture": "rbxassetid://11187840108"
+  },
+  "attributes": { "EmitDelay": 0, "_lemonadeUniqueId": "4N7SZHN6LK7W" }
+}

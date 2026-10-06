@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Lerulerulerule/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "DQOQIEOFUQ4K" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "AnimationController", "Anims"]
+}

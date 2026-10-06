@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/LeftUpperArm/LeftElbowRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/LeftLowerArm/LeftElbowRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": 5,
+    "TwistUpperAngle": 120,
+    "UpperAngle": 20
+  },
+  "attributes": { "_lemonadeUniqueId": "KV64FSBCHMFY" }
+}

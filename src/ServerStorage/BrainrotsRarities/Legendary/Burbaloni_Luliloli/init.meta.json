@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Legendary/Burbaloni_Luliloli/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0.5, "_lemonadeUniqueId": "2GEAW5CS5MNN" },
+  "tags": ["Brainrot"]
+}

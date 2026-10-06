@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      630.48645,
+      4.3080487,
+      -178.52518,
+      -0.8252822,
+      -0.16923928,
+      0.5387599,
+      1.9500947e-8,
+      0.954033,
+      0.2996901,
+      -0.5647141,
+      0.24732877,
+      -0.78735113
+    ],
+    "Color": "#AA00AA",
+    "TopSurface": "Smooth",
+    "size": [0.28096956, 0.15759726, 0.16055213]
+  },
+  "attributes": { "_lemonadeUniqueId": "BMVY23I6NOD6" }
+}

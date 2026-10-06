@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [1039.7186, 485.07996, -947.431, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "SmoothPlastic",
+    "TopSurface": "Smooth",
+    "size": [0.9999726, 18.8, 42.8]
+  },
+  "attributes": { "_lemonadeUniqueId": "FxItTRSMFxIt" }
+}

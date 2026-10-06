@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "name": "ItemName",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.6446072, 0], [0.43327335, 0]],
+    "Size": [[0.49984574, 0], [0.29487315, 0]],
+    "Text": "FLY AROUND THE MAP!",
+    "TextColor3": "#D6D6D6",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "SBvxI3s8SBvx" }
+}

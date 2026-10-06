@@ -1,0 +1,19 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.010684976, 0], [0.2160325, 0]],
+    "Size": [[0.71915436, 0], [0.74576247, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "g4rl1vgGg4rl" },
+  "childOrder": [
+    "UIListLayout",
+    "Tralalero Tralala",
+    "Orangutini Ananassini",
+    "Los Tralaleritos",
+    "La Vacca Saturno Saturnita"
+  ]
+}

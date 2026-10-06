@@ -1,0 +1,16 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "AnchorPoint": [1, 0],
+    "BackgroundColor3": "#C83746",
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Bold" },
+    "Position": [[0.98, 0], [0.04, 0]],
+    "Size": [[0.08, 0], [0.08, 0]],
+    "Text": "X",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextWrapped": true,
+    "ZIndex": 5
+  },
+  "attributes": { "_lemonadeUniqueId": "00hvcUUa00hv" }
+}

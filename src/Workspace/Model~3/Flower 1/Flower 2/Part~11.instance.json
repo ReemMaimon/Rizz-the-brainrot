@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      664.8095,
+      0.40453655,
+      8.051909,
+      0.4264158,
+      0.8579931,
+      -0.286387,
+      -0.8955021,
+      0.44505745,
+      0,
+      0.12745912,
+      0.25646102,
+      0.9581142
+    ],
+    "Color": "#008B00",
+    "TopSurface": "Smooth",
+    "size": [0.034680154, 0.120721325, 0.033992164]
+  },
+  "attributes": { "_lemonadeUniqueId": "ATI47IJGSMPR" }
+}

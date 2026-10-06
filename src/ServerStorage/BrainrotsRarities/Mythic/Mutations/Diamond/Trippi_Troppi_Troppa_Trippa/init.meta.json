@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Diamond /Trippi_Troppi_Troppa_Trippa/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "PFXTPMG2TLVN" },
+  "tags": ["Brainrot"]
+}

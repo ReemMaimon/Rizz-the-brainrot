@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Girafa Celeste/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "UPCIIEMXMSAN" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Mesh", "Anims", "AnimationController"]
+}

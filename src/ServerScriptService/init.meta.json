@@ -1,0 +1,29 @@
+{
+  "attributes": { "_lemonadeUniqueId": "sss" },
+  "childOrder": [
+    "DataManager",
+    "BrainrotVictoryDelivery",
+    "CoinsShop",
+    "RebirthServer",
+    "DebugCommands",
+    "BattleBootstrap",
+    "InstantDrop",
+    "Error",
+    "GiveBadge",
+    "BrainrotWorldSpawner",
+    "Script",
+    "Phase2PlayerSystems",
+    "BrainrotPurchaseService",
+    "BaseManagerBootstrap",
+    "BrainrotEncounterService",
+    "WorldProgressionBootstrap",
+    "WorldButtonTeleportServer",
+    "BrainrotsRaritiesBootstrap",
+    "MirrorTrainingServer",
+    "AbilityCardShop",
+    "BrainrotSystemManager",
+    "ModuleScripts",
+    "RobuxShopServerScripts",
+    "ServerSource"
+  ]
+}

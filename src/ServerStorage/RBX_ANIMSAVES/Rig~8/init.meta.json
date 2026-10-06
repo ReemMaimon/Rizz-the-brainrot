@@ -1,0 +1,9 @@
+{
+  "className": "ObjectValue",
+  "name": "Rig",
+  "properties": {
+    "Value": { "$ref": "Workspace/Rig~2" }
+  },
+  "attributes": { "_lemonadeUniqueId": "IB5XPSLW3EMO" },
+  "childOrder": ["Flowers on riiz punch", "Sigma mewing", "Sigma face"]
+}

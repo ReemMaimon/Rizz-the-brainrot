@@ -1,0 +1,12 @@
+{
+  "className": "SurfaceGui",
+  "properties": {
+    "ClipsDescendants": true,
+    "Face": "Top",
+    "MaxDistance": 1000,
+    "PixelsPerStud": 30,
+    "SizingMode": "PixelsPerStud",
+    "ZIndexBehavior": "Sibling"
+  },
+  "attributes": { "_lemonadeUniqueId": "KHKF6YEB5QN4" }
+}

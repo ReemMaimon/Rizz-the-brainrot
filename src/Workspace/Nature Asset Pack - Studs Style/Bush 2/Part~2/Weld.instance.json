@@ -1,0 +1,9 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -1.5742229, 0, 0.99999994, 5.9604645e-8, 0, 0, 0, -1, 8.940697e-8, 1, 0],
+    "C1": [6.9639325, 8.483442, 11.07352, 0.949634, 0.31336144, 0, 0, 0, -1, -0.31336144, 0.949634, 0],
+    "Part0": { "$ref": "Workspace/Nature Asset Pack - Studs Style/Bush 2/Part~2" }
+  },
+  "attributes": { "_lemonadeUniqueId": "VT6CO3G4QQXZ" }
+}

@@ -1,0 +1,34 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "AutomaticCanvasSize": "Y",
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "CanvasSize": [[0, 0], [4.45, 0]],
+    "Position": [[0.49782032, 0], [0.5, 0]],
+    "ScrollBarImageColor3": "#000000",
+    "ScrollBarImageTransparency": 1,
+    "ScrollBarThickness": 15,
+    "ScrollingDirection": "Y",
+    "Size": [[0.99564075, 0], [0.9999999, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "t5argoLDt5ar" },
+  "childOrder": [
+    "Gear",
+    "Gamepass",
+    "Money",
+    "GamepassList",
+    "ItemsList",
+    "MoneyList",
+    "ServerLuck",
+    "UIPadding",
+    "UIListLayout",
+    "UIAspectRatioConstraint",
+    "YoutuberPack",
+    "BrainrotPack",
+    "StarterPack"
+  ]
+}

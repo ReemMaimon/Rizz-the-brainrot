@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Diamond /Diamond_Chef_Crabracadabra/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "52FYIBLMF6IH" },
+  "tags": ["Brainrot"]
+}

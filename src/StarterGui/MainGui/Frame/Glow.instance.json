@@ -1,0 +1,17 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "ClipsDescendants": true,
+    "Image": "rbxassetid://71100846408511",
+    "ImageColor3": "#AAFF00",
+    "ImageTransparency": 0.57,
+    "Position": [[0.015943263, 0], [-0.055313468, 0]],
+    "Size": [[0.22212657, 0], [1.1106268, 0]],
+    "ZIndex": 0
+  },
+  "attributes": { "_lemonadeUniqueId": "4sPAqUVL4sPA" }
+}

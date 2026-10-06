@@ -1,0 +1,42 @@
+{
+  "className": "MeshPart",
+  "name": "Prop_Gem",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [
+      137.22937,
+      1.354177,
+      -52.39286,
+      -0.12744927,
+      -0.09461684,
+      -0.98732185,
+      -0.5960817,
+      0.8029239,
+      0,
+      0.79274416,
+      0.58852446,
+      -0.15873143
+    ],
+    "Color": "#00FFFF",
+    "Material": "Glass",
+    "MeshId": "rbxassetid://71936567818519",
+    "PivotOffset": [
+      0,
+      -0.6019534,
+      0,
+      1,
+      1.2246469e-16,
+      -1.2246469e-16,
+      -1.2246469e-16,
+      1,
+      -1.2246469e-16,
+      1.2246469e-16,
+      1.2246469e-16,
+      1
+    ],
+    "Reflectance": 1,
+    "Transparency": 0.2,
+    "size": [1.9343747, 1.2039069, 1.9343747]
+  },
+  "attributes": { "Author": "Avengineering", "_lemonadeUniqueId": "tujrJERztujr" }
+}

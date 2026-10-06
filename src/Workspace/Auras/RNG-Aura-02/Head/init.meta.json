@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [1048.8186, 480.67996, -943.13104, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "EnableFluidForces": false,
+    "TopSurface": "Smooth",
+    "size": [2, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "dI1jjJ4cdI1j" },
+  "childOrder": ["Mesh", "HairAttachment", "HatAttachment", "FaceFrontAttachment", "FaceCenterAttachment", "face"]
+}

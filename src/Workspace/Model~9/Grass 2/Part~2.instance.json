@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      632.1695,
+      4.374556,
+      -178.76413,
+      0.8287481,
+      0.20793252,
+      -0.51955855,
+      -0.15017916,
+      0.97698915,
+      0.1514504,
+      0.5390952,
+      -0.047487285,
+      0.84090537
+    ],
+    "Color": "#005614",
+    "TopSurface": "Smooth",
+    "size": [0.4, 1.7, 0.39999998]
+  },
+  "attributes": { "_lemonadeUniqueId": "RDFAN7JUYLWV" }
+}

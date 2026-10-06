@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Mutations/Rainbow/Svinina_Bombardino/Cube.001" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "C7YPGCOHPY74" },
+  "tags": ["Brainrot", "Rainbow"]
+}

@@ -1,0 +1,10 @@
+{
+  "className": "Tool",
+  "properties": {
+    "CanBeDropped": false,
+    "Grip": [0, -1.5943198, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "ToolTip": "Baby Bat"
+  },
+  "attributes": { "_lemonadeUniqueId": "3WSNCj5T3WSN" },
+  "childOrder": ["Slash", "Hit", "Controller", "Handle"]
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Pandaccini Bananini/Mesh" }
+  },
+  "attributes": { "Offset": -0.5, "ZOffset": 0, "_lemonadeUniqueId": "2IBJKXFWMS3S" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Mesh"]
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Meowl/Plane" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "P4AWGKFAXRVU" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Plane", "AnimationController"]
+}

@@ -1,0 +1,23 @@
+{
+  "className": "ParticleEmitter",
+  "name": "PortalOutline",
+  "properties": {
+    "Brightness": 10,
+    "Color": [[0, "#62FF7A"], [1, "#62FF7A"]],
+    "EmissionDirection": "Front",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [1, 1],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 3,
+    "RotSpeed": [1000, 1000],
+    "Size": [[0, 2.4757278, 0], [1, 0, 0]],
+    "Speed": [0.001, 0.001],
+    "SpreadAngle": [1, 1],
+    "Texture": "rbxassetid://16953324078",
+    "Transparency": [[0, 1, 0], [0.0996264, 0, 0], [1, 0, 0]],
+    "ZOffset": 1
+  },
+  "attributes": { "EmitCount": 10, "EmitDelay": 0.1, "_lemonadeUniqueId": "QP2HLFAX543R" }
+}

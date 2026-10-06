@@ -1,0 +1,24 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      230.2243,
+      2.9855356,
+      -89.27757,
+      -0.9445983,
+      0.28095818,
+      -0.16969556,
+      0.32770053,
+      0.8365771,
+      -0.4390344,
+      0.018613115,
+      -0.47032043,
+      -0.8822995
+    ],
+    "TopSurface": "Smooth",
+    "size": [0.5800002, 1.340001, 2.4800014]
+  },
+  "attributes": { "_lemonadeUniqueId": "chfVnyHnchfV" },
+  "childOrder": ["Fire", "HitFade", "Reload", "Mesh", "PointLight"]
+}

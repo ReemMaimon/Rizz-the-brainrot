@@ -1,0 +1,23 @@
+{
+  "className": "Model",
+  "name": "darkauraVFX",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/darkauraVFX/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "3EU7D2IYJ75Q" },
+  "childOrder": [
+    "HumanoidRootPart",
+    "Humanoid",
+    "Accessory (skulldominus)",
+    "Pants",
+    "Animation",
+    "Body Colors",
+    "Shirt",
+    "Right Arm",
+    "Torso",
+    "Head",
+    "Left Leg",
+    "Left Arm",
+    "Right Leg"
+  ]
+}

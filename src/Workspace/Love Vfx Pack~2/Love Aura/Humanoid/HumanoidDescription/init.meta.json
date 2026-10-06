@@ -1,0 +1,31 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "BodyTypeScale": 0,
+    "ClimbAnimation": 5319931619,
+    "DepthScale": 0.92,
+    "Face": 18151826,
+    "FallAnimation": 5319914476,
+    "HeightScale": 1.04,
+    "IdleAnimation": 837011741,
+    "JumpAnimation": 5319917561,
+    "MoodAnimation": 12937097684,
+    "Pants": 7355267423,
+    "ProportionScale": 0.5,
+    "RunAnimation": 837009922,
+    "Shirt": 7057091543,
+    "SwimAnimation": 837012509,
+    "WalkAnimation": 837010234,
+    "WidthScale": 0.85
+  },
+  "attributes": { "_lemonadeUniqueId": "FNXKKLB6S7WP" },
+  "childOrder": [
+    "BodyPartDescription",
+    "BodyPartDescription~2",
+    "BodyPartDescription~3",
+    "BodyPartDescription~4",
+    "BodyPartDescription~5",
+    "BodyPartDescription~6",
+    "AccessoryDescription"
+  ]
+}

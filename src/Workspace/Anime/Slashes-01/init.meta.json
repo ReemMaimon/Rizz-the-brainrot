@@ -1,0 +1,16 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [1033.1187, 479.87997, -976.63104, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "TopSurface": "Smooth",
+    "Transparency": 0.75,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "rZnhIRtrrZnh" },
+  "childOrder": ["Bottom", "Main", "Cracks"]
+}

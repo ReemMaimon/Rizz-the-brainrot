@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      664.23456,
+      0.31688726,
+      7.8632574,
+      -0.56006557,
+      -0.6285453,
+      -0.5396828,
+      -0.74660736,
+      0.66526496,
+      0,
+      0.3590318,
+      0.40293092,
+      -0.8418695
+    ],
+    "Color": "#008B00",
+    "TopSurface": "Smooth",
+    "size": [0.0539, 0.18762545, 0.05283073]
+  },
+  "attributes": { "_lemonadeUniqueId": "ZXL7OSLPACGO" }
+}

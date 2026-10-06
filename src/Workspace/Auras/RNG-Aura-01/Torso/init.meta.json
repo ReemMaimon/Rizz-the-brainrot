@@ -1,0 +1,35 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [1047.8186, 479.17996, -935.63104, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": "#635F62",
+    "EnableFluidForces": false,
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "LeftSurface": "Weld",
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "RightSurface": "Weld",
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "wxK4XFQUwxK4" },
+  "childOrder": [
+    "WaistCenterAttachment",
+    "Weld",
+    "Left Shoulder",
+    "BodyFrontAttachment",
+    "Weld~2",
+    "WaistFrontAttachment",
+    "Right Shoulder",
+    "Neck",
+    "NeckAttachment",
+    "Weld~3",
+    "RightCollarAttachment",
+    "LeftCollarAttachment",
+    "Left Hip",
+    "WaistBackAttachment",
+    "Right Hip",
+    "BodyBackAttachment"
+  ]
+}

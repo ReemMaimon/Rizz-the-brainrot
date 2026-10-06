@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [[0, "#FFC800"], [1, "#FFC800"]],
+    "Drag": 5,
+    "Lifetime": [0.5, 0.5],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 1,
+    "Size": [[0, 4, 0], [1, 4, 0]],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://867619398",
+    "Transparency": [[0, 0.5, 0], [1, 1, 0]],
+    "ZOffset": 4
+  },
+  "attributes": { "_lemonadeUniqueId": "AGAMCBHKLGPS" }
+}

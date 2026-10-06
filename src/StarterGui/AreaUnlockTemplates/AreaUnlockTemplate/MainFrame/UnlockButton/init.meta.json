@@ -1,0 +1,19 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#2DC88C",
+    "BackgroundTransparency": 0.1,
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Regular" },
+    "Position": [[0.5, 0], [0.84, 0]],
+    "Size": [[0.55, 0], [0.12, 0]],
+    "Text": "UNLOCK",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextStrokeColor3": "#0F192D",
+    "TextStrokeTransparency": 0,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "bZYfiZgebZYf" }
+}

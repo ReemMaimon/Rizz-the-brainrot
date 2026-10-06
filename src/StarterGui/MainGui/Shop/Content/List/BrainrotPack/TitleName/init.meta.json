@@ -1,0 +1,23 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.30285394, 0], [0.1533337, 0]],
+    "Size": [[0.5461913, 0], [0.2740843, 0]],
+    "Text": "BRAINROT PACK",
+    "TextColor3": "#2C2C2C",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "ZIndex": 100
+  },
+  "attributes": { "_lemonadeUniqueId": "WvU8wp59WvU8" },
+  "tags": ["ZebraText"]
+}

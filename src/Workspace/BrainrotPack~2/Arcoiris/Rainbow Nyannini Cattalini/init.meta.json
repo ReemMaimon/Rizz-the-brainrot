@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Nyannini Cattalini/Cube.161" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "CRHVIWNSTX5R" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["InitialPoses", "Cube.161", "Anims", "AnimationController"]
+}

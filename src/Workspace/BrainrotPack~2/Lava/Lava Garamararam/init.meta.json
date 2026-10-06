@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Garamararam/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "52LVIWBHB2C7" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

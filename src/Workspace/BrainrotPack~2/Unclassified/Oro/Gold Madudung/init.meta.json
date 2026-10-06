@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Madudung/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "YV4GGOESF5Y7" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "AnimationController", "Anims"]
+}

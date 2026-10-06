@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -0.0005695632, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [0, 1.5589238, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "Part0": { "$ref": "Workspace/Bases/Base6/Stands/Stand10/PlaceHolder" },
+    "Part1": { "$ref": "Workspace/Bases/Base6/Stands/Stand10/Decorartion" }
+  },
+  "attributes": { "_lemonadeUniqueId": "DyVqJT2wDyVq" }
+}

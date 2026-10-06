@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [[0, "#C8FFC8"], [1, "#C8FFC8"]],
+    "Lifetime": [1, 1.5],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 3,
+    "RotSpeed": [250, 500],
+    "Rotation": [-180, 180],
+    "Size": [[0, 1.75, 0], [1, 1, 0]],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://1084996536",
+    "Transparency": [[0, 1, 0], [0.5, 0.4, 0], [1, 1, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "bRPgLfFTbRPg" }
+}

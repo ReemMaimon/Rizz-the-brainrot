@@ -1,0 +1,15 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Bold" },
+    "Position": [[0.18, 0], [0.1, 0]],
+    "Size": [[0.55, 0], [0.28, 0]],
+    "Text": "Starter Pack",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextWrapped": true,
+    "TextXAlignment": "Left"
+  },
+  "attributes": { "_lemonadeUniqueId": "4AHMVfIi4AHM" }
+}

@@ -1,0 +1,15 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 4,
+    "FlipbookLayout": "Grid8x8",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.15, 0.15],
+    "Rate": 10,
+    "Size": [[0, 2.8, 0], [1, 2.8, 0]],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://83784868925844",
+    "ZOffset": -2
+  },
+  "attributes": { "_lemonadeUniqueId": "Z4SOVUK7DMXO" }
+}

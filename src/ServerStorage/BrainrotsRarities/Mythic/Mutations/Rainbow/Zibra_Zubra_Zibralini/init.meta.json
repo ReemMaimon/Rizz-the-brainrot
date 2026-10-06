@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Rainbow/Zibra_Zubra_Zibralini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "CC4XFZOS4NHF" },
+  "tags": ["Brainrot", "Rainbow"]
+}

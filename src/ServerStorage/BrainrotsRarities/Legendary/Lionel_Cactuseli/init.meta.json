@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Legendary/Lionel_Cactuseli/Cube.074" }
+  },
+  "attributes": { "Offset": -0.5, "ZOffset": 0, "_lemonadeUniqueId": "FY4C3BH75F55" },
+  "tags": ["Brainrot"]
+}

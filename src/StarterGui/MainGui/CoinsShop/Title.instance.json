@@ -1,0 +1,18 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Regular" },
+    "Position": [[0.08, 0], [0.05, 0]],
+    "Size": [[0.7, 0], [0.1, 0]],
+    "Text": "TOOL SHOP",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextStrokeColor3": "#141E32",
+    "TextStrokeTransparency": 0,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "ZIndex": 4
+  },
+  "attributes": { "_lemonadeUniqueId": "3UX1rFrR3UX1" }
+}

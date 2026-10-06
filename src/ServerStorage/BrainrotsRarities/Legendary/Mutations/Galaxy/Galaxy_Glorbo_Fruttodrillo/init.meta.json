@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Galaxy/Galaxy_Glorbo_Fruttodrillo/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "55RGEMDOD3M2" },
+  "tags": ["Brainrot"]
+}

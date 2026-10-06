@@ -1,0 +1,13 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.025988461, 0], [0.48367077, 0]],
+    "Size": [[0.9480231, 0], [0.46472162, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "cpYUZxK8cpYU" },
+  "childOrder": ["UIListLayout", "200000", "2000000"]
+}

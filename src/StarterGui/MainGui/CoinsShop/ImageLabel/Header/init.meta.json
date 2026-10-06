@@ -1,0 +1,13 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.5, 0], [0.0012957924, 0]],
+    "Size": [[0.99825627, 0], [0.9239842, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "JsspGkppJssp" }
+}

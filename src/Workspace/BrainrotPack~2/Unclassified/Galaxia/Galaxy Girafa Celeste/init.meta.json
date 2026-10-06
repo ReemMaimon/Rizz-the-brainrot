@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Galaxia/Galaxy Girafa Celeste/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "3VINKTIG4TZC" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

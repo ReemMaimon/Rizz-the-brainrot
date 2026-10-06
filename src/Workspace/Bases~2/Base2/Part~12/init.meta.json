@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [266.75964, 20.3765, -192.58844, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "Material": "Neon",
+    "TopSurface": "Smooth",
+    "size": [2, 0.5, 2]
+  },
+  "attributes": { "_lemonadeUniqueId": "TCOIL2MS7TJM" },
+  "childOrder": ["Attachment2", "Beam", "Attachment1", "PointLight"]
+}

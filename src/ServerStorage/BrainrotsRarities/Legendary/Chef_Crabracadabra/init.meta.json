@@ -1,0 +1,20 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Legendary/Chef_Crabracadabra/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "jL5oxI22jL5o" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "Proxy",
+    "HumanoidRootPart",
+    "Cube.004",
+    "Cube.002",
+    "Cube.001",
+    "Cube",
+    "Diamond"
+  ]
+}

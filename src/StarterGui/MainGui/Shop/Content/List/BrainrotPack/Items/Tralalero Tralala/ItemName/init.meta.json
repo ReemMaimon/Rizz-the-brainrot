@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "Position": [[0.49251512, 0], [-0.18298912, 0]],
+    "Size": [[1.0000001, 0], [0.22146533, 0]],
+    "Text": "Tralalero Tralala",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "ZIndex": 100
+  },
+  "attributes": { "_lemonadeUniqueId": "0Wx8UD820Wx8" },
+  "childOrder": ["UIStroke", "UIGradient"]
+}

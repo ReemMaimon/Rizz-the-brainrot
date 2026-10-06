@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Nyannini Cattalini/Cube.161" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "GELMUIBBZ7FR" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "InitialPoses", "AnimationController", "Cube.161"]
+}

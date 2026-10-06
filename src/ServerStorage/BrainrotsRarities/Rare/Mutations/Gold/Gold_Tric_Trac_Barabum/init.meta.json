@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Rare/Mutations/Gold/Gold_Tric_Trac_Barabum/Cube.064" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "6NE3U7AABI5M" },
+  "tags": ["Brainrot"]
+}

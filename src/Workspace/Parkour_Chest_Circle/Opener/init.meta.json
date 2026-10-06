@@ -1,0 +1,16 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [137.55125, 10.323987, -62.186558, 0, -1, 0, 1, 0, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Color": "#5B9A4C",
+    "Material": "Neon",
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "shape": "Cylinder",
+    "size": [18.465555, 13.068228, 22.263805]
+  },
+  "attributes": { "_lemonadeUniqueId": "vLOJB2e8vLOJ" }
+}

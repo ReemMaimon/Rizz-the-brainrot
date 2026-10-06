@@ -1,0 +1,17 @@
+{
+  "className": "WedgePart",
+  "name": "Wedge",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [546.0349, 8.820545, -91.624886, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "Color": "#3D3F47",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "RightSurface": "Studs",
+    "TopSurface": "Studs",
+    "size": [27.953903, 16.79637, 12.199896]
+  },
+  "attributes": { "_lemonadeUniqueId": "SK4AMYIU6Z5N" }
+}

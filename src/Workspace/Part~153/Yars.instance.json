@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [[0, "#F3FFFF"], [1, "#F3FFFF"]],
+    "Lifetime": [0.1, 1],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 3,
+    "RotSpeed": [5, 5],
+    "Rotation": [10, 120],
+    "Size": [[0, 11, 0], [1, 11, 0]],
+    "Speed": [0.01, 0.01],
+    "Texture": "rbxassetid://14315288248",
+    "ZOffset": -0.1
+  },
+  "attributes": { "_lemonadeUniqueId": "woEzEILZwoEz" }
+}

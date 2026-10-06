@@ -1,0 +1,5 @@
+{
+  "className": "Model",
+  "attributes": { "_lemonadeUniqueId": "rKsr4ERBrKsr" },
+  "childOrder": ["Collect", "PlaceHolder", "Part", "Decorartion"]
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -0.4390366, -0.043319702, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "ReplicatedStorage/AbilityFaces/Sigma Face Model/{6de41eb6-4beb-4eda-b556-064c2bde2afe}" }
+  },
+  "attributes": { "_lemonadeUniqueId": "LZLVZ7M3ENIQ" }
+}

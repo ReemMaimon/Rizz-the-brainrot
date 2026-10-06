@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~3/Automatic Save" }
+  },
+  "attributes": { "_lemonadeUniqueId": "gi9K1uokgi9K" }
+}

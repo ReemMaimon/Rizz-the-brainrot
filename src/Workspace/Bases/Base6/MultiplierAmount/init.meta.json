@@ -1,0 +1,18 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [354.6119, 7.076129, -24.908474, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "Color": "#58C400",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "RightSurface": "Studs",
+    "Transparency": 1,
+    "size": [14.967237, 1.0671287, 16.89588]
+  },
+  "attributes": { "_lemonadeUniqueId": "3yU5pUnt3yU5" },
+  "childOrder": ["Weld", "Multiplier"]
+}

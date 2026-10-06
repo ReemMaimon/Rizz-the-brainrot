@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Banana Dancana/Cube.092" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "NCJQOQLSLNGO" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Anims", "AnimationController", "Cube.092"]
+}

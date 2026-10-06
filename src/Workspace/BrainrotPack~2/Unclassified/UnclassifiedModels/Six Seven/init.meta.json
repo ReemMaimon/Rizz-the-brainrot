@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Six Seven/Mesh" }
+  },
+  "attributes": { "Offset": 0.3, "ZOffset": 0.5, "_lemonadeUniqueId": "EISBZZFLFKO2" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "Anims", "AnimationController"]
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/UnclassifiedModels/Nyannini Cattalini/Cube.161" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 1, "_lemonadeUniqueId": "M4R6WSDELAK5" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Cube.161", "InitialPoses", "Anims"]
+}

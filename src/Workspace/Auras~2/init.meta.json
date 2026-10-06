@@ -1,0 +1,6 @@
+{
+  "className": "Model",
+  "name": "Auras",
+  "attributes": { "_lemonadeUniqueId": "XDBACRLOU2SH" },
+  "childOrder": ["RNG-Aura-02", "Water-Aura-01", "RNG-Aura-03", "Fire-Aura-01", "RNG-Aura-01"]
+}

@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~3/Idle with a bat" }
+  },
+  "attributes": { "_lemonadeUniqueId": "2HAmBxXb2HAm" }
+}

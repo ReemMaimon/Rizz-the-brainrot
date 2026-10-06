@@ -1,0 +1,23 @@
+{
+  "properties": {
+    "Ambient": "#FFFFFF",
+    "Brightness": 2,
+    "ColorShift_Bottom": "#9696E8",
+    "ColorShift_Top": "#E2E2E2",
+    "EnvironmentDiffuseScale": 1,
+    "EnvironmentSpecularScale": 0.5,
+    "ExposureCompensation": 0,
+    "FogColor": "#C0C0C0",
+    "FogEnd": 100000,
+    "FogStart": 0,
+    "GeographicLatitude": 0,
+    "GlobalShadows": true,
+    "LightingStyle": "Soft",
+    "OutdoorAmbient": "#D4D4D4",
+    "Outlines": false,
+    "PrioritizeLightingQuality": true,
+    "ShadowSoftness": 0.2
+  },
+  "attributes": { "_lemonadeUniqueId": "lit" },
+  "childOrder": ["Atmosphere", "SunRays", "ColorCCorrection", "Cartoon"]
+}

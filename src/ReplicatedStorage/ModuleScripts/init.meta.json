@@ -1,0 +1,31 @@
+{
+  "attributes": { "_lemonadeUniqueId": "dZY6lc79dZY6" },
+  "childOrder": [
+    "ErrorHandler",
+    "CameraController",
+    "GameUtilities",
+    "UIManager",
+    "AnimationService",
+    "Module3D",
+    "ItemsData",
+    "RebirthData",
+    "PurchaseSounds",
+    "GameConfig",
+    "CurrencyConfig",
+    "RizzConfig",
+    "RarityConfig",
+    "UIConfig",
+    "BrainrotConfig",
+    "EncounterConfig",
+    "AreaConfig",
+    "BattleConfig",
+    "BrainrotSpawnConfig",
+    "AbilityConfig",
+    "AbilityPresentationConfig",
+    "VFXService",
+    "RizzScaling",
+    "WeightedRoll",
+    "LuckyBlockConfig",
+    "UIBuilder"
+  ]
+}

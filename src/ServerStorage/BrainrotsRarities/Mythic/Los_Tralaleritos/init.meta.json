@@ -1,0 +1,13 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Los_Tralaleritos/Mesh" }
+  },
+  "attributes": {
+    "LosOffset": 2.5,
+    "Offset": 0,
+    "ZOffset": -0.7,
+    "_lemonadeUniqueId": "XBZXX2K6EU3C"
+  },
+  "tags": ["Brainrot"]
+}

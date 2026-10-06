@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Bananini Kittini/Cube.148" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "EE5QAYNYVXNO" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Cube.148", "Anims", "AnimationController"]
+}

@@ -1,0 +1,18 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Beams/Wind-01/Start" },
+    "Attachment1": { "$ref": "Workspace/Beams/Wind-01/End" },
+    "Brightness": 0.5,
+    "FaceCamera": true,
+    "LightEmission": 1,
+    "Texture": "rbxassetid://9541055154",
+    "TextureLength": 0.4,
+    "TextureSpeed": 1.5,
+    "Transparency": [[0, 1, 0], [0.038653366, 0.75117373, 0], [0.9551123, 0.75117373, 0], [1, 1, 0]],
+    "Width0": 5,
+    "Width1": 5,
+    "ZOffset": 0.3
+  },
+  "attributes": { "_lemonadeUniqueId": "ekJMTACYekJM" }
+}

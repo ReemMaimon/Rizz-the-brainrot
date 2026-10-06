@@ -1,0 +1,19 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "AutomaticCanvasSize": "Y",
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "CanvasSize": [[0, 0], [1, 0]],
+    "Position": [[0.5, 0], [0.5, 0]],
+    "ScrollBarImageColor3": "#000000",
+    "ScrollBarThickness": 0,
+    "ScrollingDirection": "Y",
+    "Size": [[1, 0], [1, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "NCgLTSOmNCgL" },
+  "childOrder": ["UIListLayout", "Padding", "Template"]
+}

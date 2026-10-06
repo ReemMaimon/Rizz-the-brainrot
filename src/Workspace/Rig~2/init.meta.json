@@ -1,0 +1,34 @@
+{
+  "className": "Model",
+  "name": "Rig",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/Rig/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "KIRHQAFRWIPR" },
+  "childOrder": [
+    "Humanoid",
+    "RightHand",
+    "RightUpperLeg",
+    "Head",
+    "Brows",
+    "RightLowerLeg",
+    "HairAccessory",
+    "Animate",
+    "LeftUpperArm",
+    "RightFoot",
+    "LeftLowerArm",
+    "UpperTorso",
+    "LeftHand",
+    "HumanoidRootPart",
+    "LowerTorso",
+    "LeftUpperLeg",
+    "Pants",
+    "AnimSaves",
+    "Body Colors",
+    "RightUpperArm",
+    "LeftLowerLeg",
+    "Shirt",
+    "RightLowerArm",
+    "LeftFoot"
+  ]
+}

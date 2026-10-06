@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [829.02924, 5.1687717, -40.16548, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [3.5, 3.5, 3.5]
+  },
+  "attributes": { "_lemonadeUniqueId": "NXDV25HXZUXM" }
+}

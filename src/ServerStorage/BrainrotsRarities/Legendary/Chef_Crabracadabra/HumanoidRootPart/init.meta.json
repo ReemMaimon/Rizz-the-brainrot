@@ -1,0 +1,17 @@
+{
+  "className": "Part",
+  "properties": {
+    "AudioCanCollide": false,
+    "BottomSurface": "Smooth",
+    "CFrame": [497.1261, 11.134743, -88.684204, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "PivotOffset": [0, -2.3661728, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "SRmXG8i6SRmX" }
+}

@@ -1,0 +1,21 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Fire55",
+  "properties": {
+    "Brightness": 15,
+    "Color": [[0, "#FF557F"], [1, "#FF557F"]],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.6, 1.1],
+    "LockedToPart": true,
+    "Orientation": "FacingCameraWorldUp",
+    "Rate": 4,
+    "Rotation": [-5, 5],
+    "Size": [[0, 5, 0], [1, 5, 0]],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://16860424478",
+    "Transparency": [[0, 0, 0], [0.32129514, 1, 0], [1, 1, 0]],
+    "ZOffset": -4
+  },
+  "attributes": { "_lemonadeUniqueId": "3SS2YKNQBTQA" }
+}

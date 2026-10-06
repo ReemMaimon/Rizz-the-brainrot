@@ -1,0 +1,5 @@
+{
+  "className": "Pose",
+  "attributes": { "_lemonadeUniqueId": "c2ZnHiKqc2Zn" },
+  "childOrder": ["LeftUpperArm", "RightUpperArm", "Head"]
+}

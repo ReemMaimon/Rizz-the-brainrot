@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      664.5699,
+      1.0626892,
+      8.938911,
+      0.37624016,
+      -0.16856885,
+      -0.9110594,
+      -0.1198975,
+      0.9661839,
+      -0.22828212,
+      0.91873276,
+      0.19512263,
+      0.34330645
+    ],
+    "Color": "#004C12",
+    "TopSurface": "Smooth",
+    "size": [0.3511417, 2.0190651, 0.35114175]
+  },
+  "attributes": { "_lemonadeUniqueId": "VLZGP3GM5LBU" }
+}

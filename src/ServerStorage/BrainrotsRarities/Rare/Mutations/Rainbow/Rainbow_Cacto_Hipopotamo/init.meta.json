@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Rare/Mutations/Rainbow/Rainbow_Cacto_Hipopotamo/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "QS2P2NIVBRVJ" },
+  "tags": ["Brainrot", "Rainbow"]
+}

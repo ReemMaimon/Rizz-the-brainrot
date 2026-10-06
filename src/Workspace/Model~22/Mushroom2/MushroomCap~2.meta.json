@@ -1,0 +1,13 @@
+{
+  "className": "UnionOperation",
+  "name": "MushroomCap",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [759.7166, 23.59647, -153.49266, 0.98768836, 0, 0.15643448, 0, 1, 0, -0.15643448, 0, 0.98768836],
+    "Color": "#735C57",
+    "Material": "SmoothPlastic",
+    "UsePartColor": true,
+    "size": [12.516887, 3.41249, 11.716574]
+  },
+  "attributes": { "_lemonadeUniqueId": "UTG5KHOUBCH7" }
+}

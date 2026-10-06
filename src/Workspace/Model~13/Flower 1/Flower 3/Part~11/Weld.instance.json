@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -0.09586501, 0.0000038146973, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [-0.23418808, 0.58673394, -0.25984192, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "Part0": { "$ref": "Workspace/Model~13/Flower 1/Flower 3/Part~11" },
+    "Part1": { "$ref": "Workspace/Model~13/Flower 1/Flower 3/Part~3" }
+  },
+  "attributes": { "_lemonadeUniqueId": "C5VZ7TMZDHT6" }
+}

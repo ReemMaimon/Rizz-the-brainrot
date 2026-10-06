@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Hacker /Bombardiro_Crocodilo/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "GVTSJQA4FEWN" },
+  "tags": ["Brainrot"]
+}

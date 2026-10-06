@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Galaxy/Galaxy_Avocadini_Guffo/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "AVS5GFN2X53P" },
+  "tags": ["Brainrot"]
+}

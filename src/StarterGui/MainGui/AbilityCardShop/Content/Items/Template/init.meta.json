@@ -1,0 +1,12 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#232D4B",
+    "BackgroundTransparency": 0.05,
+    "LayoutOrder": 1,
+    "Size": [[0.95, 0], [0, 130]],
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "VM7l1NXhVM7l" },
+  "childOrder": ["UICorner", "UIStroke", "Icon", "PackName", "Description", "CardCount", "Buy", "Price"]
+}

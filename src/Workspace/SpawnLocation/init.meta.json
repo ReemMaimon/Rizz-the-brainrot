@@ -1,0 +1,11 @@
+{
+  "className": "SpawnLocation",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [210.02357, 1.4952612, -59.447052, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "TopSurface": "Smooth",
+    "size": [12, 1, 12]
+  },
+  "attributes": { "_lemonadeUniqueId": "FUXI6BKXATPG" }
+}

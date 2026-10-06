@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Bananita Dolphinita/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 1, "_lemonadeUniqueId": "7YKL2IK2OTQK" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Mesh", "AnimationController"]
+}

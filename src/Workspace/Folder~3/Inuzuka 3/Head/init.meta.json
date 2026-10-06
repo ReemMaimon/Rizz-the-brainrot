@@ -1,0 +1,18 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [814.30945, 8.91876, -87.65005, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "TopSurface": "Smooth",
+    "size": [2, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "LJXZXIIXR6V6" },
+  "childOrder": [
+    "Mesh",
+    "Cinder",
+    "HairAttachment",
+    "HatAttachment",
+    "FaceCenterAttachment",
+    "ParticleEmitter",
+    "FaceFrontAttachment"
+  ]
+}

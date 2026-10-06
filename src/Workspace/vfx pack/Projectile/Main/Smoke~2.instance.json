@@ -1,0 +1,28 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Smoke",
+  "properties": {
+    "Brightness": 100,
+    "Color": [
+      [0, "#FFFFFF"],
+      [0.0535406, "#693D9C"],
+      [0.184801, "#AC63FF"],
+      [0.499136, "#AC63FF"],
+      [0.606218, "#8B50CE"],
+      [1, "#000000"]
+    ],
+    "Drag": 100,
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.3, 0.7],
+    "LockedToPart": true,
+    "Rate": 100,
+    "Rotation": [-360, 360],
+    "Size": [[0, 0.33674, 0], [0.30074, 1.14635, 0], [1, 1.14635, 0]],
+    "Speed": [0.4121791, 4.121791],
+    "SpreadAngle": [-90, 90],
+    "Texture": "rbxassetid://11589526610",
+    "ZOffset": 0.45854005
+  },
+  "attributes": { "EmitCount": 60, "EmitDelay": 0, "_lemonadeUniqueId": "8pbkZpN18pbk" }
+}

@@ -1,0 +1,16 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "Active": true,
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "CanvasSize": [[0, 0], [9.33, 0]],
+    "Position": [[0, 0], [0.1, 0]],
+    "ScrollBarImageColor3": "#000000",
+    "Size": [[1, 0], [1, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "IRKYZJ5hIRKY" },
+  "childOrder": ["Script", "UIListLayout", "Template"]
+}

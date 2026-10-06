@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "Workspace//Meshes/hazemAccessory/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "k5J48ud7k5J4" }
+}

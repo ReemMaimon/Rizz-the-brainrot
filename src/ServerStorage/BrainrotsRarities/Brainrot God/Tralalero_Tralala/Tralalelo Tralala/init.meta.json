@@ -1,0 +1,18 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "AudioCanCollide": false,
+    "CFrame": [493.90283, 5.6408854, -98.94546, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Color": "#45709C",
+    "HasSkinnedMesh": true,
+    "Massless": true,
+    "MeshId": "rbxassetid://109933894235524",
+    "PivotOffset": [-1.3895975e-8, -1.7810802, -0.2850023, 0, 1, 0, 0, 0, -1, -1, 0, 0],
+    "size": [5.532455, 6.5394964, 13.950223]
+  },
+  "attributes": { "Color": 1, "_lemonadeUniqueId": "bMPxpzE6bMPx" },
+  "childOrder": ["water2", "water3", "water1", "specs1"]
+}

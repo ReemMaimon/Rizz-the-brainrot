@@ -1,0 +1,17 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [497.43576, 5.7104573, -88.68411, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "HasSkinnedMesh": true,
+    "Massless": true,
+    "Material": "SmoothPlastic",
+    "MeshId": "rbxassetid://129520296528808",
+    "PivotOffset": [0, -1.3655169, 0.30930978, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "TextureID": "rbxassetid://114826358692467",
+    "size": [4.151327, 1.8401635, 3.1368427]
+  },
+  "attributes": { "_lemonadeUniqueId": "QMCio3HPQMCi" }
+}

@@ -1,0 +1,14 @@
+{
+  "className": "BillboardGui",
+  "properties": {
+    "Active": true,
+    "Brightness": 2,
+    "ClipsDescendants": true,
+    "MaxDistance": 150,
+    "ResetOnSpawn": false,
+    "Size": [[30, 0], [5, 0]],
+    "StudsOffset": [0, 3, 0],
+    "ZIndexBehavior": "Sibling"
+  },
+  "attributes": { "_lemonadeUniqueId": "aVgHaWjtaVgH" }
+}

@@ -1,0 +1,11 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "properties": {
+    "C0": [0, -0.25191027, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [-0.035717126, 0.911277, 0.12956059, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "Part0": { "$ref": "Workspace/Nature Asset Pack - Studs Style~4/Mushroom 2/Part~3" },
+    "Part1": { "$ref": "Workspace/Nature Asset Pack - Studs Style/Mushroom 2/Part" }
+  },
+  "attributes": { "_lemonadeUniqueId": "QEF2MEGND4QR" }
+}

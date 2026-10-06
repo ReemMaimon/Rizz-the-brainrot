@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Rainbow/Rainbow_Trulimero_Trulicina/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "ELWQUEGRZ3DO" },
+  "tags": ["Brainrot", "Rainbow"]
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [620.20215, 4.139713, -181.48769, 0.009663507, 0, 0.9999533, 0, 1, 0, -0.9999533, 0, 0.009663507],
+    "Color": "#7D7B7E",
+    "TopSurface": "Smooth",
+    "size": [11.381135, 1.8209816, 10.015399]
+  },
+  "attributes": { "_lemonadeUniqueId": "DGSI53HK45A4" }
+}

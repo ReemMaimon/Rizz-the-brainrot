@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Rare/Mutations/Rainbow/Rainbow_Trippi_Troppi/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "FK7L3ZB6LJYY" },
+  "tags": ["Brainrot", "Rainbow"]
+}

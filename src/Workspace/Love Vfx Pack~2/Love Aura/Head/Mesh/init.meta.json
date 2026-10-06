@@ -1,0 +1,18 @@
+{
+  "className": "SpecialMesh",
+  "properties": {
+    "MeshId": "https://assetdelivery.roblox.com/v1/asset/?id=12937016609",
+    "MeshType": "FileMesh",
+    "TextureId": "rbxassetid://12937029385"
+  },
+  "attributes": { "_lemonadeUniqueId": "3J2B6IFSOWEN" },
+  "tags": ["NoFace"],
+  "childOrder": [
+    "HairAttachment",
+    "FaceCenterAttachment",
+    "NeckRigAttachment",
+    "HatAttachment",
+    "AvatarPartScaleType",
+    "FaceFrontAttachment"
+  ]
+}

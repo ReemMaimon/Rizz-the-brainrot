@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Hacker /Hacker_Lionel_Cactuseli/Cube.074"
+    }
+  },
+  "attributes": { "_lemonadeUniqueId": "4HYRZCPQPRBS" },
+  "tags": ["Brainrot"]
+}

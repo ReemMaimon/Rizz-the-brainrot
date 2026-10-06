@@ -1,0 +1,16 @@
+{
+  "className": "ImageButton",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://88734015663903",
+    "LayoutOrder": 3,
+    "Position": [[0.5, 0], [0.5, 0]],
+    "ScaleType": "Fit",
+    "Size": [[1, 0], [0.30152673, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "E9i3p3VrE9i3" }
+}

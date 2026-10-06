@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [766.0326, 4.496863, 13.194063, 0.6579714, 0, 0.75304294, 0, 1, 0, -0.75304294, 0, 0.6579714],
+    "Color": "#534337",
+    "TopSurface": "Smooth",
+    "size": [0.7658795, 2.1562114, 0.6766626]
+  },
+  "attributes": { "_lemonadeUniqueId": "UHP4TTGTKCPU" }
+}

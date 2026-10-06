@@ -1,0 +1,33 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [1047.8186, 479.17996, -935.63104, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "EnableFluidForces": false,
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "l42HMO4sl42H" },
+  "childOrder": [
+    "BeamAttachment",
+    "Main",
+    "BeamAttachment~2",
+    "BeamAttachment~3",
+    "BeamAttachment~4",
+    "BeamAttachment~5",
+    "RootJoint",
+    "BeamAttachment~6",
+    "RootAttachment",
+    "BeamAttachment~7",
+    "BeamAttachment~8",
+    "BeamAttachment~9",
+    "BeamAttachment~10"
+  ]
+}

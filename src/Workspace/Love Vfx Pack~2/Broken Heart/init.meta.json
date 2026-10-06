@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [837.66327, 4.9187717, -41.372948, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "RPWUDPKFBFG7" }
+}

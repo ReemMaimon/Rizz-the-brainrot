@@ -1,0 +1,20 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Cappuccino_Assassino/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "qQtXpZvDqQtX" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "HumanoidRootPart",
+    "Proxy",
+    "Cube.006",
+    "Cube.003",
+    "Cube.002",
+    "Cube.001",
+    "Diamond"
+  ]
+}

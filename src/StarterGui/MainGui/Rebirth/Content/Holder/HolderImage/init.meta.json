@@ -1,0 +1,16 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 1],
+    "BackgroundColor3": "#6B80AD",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "LayoutOrder": 2,
+    "Position": [[0.50000006, 0], [1.0955695, 0]],
+    "ScaleType": "Fit",
+    "Size": [[1.0000001, 0], [0.90600884, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "9lWCWp9b9lWC" },
+  "childOrder": ["RequiredCharacters", "BarContainer", "UICorner"]
+}

@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [263.56113, 20.3765, 18.123432, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "Neon",
+    "TopSurface": "Smooth",
+    "size": [2, 0.5, 2]
+  },
+  "attributes": { "_lemonadeUniqueId": "CX5L7SHAX7BB" },
+  "childOrder": ["Beam", "PointLight", "Attachment2", "Attachment1"]
+}

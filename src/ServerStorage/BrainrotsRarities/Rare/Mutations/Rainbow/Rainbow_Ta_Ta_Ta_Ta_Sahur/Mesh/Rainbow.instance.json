@@ -1,0 +1,27 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [
+      [0, "#FF0004"],
+      [0.1, "#FF00C3"],
+      [0.2, "#AA00FF"],
+      [0.3, "#0000FF"],
+      [0.4, "#0088FF"],
+      [0.5, "#00FFFF"],
+      [0.6, "#00FF00"],
+      [0.7, "#59FF00"],
+      [0.8, "#FFFF00"],
+      [0.9, "#FFA200"],
+      [1, "#FF0000"]
+    ],
+    "Lifetime": [0.4, 0.6],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 30,
+    "Rotation": [5, 5],
+    "Size": [[0, 0, 0], [0.497479, 0.52631557, 0.0625], [1, 0, 0]],
+    "Speed": [0, 0],
+    "Texture": "http://www.roblox.com/asset/?id=298984512"
+  },
+  "attributes": { "_lemonadeUniqueId": "4ZJRG5PUECXX" }
+}

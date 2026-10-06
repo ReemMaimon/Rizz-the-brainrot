@@ -1,0 +1,15 @@
+{
+  "className": "HumanoidDescription",
+  "properties": { "BodyTypeScale": 0, "Pants": 4637601297, "Shirt": 4637596615 },
+  "attributes": { "_lemonadeUniqueId": "RGCKRLDGURMQ" },
+  "childOrder": [
+    "BodyPartDescription",
+    "BodyPartDescription~2",
+    "BodyPartDescription~3",
+    "AccessoryDescription",
+    "BodyPartDescription~4",
+    "BodyPartDescription~5",
+    "AccessoryDescription~2",
+    "BodyPartDescription~6"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      501.0447,
+      2.966954,
+      -65.31902,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "CanCollide": false,
+    "Color": "#5B9A4C",
+    "HasJointOffset": true,
+    "JointOffset": [-0.028349876, 0.23733705, -0.032143116],
+    "MeshId": "https://assetdelivery.roblox.com/v1/asset/?id=14915799261",
+    "RenderFidelity": "Precise",
+    "size": [0.7513279, 0.8519001, 0.9202723]
+  },
+  "attributes": { "_lemonadeUniqueId": "MYJLWOBC4BQ2" },
+  "childOrder": [
+    "LeftGripAttachment",
+    "LeftWristRigAttachment",
+    "LeftWrist",
+    "AvatarPartScaleType",
+    "LeftWristBallSocket",
+    "OriginalSize",
+    "LeftHand"
+  ]
+}

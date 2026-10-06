@@ -1,0 +1,20 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Bombardiro_Crocodilo/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "bHdC3kVJbHdC" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "Proxy",
+    "HumanoidRootPart",
+    "Borbardillo.003",
+    "Borbardillo.002",
+    "Borbardillo.001",
+    "Borbardillo",
+    "Diamond"
+  ]
+}

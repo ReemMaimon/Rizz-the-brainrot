@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Hacker /Hacker_Bambini_Crostini/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "LGYG3OJWIBGM" },
+  "tags": ["Brainrot"]
+}

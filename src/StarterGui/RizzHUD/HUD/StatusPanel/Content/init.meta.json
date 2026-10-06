@@ -1,0 +1,11 @@
+{
+  "className": "Frame",
+  "properties": { "BackgroundTransparency": 1, "Position": [[0, 12], [0, 12]], "Size": [[1, -24], [1, -24]] },
+  "attributes": {
+    "OrigAnchor": "0, 0",
+    "OrigPos": "{1.03577292, 0}, {1.33764029, 0}",
+    "OrigSize": "{0.985130072, 0}, {0.943634748, 0}",
+    "_lemonadeUniqueId": "nJ5dxskGnJ5d"
+  },
+  "childOrder": ["Layout", "Title", "RizzLevel", "Mana", "Coins", "Rizz", "RizzProgress", "HP"]
+}

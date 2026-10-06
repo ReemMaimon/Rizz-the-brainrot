@@ -1,0 +1,59 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      502.38574,
+      5.5999217,
+      -65.35131,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "CanCollide": false,
+    "Color": "#5B9A4C",
+    "HasJointOffset": true,
+    "HasSkinnedMesh": true,
+    "JointOffset": [2.3896427e-16, -0.58581054, -0.00009781122],
+    "MeshId": "rbxassetid://71897128896113",
+    "PivotOffset": [
+      4.1325328e-35,
+      -2.537102,
+      -0.0028532743,
+      1,
+      1.2246469e-16,
+      -1.2246469e-16,
+      -1.2246469e-16,
+      1,
+      -1.2246469e-16,
+      1.2246469e-16,
+      1.2246469e-16,
+      1
+    ],
+    "TextureID": "rbxassetid://115034041631823",
+    "size": [1.19784, 1.2024002, 1.2034119]
+  },
+  "attributes": { "_lemonadeUniqueId": "XVM557LKSUOF" },
+  "childOrder": [
+    "HeadWrapTarget",
+    "HeadWeld",
+    "LeftUpperArmNoCollision",
+    "FaceFrontAttachment",
+    "RightUpperArmNoCollision",
+    "HairAttachment",
+    "OriginalSize",
+    "HatAttachment",
+    "HumanoidRootPartNoCollision",
+    "FaceControls",
+    "NeckBallSocket",
+    "FaceCenterAttachment",
+    "NeckRigAttachment",
+    "Neck",
+    "AvatarPartScaleType"
+  ]
+}

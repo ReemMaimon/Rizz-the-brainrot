@@ -1,0 +1,19 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [546.916, 158.04488, -641.0919, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CollisionGroup": "Brainrots",
+    "CollisionGroupId": -1,
+    "HasSkinnedMesh": true,
+    "Massless": true,
+    "MeshId": "rbxassetid://102810723637717",
+    "PivotOffset": [0.013896945, 2.1504674, 6.961729e-7, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "TextureID": "rbxassetid://78780860864077",
+    "size": [5.826729, 7.5799637, 3.884393]
+  },
+  "attributes": { "_lemonadeUniqueId": "C4USMYI3CDM4" },
+  "tags": ["BrainrotSetup"],
+  "childOrder": ["Bone", "PointLight", "Flash", "Attachment", "Sparkles"]
+}

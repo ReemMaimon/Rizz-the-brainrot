@@ -1,0 +1,23 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Legendary/Ballerina_Cappuccina/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "F9qwJk0AF9qw" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "Proxy",
+    "HumanoidRootPart",
+    "Cube.016",
+    "Cube.006",
+    "Cube.005",
+    "Cube.004",
+    "Cube.003",
+    "Cube.002",
+    "Cube.001",
+    "Diamond"
+  ]
+}

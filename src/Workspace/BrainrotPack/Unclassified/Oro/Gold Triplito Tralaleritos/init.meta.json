@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Triplito Tralaleritos/Cube.023" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "7VXN5KF3TAQ5" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.023", "AnimationController", "Anims"]
+}

@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [472.19974, 0.0665282, 90.57073, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "CastShadow": false,
+    "Color": "#999BA5",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "Material": "SmoothPlastic",
+    "RightSurface": "Studs",
+    "Transparency": 1,
+    "size": [4.2986393, 0.001000171, 3.8771312]
+  },
+  "attributes": { "_lemonadeUniqueId": "cFpgHP1vcFpg" }
+}

@@ -1,0 +1,14 @@
+{
+  "className": "ScrollingFrame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "AutomaticCanvasSize": "Y",
+    "BackgroundTransparency": 1,
+    "CanvasSize": [[0, 0], [0, 0]],
+    "Position": [[0.5, 0], [0.52, 0]],
+    "ScrollBarThickness": 6,
+    "Size": [[0.92, 0], [0.78, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "M6s55UkmM6s5" },
+  "childOrder": ["UIListLayout", "Template"]
+}

@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "name": "Rizz-the-brainrot",
+  "srcDir": "src",
+  "services": [
+    "Workspace",
+    "ServerScriptService",
+    "ServerStorage",
+    "ReplicatedStorage",
+    "StarterGui",
+    "StarterPlayer",
+    "StarterPack",
+    "ReplicatedFirst",
+    "Lighting",
+    "SoundService",
+    "Teams",
+    "TextChatService",
+    "LocalizationService",
+    "MaterialService"
+  ],
+  "binaryClasses": [
+    "UnionOperation",
+    "NegateOperation",
+    "BinaryStringValue"
+  ],
+  "binaryPaths": [],
+  "ignoreClasses": [
+    "Terrain",
+    "Camera"
+  ],
+  "ignorePaths": [],
+  "scriptExtension": "luau",
+  "autoMerge": true
+}

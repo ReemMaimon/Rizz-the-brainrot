@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [820.30945, 5.41876, -87.15005, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "EnableFluidForces": false,
+    "size": [1, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "U5R7PZAAPLYW" },
+  "childOrder": ["Snap", "ParticleEmitter", "LeftFootAttachment"]
+}

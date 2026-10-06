@@ -1,0 +1,13 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.010684925, 0], [0.2708502, 0]],
+    "Size": [[0.66629255, 0], [0.6909448, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "Yu1SKSUgYu1S" },
+  "childOrder": ["Blackhole Slap", "UIListLayout", "Coil Combo", "Money"]
+}

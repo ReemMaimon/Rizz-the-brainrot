@@ -1,0 +1,29 @@
+{
+  "className": "MeshPart",
+  "name": "Meshes/Reward Chest",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [
+      130.78804,
+      5.807092,
+      -56.810925,
+      -0.82014894,
+      0.0014949539,
+      -0.5721419,
+      0.0030307926,
+      0.9999939,
+      -0.001731661,
+      0.5721377,
+      -0.0031542773,
+      -0.8201527
+    ],
+    "Color": "#FFFF00",
+    "DoubleSided": true,
+    "Material": "SmoothPlastic",
+    "MeshId": "rbxassetid://14958776371",
+    "RenderFidelity": "Precise",
+    "TextureID": "rbxassetid://14958776417",
+    "size": [8.767905, 8.995401, 10.593218]
+  },
+  "attributes": { "_lemonadeUniqueId": "N6YKZ5MBE3UF" }
+}

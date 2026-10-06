@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#26143A",
+    "BackgroundTransparency": 0.08,
+    "BorderSizePixel": 0,
+    "Position": [[0.5, 0], [0.78, 0]],
+    "Size": [[0.31946507, 0], [0.29342723, 0]],
+    "ZIndex": 5
+  },
+  "attributes": { "_lemonadeUniqueId": "CVQUV4PBXEKZ" },
+  "childOrder": ["TrainButton", "UICorner", "UIStroke", "Title", "Stats", "Reward", "Stroke", "Corner", "Progress"]
+}

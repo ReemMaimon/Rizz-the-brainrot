@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Hacker /Hacker_Tirilikalika_Tirilikalako/Cube.021"
+    }
+  },
+  "attributes": { "_lemonadeUniqueId": "OY6OQTA44G6D" },
+  "tags": ["Brainrot"]
+}

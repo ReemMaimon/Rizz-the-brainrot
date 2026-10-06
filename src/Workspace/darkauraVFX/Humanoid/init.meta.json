@@ -1,0 +1,6 @@
+{
+  "className": "Humanoid",
+  "properties": { "DisplayDistanceType": "None" },
+  "attributes": { "_lemonadeUniqueId": "2F3RWYFWBGGO" },
+  "childOrder": ["HumanoidDescription", "Animator"]
+}

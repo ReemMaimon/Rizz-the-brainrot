@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.015625, 0], [0.5, 0]],
+    "Size": [[0.06898797, 0], [0.44238788, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "Tbj1ND4ATbj1" },
+  "childOrder": ["Buttons", "UIListLayout", "Index", "Rebirth", "UIAspectRatioConstraint", "Shop"]
+}

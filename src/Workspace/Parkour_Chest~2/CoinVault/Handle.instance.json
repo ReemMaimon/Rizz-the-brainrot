@@ -1,0 +1,12 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [135.64096, 3.5638952, -49.532394, -0.04126169, 0, -0.9991484, 0, 1, 0, 0.9991484, 0, -0.04126169],
+    "Color": "#FFBD60",
+    "MeshId": "rbxassetid://12584728047",
+    "RenderFidelity": "Precise",
+    "size": [1.4761635, 2.4377365, 2.2110953]
+  },
+  "attributes": { "_lemonadeUniqueId": "CKYNE5MS77C7" }
+}

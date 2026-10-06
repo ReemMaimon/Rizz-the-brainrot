@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Agarrini La Pallini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "GELRCPCJTSAC" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "Anims", "AnimationController"]
+}

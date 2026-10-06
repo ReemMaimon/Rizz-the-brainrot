@@ -1,0 +1,5 @@
+{
+  "className": "Decal",
+  "properties": { "Face": "Top", "Texture": "rbxasset://textures/SpawnLocation.png" },
+  "attributes": { "_lemonadeUniqueId": "TLMDZSCPEWDN" }
+}

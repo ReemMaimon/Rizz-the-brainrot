@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Nyannini Cattalini/Cube.161" }
+  },
+  "attributes": { "_lemonadeUniqueId": "RKODZQL4EQRW" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "InitialPoses", "AnimationController", "Cube.161"]
+}

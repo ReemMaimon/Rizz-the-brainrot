@@ -1,0 +1,19 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/ssj VFX/ssj vfx by waffles/broly/Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "H262NQOHQV2R" },
+  "childOrder": [
+    "Torso",
+    "AnimSaves",
+    "Right Leg",
+    "Left Arm",
+    "HumanoidRootPart",
+    "Humanoid",
+    "Body Colors",
+    "Right Arm",
+    "Head",
+    "Left Leg"
+  ]
+}

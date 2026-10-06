@@ -1,0 +1,12 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [134.41504, 3.581435, -50.475407, -0.04126169, 0, -0.9991484, 0, 1, 0, 0.9991484, 0, -0.04126169],
+    "Color": "#A1E1FF",
+    "MeshId": "rbxassetid://12584728356",
+    "RenderFidelity": "Precise",
+    "size": [3.1177788, 2.9287496, 4.7008348]
+  },
+  "attributes": { "_lemonadeUniqueId": "gHospCoagHos" }
+}

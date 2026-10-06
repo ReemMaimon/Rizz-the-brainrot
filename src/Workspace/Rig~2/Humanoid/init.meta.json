@@ -1,0 +1,16 @@
+{
+  "className": "Humanoid",
+  "properties": { "HipHeight": 2.0000005, "RigType": "R15" },
+  "attributes": { "_lemonadeUniqueId": "XH7PMXBK5NF5" },
+  "childOrder": [
+    "HeadScale",
+    "Status",
+    "Animator",
+    "HumanoidDescription",
+    "BodyTypeScale",
+    "BodyHeightScale",
+    "BodyDepthScale",
+    "BodyProportionScale",
+    "BodyWidthScale"
+  ]
+}

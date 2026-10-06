@@ -1,0 +1,6 @@
+{
+  "className": "Model",
+  "name": "Big",
+  "attributes": { "_lemonadeUniqueId": "4EDG2ILG4GOG" },
+  "childOrder": ["Ball-01", "Explosion-01", "Tornado-01", "Big-Crack-01", "Lighting-01"]
+}

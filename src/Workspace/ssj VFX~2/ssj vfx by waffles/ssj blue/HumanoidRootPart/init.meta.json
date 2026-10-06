@@ -1,0 +1,30 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [847.11084, 4.433553, -66.91037, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "F5UDROJEQKEQ" },
+  "childOrder": [
+    "RoughSwishThing",
+    "Attachment",
+    "RootAttachment",
+    "Main",
+    "A",
+    "LongSlash",
+    "A~2",
+    "RootJoint",
+    "A~3",
+    "SmokeParticle",
+    "Attachment~2",
+    "Linesbrr"
+  ]
+}

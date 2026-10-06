@@ -1,0 +1,18 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [158.73813, 155.82985, -594.01465, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CollisionGroup": "Brainrots",
+    "CollisionGroupId": -1,
+    "HasSkinnedMesh": true,
+    "Massless": true,
+    "MeshId": "rbxassetid://117068437110771",
+    "PivotOffset": [-0.0046048677, -0.34025273, -2.0491025, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "size": [4.160094, 5.8671045, 9.6313]
+  },
+  "attributes": { "_lemonadeUniqueId": "TAIADAN54NIP" },
+  "tags": ["BrainrotSetup"],
+  "childOrder": ["Bone.002", "AutoRainbowSA", "Attachment", "PointLight", "Bone", "Rainbow"]
+}

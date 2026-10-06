@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "name": "Hacker Los Tralaleritos",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Los Tralaleritos/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "ITEAZ6HSEDWF" },
+  "tags": ["Brainrot"]
+}

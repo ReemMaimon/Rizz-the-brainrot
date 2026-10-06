@@ -1,0 +1,15 @@
+{
+  "className": "Model",
+  "attributes": { "_lemonadeUniqueId": "SK8zVmkOSK8z" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "VfxInstance",
+    "Text",
+    "Proxy",
+    "Tralalelo Tralala.001",
+    "Tralalelo Tralala",
+    "HumanoidRootPart",
+    "Diamond"
+  ]
+}

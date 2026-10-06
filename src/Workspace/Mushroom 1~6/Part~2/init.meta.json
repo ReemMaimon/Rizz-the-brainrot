@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [766.045, 5.789729, 13.20186, 0.6579714, 0, 0.75304294, 0, 1, 0, -0.75304294, 0, 0.6579714],
+    "Color": "#0051FF",
+    "TopSurface": "Smooth",
+    "size": [1.624587, 0.6305573, 1.6274701]
+  },
+  "attributes": { "_lemonadeUniqueId": "P74VWBJDK5C4" }
+}

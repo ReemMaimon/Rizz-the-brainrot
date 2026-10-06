@@ -1,0 +1,14 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundColor3": "#6E37CD",
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "Bold" },
+    "LayoutOrder": 3,
+    "Size": [[0.8, 0], [0, 40]],
+    "Text": "RIZZ BATTLE",
+    "TextColor3": "#FFFFFF",
+    "TextSize": 18,
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "W98sevpZW98s" }
+}

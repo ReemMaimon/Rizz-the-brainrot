@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0, 0.5],
+    "BackgroundColor3": "#34F01F",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0, 0], [0.5, 0]],
+    "Size": [[0.95, 0], [1, 0]],
+    "ZIndex": 2
+  },
+  "attributes": { "_lemonadeUniqueId": "MP9SmEWqMP9S" },
+  "childOrder": ["UIStroke", "UICorner"]
+}

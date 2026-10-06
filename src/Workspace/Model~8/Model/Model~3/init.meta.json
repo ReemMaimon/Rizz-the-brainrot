@@ -1,0 +1,27 @@
+{
+  "className": "Model",
+  "name": "Model",
+  "attributes": { "_lemonadeUniqueId": "CP9G7pySCP9G" },
+  "childOrder": [
+    "Part",
+    "Wedge",
+    "Part~2",
+    "Wedge~2",
+    "Part~3",
+    "Wedge~3",
+    "Wedge~4",
+    "Wedge~5",
+    "Wedge~6",
+    "Part~4",
+    "Part~5",
+    "Part~6",
+    "Part~7",
+    "Part~8",
+    "Wedge~7",
+    "Part~9",
+    "Wedge~8",
+    "Part~10",
+    "Part~11",
+    "Part~12"
+  ]
+}

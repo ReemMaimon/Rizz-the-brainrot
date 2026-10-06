@@ -1,0 +1,17 @@
+{
+  "className": "Part",
+  "name": "BrainrotSpawnWorldArea5",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [1298.6587, 1.7117677, -81.579834, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CastShadow": false,
+    "Color": "#6B327C",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "RightSurface": "Studs",
+    "size": [264.9096, 3.414, 166.383]
+  },
+  "attributes": { "_lemonadeUniqueId": "RDYM65MILVHC" }
+}

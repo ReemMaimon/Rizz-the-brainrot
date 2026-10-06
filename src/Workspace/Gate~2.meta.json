@@ -1,0 +1,13 @@
+{
+  "className": "UnionOperation",
+  "name": "Gate",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [668.2488, 2.0982237, 11.196571, 0.6691306, 0, -0.7431448, 0, 1, 0, 0.7431448, 0, 0.6691306],
+    "CastShadow": false,
+    "Color": "#956A4E",
+    "UsePartColor": true,
+    "size": [0.7023264, 4.389272, 6.3205357]
+  },
+  "attributes": { "_lemonadeUniqueId": "KM2SDLBS2DIY" }
+}

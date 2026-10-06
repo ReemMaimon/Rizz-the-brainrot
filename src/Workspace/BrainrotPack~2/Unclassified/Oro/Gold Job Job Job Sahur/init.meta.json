@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Job Job Job Sahur/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "URSZUSE7RRNV" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Mesh", "Anims", "AnimationController"]
+}

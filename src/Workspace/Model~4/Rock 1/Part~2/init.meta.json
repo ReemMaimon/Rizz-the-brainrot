@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [666.00116, 0.40082616, 8.094213, -0.8191522, 0, 0.5735766, 0, 1, 0, -0.5735766, 0, -0.8191522],
+    "Color": "#575658",
+    "TopSurface": "Smooth",
+    "size": [1.2430974, 0.9944779, 1.1809427]
+  },
+  "attributes": { "_lemonadeUniqueId": "S24HDKL464LR" }
+}

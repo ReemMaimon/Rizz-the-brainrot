@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Talpa_Di_Fero/Mesh" }
+  },
+  "attributes": { "Offset": 0.7, "ZOffset": -0.4, "_lemonadeUniqueId": "FMLA5BCGBJH5" },
+  "tags": ["Brainrot"]
+}

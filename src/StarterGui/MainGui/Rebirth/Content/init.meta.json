@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "AnchorPoint": [0.5, 1],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Position": [[0.50012684, 0], [1.0000001, 0]],
+    "Size": [[0.98035896, 0], [0.825814, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "Opi42peaOpi4" },
+  "childOrder": ["Warning", "Unlockable", "Rebirth", "Holder", "UICorner"]
+}

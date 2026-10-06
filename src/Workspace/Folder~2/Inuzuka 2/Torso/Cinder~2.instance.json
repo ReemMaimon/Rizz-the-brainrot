@@ -1,0 +1,20 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Cinder",
+  "properties": {
+    "Acceleration": [0, 0.8, 0],
+    "Brightness": 5,
+    "Color": [[0, "#550000"], [1, "#550000"]],
+    "Lifetime": [1, 1],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 15,
+    "RotSpeed": [-180, 180],
+    "Rotation": [-180, 180],
+    "Size": [[0, 0, 0], [0.0998, 0.07, 0.016], [1, 0, 0]],
+    "Speed": [2.4, 2.4],
+    "SpreadAngle": [360, 100],
+    "Texture": "rbxassetid://284872195"
+  },
+  "attributes": { "EmitCount": 50, "EmitDelay": 0, "_lemonadeUniqueId": "RZU6ATGEHY7W" }
+}

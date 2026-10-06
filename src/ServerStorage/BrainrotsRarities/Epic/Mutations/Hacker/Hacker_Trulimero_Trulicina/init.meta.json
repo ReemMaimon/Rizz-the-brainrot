@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Hacker /Hacker_Trulimero_Trulicina/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "KY6SRUGE4JJO" },
+  "tags": ["Brainrot"]
+}

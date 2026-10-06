@@ -1,0 +1,9 @@
+{
+  "className": "SpecialMesh",
+  "properties": {
+    "MeshId": "rbxassetid://13128112611",
+    "MeshType": "FileMesh",
+    "TextureId": "rbxassetid://13128112450"
+  },
+  "attributes": { "_lemonadeUniqueId": "7bLFKhMQ7bLF" }
+}

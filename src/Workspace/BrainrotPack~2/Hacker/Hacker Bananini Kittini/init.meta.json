@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Bananini Kittini/Cube.148" }
+  },
+  "attributes": { "_lemonadeUniqueId": "VTUR6KBCLS72" },
+  "tags": ["Brainrot"]
+}

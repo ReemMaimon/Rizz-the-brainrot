@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [199.03206, 8.722382, -84.77664, 0, 0, -1, 0, -1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "Color": "#CC8E69",
+    "TopSurface": "Smooth",
+    "Transparency": 1,
+    "size": [1.3230001, 0.67199993, 0.70699996]
+  },
+  "attributes": { "_lemonadeUniqueId": "cylMnIJXcylM" }
+}

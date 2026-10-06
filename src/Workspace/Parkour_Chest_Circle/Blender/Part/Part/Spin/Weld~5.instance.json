@@ -1,0 +1,37 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "properties": {
+    "C0": [
+      -0.000004470802,
+      0.12044593,
+      -0.000035766418,
+      1,
+      0.0000051259917,
+      -2.5611333e-9,
+      2.561133e-9,
+      2.911698e-11,
+      1,
+      0.0000051259917,
+      -1,
+      2.910383e-11
+    ],
+    "C1": [
+      -4.692961,
+      -0.7038271,
+      7.036721,
+      -0.9977211,
+      -0.067451775,
+      -0.0017163258,
+      -0.0017199264,
+      -0.0000046914574,
+      0.99999857,
+      -0.06745168,
+      0.9977226,
+      -0.00011133131
+    ],
+    "Part0": { "$ref": "Workspace/Parkour_Chest_Circle/Blender/Part/Part/Spin" },
+    "Part1": { "$ref": "Workspace/Parkour_Chest/Pile of Gifts/Model/Part" }
+  },
+  "attributes": { "_lemonadeUniqueId": "nYmaliEQnYma" }
+}

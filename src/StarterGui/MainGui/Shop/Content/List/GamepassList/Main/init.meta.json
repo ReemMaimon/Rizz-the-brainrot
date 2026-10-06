@@ -1,0 +1,15 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "ImageColor3": "#23FFF8",
+    "Position": [[0.5, 0], [0.26279864, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.9, 0], [0.347, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "NCUCoEumNCUC" }
+}

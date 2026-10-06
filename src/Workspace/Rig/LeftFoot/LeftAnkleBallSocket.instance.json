@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/LeftLowerLeg/LeftAnkleRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/LeftFoot/LeftAnkleRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -10,
+    "TwistUpperAngle": 10,
+    "UpperAngle": 10
+  },
+  "attributes": { "_lemonadeUniqueId": "NN2IV4ECCQZJ" }
+}

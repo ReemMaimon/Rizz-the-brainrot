@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/LowerTorso/WaistRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/UpperTorso/WaistRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -40,
+    "TwistUpperAngle": 20,
+    "UpperAngle": 20
+  },
+  "attributes": { "_lemonadeUniqueId": "LHHFTRMOTLK6" }
+}

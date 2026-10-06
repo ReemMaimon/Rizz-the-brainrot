@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/LowerTorso/RightHipRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/RightUpperLeg/RightHipRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -5,
+    "TwistUpperAngle": 80,
+    "UpperAngle": 40
+  },
+  "attributes": { "_lemonadeUniqueId": "V23W44ALAY6C" }
+}

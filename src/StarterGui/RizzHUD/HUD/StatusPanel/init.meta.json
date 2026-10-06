@@ -1,0 +1,16 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#181C2A",
+    "BackgroundTransparency": 1,
+    "ClipsDescendants": true,
+    "Size": [[0.45, 0], [0.55, 0]]
+  },
+  "attributes": {
+    "OrigAnchor": "0, 0",
+    "OrigPos": "{-0.203725711, 0}, {-0.498595715, 0}",
+    "OrigSize": "{0.336738348, 0}, {0.449832201, 0}",
+    "_lemonadeUniqueId": "fRBZqnoGfRBZ"
+  },
+  "childOrder": ["Corner", "Stroke", "Content", "Padding", "SizeConstraint", "RizzHUDBACKGROUND"]
+}

@@ -1,0 +1,11 @@
+{
+  "className": "Motor6D",
+  "properties": {
+    "C0": [0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0],
+    "C1": [0, -0.5, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0],
+    "MaxVelocity": 0.1,
+    "Part0": { "$ref": "Workspace/ssj VFX~2/ssj vfx by waffles/broly/Torso" },
+    "Part1": { "$ref": "Workspace/ssj VFX~2/ssj vfx by waffles/broly/Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "5HLHG6O2CXVR" }
+}

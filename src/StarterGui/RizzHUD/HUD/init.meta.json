@@ -1,0 +1,10 @@
+{
+  "className": "Frame",
+  "properties": { "BackgroundTransparency": 1, "Size": [[0.6224527, 0], [0.6317957, 0]] },
+  "attributes": {
+    "OrigAnchor": "0, 0",
+    "OrigPos": "{0.0670178682, 0}, {0.0845070928, 0}",
+    "_lemonadeUniqueId": "2mDwOlwC2mDw"
+  },
+  "childOrder": ["ResponsiveScale", "Notifications", "StatusPanel"]
+}

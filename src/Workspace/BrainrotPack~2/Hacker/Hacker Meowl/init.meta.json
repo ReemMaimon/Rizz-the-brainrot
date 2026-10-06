@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Meowl/Plane" }
+  },
+  "attributes": { "_lemonadeUniqueId": "BWAMJUA5D2Q2" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Plane", "Anims", "AnimationController"]
+}

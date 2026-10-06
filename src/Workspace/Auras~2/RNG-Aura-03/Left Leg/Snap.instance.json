@@ -1,0 +1,9 @@
+{
+  "className": "Snap",
+  "properties": {
+    "C0": [0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0],
+    "C1": [-0.5, -1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0],
+    "Part0": { "$ref": "Workspace/Auras~2/RNG-Aura-03/Left Leg" }
+  },
+  "attributes": { "_lemonadeUniqueId": "NV6JO4LG54RW" }
+}

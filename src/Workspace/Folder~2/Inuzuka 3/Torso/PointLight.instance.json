@@ -1,0 +1,5 @@
+{
+  "className": "PointLight",
+  "properties": { "Brightness": 5, "Color": "#FFFF00" },
+  "attributes": { "_lemonadeUniqueId": "WTOXFBKCBV2L" }
+}

@@ -1,0 +1,37 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "properties": {
+    "C0": [
+      -0.000004470802,
+      0.12044593,
+      -0.000035766418,
+      1,
+      0.0000051259917,
+      -2.5611333e-9,
+      2.561133e-9,
+      2.911698e-11,
+      1,
+      0.0000051259917,
+      -1,
+      2.910383e-11
+    ],
+    "C1": [
+      -8.63616,
+      -4.4458737,
+      0.5470116,
+      0.3073564,
+      -0.95158786,
+      0.0035549693,
+      -0.004299309,
+      0.0023471364,
+      0.9999881,
+      -0.9515848,
+      -0.30736798,
+      -0.003369763
+    ],
+    "Part0": { "$ref": "Workspace/Parkour_Chest_Circle/Blender/Part/Part/Spin" },
+    "Part1": { "$ref": "Workspace/Parkour_Chest/Model/Meshes/Reward Chest" }
+  },
+  "attributes": { "_lemonadeUniqueId": "EZ1NHqXZEZ1N" }
+}

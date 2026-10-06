@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Galaxy/Galaxy_Trulimero_Trulicina/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "PPCV4AGGMLWX" },
+  "tags": ["Brainrot"]
+}

@@ -1,0 +1,10 @@
+{
+  "className": "ColorCorrectionEffect",
+  "properties": {
+    "Brightness": 0.15,
+    "Contrast": 0.1,
+    "Saturation": 0.15,
+    "TintColor": "#FFE9E9"
+  },
+  "attributes": { "_lemonadeUniqueId": "0WF9v2Oo0WF9" }
+}

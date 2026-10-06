@@ -1,0 +1,23 @@
+{
+  "className": "ParticleEmitter",
+  "name": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [0, 1.5746399, 0],
+    "Brightness": 3,
+    "Drag": 2,
+    "FlipbookLayout": "Grid8x8",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.7, 0.7],
+    "LockedToPart": true,
+    "Rate": 500,
+    "RotSpeed": [-180, 180],
+    "Rotation": [-180, 180],
+    "Shape": "Sphere",
+    "Size": [[0, 1.18098, 0], [1, 1.18098, 0]],
+    "Speed": [6.2985597, 6.2985597],
+    "SpreadAngle": [360, 100],
+    "Texture": "http://www.roblox.com/asset/?id=17644622447",
+    "ZOffset": -2
+  },
+  "attributes": { "EmitCount": 35, "_lemonadeUniqueId": "6LACZSHYHRKY" }
+}

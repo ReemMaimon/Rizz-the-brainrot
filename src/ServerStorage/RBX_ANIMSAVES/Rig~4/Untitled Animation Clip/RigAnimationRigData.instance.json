@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~4/Untitled Animation Clip" }
+  },
+  "attributes": { "_lemonadeUniqueId": "HuTuFFVDHuTu" }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~8/Sigma mewing" }
+  },
+  "attributes": { "_lemonadeUniqueId": "7QKHN7F6ZHGX" }
+}

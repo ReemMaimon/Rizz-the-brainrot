@@ -1,0 +1,11 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Rainbow/Tralalero_Tralala/Cube.035"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "SKRL6TP4HH5F" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Anims", "AnimationController", "Cube.035"]
+}

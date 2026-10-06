@@ -1,0 +1,11 @@
+{
+  "className": "ProximityPrompt",
+  "properties": {
+    "ActionText": "Purchase",
+    "HoldDuration": 0.7,
+    "MaxActivationDistance": 15.075492,
+    "ObjectText": "HEY",
+    "RequiresLineOfSight": false
+  },
+  "attributes": { "_lemonadeUniqueId": "LaFnfS5DLaFn" }
+}

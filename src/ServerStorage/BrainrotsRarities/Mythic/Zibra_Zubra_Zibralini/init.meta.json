@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Zibra_Zubra_Zibralini/Mesh" }
+  },
+  "attributes": { "Offset": 1, "ZOffset": 2, "_lemonadeUniqueId": "WZYFVPHLBUR2" },
+  "tags": ["Brainrot"]
+}

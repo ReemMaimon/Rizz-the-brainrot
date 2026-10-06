@@ -1,0 +1,18 @@
+{
+  "className": "Beam",
+  "name": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Beams~2/Lava-01/Main" },
+    "Attachment1": { "$ref": "Workspace/Beams/Lava-01/End" },
+    "Brightness": 5,
+    "Color": [[0, "#FF0800"], [1, "#FF0800"]],
+    "FaceCamera": true,
+    "Segments": 14,
+    "Texture": "rbxassetid://12781780964",
+    "TextureLength": 0.6,
+    "TextureSpeed": 2,
+    "Transparency": [[0, 0, 0], [1, 0, 0]],
+    "ZOffset": 0.2
+  },
+  "attributes": { "_lemonadeUniqueId": "MHWCQLPHBSAL" }
+}

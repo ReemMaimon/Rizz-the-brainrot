@@ -1,0 +1,22 @@
+{
+  "className": "BubbleChatConfiguration",
+  "properties": {
+    "AdorneeName": "HumanoidRootPart",
+    "BackgroundColor3": "#FAFAFA",
+    "BackgroundTransparency": 0.1,
+    "BubbleDuration": 15,
+    "BubblesSpacing": 6,
+    "Enabled": true,
+    "Font": "BuilderSansMedium",
+    "FontFace": { "Family": "rbxasset://fonts/families/BuilderSans.json", "Style": "Normal", "Weight": "Medium" },
+    "LocalPlayerStudsOffset": [0, 0, 0],
+    "MaxBubbles": 3,
+    "MaxDistance": 100,
+    "MinimizeDistance": 40,
+    "TailVisible": true,
+    "TextColor3": "#393B3D",
+    "TextSize": 20,
+    "VerticalStudsOffset": 0
+  },
+  "childOrder": ["UIGradient", "ImageLabel", "UICorner", "UIPadding"]
+}

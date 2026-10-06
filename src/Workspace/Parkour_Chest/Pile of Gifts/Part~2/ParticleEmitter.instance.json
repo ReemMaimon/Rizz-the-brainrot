@@ -1,0 +1,12 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [[0, "#FFFFFF"], [1, "#F3FF69"]],
+    "Lifetime": [1, 1],
+    "LightInfluence": 1,
+    "Rate": 3,
+    "Size": [[0, 0.91770416, 0], [1, 0.91770416, 0]],
+    "Speed": [2.7531123, 2.7531123]
+  },
+  "attributes": { "_lemonadeUniqueId": "fvRWvJ7XfvRW" }
+}

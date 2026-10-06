@@ -1,0 +1,36 @@
+return {
+	TurnDuration = 15,
+	PlayerActionRecovery = 0.35,
+	BrainrotActionDelay = 0.8,
+	PlayerBasicAttackDamage = 10,
+	BrainrotBasicAttackDamage = 10,
+	PlayerDamageFormula = "RizzDamage",
+	BattleDistance = 35,
+	Statuses = {
+		Waiting = "Waiting",
+		PlayerTurn = "PlayerTurn",
+		BrainrotTurn = "BrainrotTurn",
+		Victory = "Victory",
+		Defeat = "Defeat",
+		Cancelled = "Cancelled",
+	},
+	Actions = {
+		BasicAttack = "BasicAttack",
+	},
+	Camera = {
+		Offset = Vector3.new(0, 8, 18),
+		LookAtOffset = Vector3.new(0, 3, 0),
+	},
+	CombatAnimations = {
+		PlayerIdle = "",
+		PlayerAttack = "",
+		PlayerHit = "",
+		PlayerVictory = "",
+		PlayerDefeat = "",
+		BrainrotIdle = "",
+		BrainrotAttack = "",
+		BrainrotHit = "",
+		BrainrotVictory = "",
+		BrainrotDefeat = "",
+	},
+}

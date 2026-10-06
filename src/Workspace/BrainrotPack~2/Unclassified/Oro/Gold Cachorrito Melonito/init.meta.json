@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Oro/Gold Cachorrito Melonito/Plane.011" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "CJCRAOHM2EMM" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Plane.011", "AnimationController"]
+}

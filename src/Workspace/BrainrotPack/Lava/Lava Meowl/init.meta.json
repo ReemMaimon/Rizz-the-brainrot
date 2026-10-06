@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Lava/Lava Meowl/Plane" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "BN4JFDN5OQYD" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimationController", "Plane", "Anims"]
+}

@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/Hacker Banana Dancana/Cube.092" }
+  },
+  "attributes": { "_lemonadeUniqueId": "OOB2VJDCK5RA" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "AnimationController", "Cube.092"]
+}

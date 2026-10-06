@@ -1,0 +1,14 @@
+{
+  "className": "BillboardGui",
+  "properties": {
+    "Active": true,
+    "ClipsDescendants": true,
+    "DistanceUpperLimit": -0.95214075,
+    "Enabled": false,
+    "LightInfluence": 1,
+    "MaxDistance": 110,
+    "Size": [[3.808563, 0], [3.0468504, 0]],
+    "ZIndexBehavior": "Sibling"
+  },
+  "attributes": { "_lemonadeUniqueId": "TK5HSVH23DPP" }
+}

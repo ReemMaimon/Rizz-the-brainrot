@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Brainrot God/Mutations/Hacker /Espresso_Signora/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "FTOYFEKPNZUP" },
+  "tags": ["Brainrot"]
+}

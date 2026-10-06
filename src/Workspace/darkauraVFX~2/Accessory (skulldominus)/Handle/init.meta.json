@@ -1,0 +1,25 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      803.70105,
+      8.020483,
+      -49.559525,
+      1,
+      -7.871375e-9,
+      -3.0299813e-15,
+      7.871375e-9,
+      1,
+      4.1444253e-16,
+      3.0299813e-15,
+      -4.1444255e-16,
+      1
+    ],
+    "CanCollide": false,
+    "TopSurface": "Smooth",
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "JOXNVPCOSVBI" },
+  "childOrder": ["AccessoryWeld", "HatAttachment", "AvatarPartScaleType", "OriginalSize", "SpecialMesh"]
+}

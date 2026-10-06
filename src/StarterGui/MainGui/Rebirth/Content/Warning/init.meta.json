@@ -1,0 +1,19 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "Position": [[0.50000006, 0], [0.015678724, 0]],
+    "Size": [[0.96512634, 0], [0.110893406, 0]],
+    "Text": "[WARNING] You will lose all Cash and Brainrot characters you own when you rebirth",
+    "TextColor3": "#FF1616",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "RW7UJzvxRW7U" }
+}

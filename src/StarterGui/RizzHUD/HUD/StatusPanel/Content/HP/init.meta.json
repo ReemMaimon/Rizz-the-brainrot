@@ -1,0 +1,6 @@
+{
+  "className": "Frame",
+  "properties": { "BackgroundTransparency": 1, "LayoutOrder": 7, "Size": [[1, 0], [0.1481077, 0]] },
+  "attributes": { "_lemonadeUniqueId": "P93jnMXNP93j" },
+  "childOrder": ["Value", "BarBackground"]
+}

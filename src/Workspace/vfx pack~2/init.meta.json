@@ -1,0 +1,6 @@
+{
+  "className": "Model",
+  "name": "vfx pack",
+  "attributes": { "_lemonadeUniqueId": "GQ6R7FPMM6LW" },
+  "childOrder": ["f", "Projectile", "Explosion", "Part"]
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [839.2855, 5.4927187, -19.200941, 0.6579714, 0, 0.75304294, 0, 1, 0, -0.75304294, 0, 0.6579714],
+    "Color": "#910000",
+    "TopSurface": "Smooth",
+    "size": [1.2980586, 0.50382054, 1.3003623]
+  },
+  "attributes": { "_lemonadeUniqueId": "LIC523CY7QDV" }
+}

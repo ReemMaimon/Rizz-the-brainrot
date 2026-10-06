@@ -1,0 +1,27 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      502.38577,
+      5.9801497,
+      -65.91563,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "CanCollide": false,
+    "Color": "#1B2A35",
+    "HasSkinnedMesh": true,
+    "MeshId": "https://assetdelivery.roblox.com/v1/asset/?id=11822598752",
+    "RenderFidelity": "Precise",
+    "TextureID": "rbxassetid://11822598774",
+    "size": [0.54873186, 0.071234465, 0.034425437]
+  },
+  "attributes": { "_lemonadeUniqueId": "PLCLPKEOCQKM" }
+}

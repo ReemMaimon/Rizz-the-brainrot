@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig/UpperTorso/RightShoulderRigAttachment/JointRotation" },
+    "Attachment1": { "$ref": "Workspace/Rig/RightUpperArm/RightShoulderRigAttachment/JointRotation" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -85,
+    "TwistUpperAngle": 85,
+    "UpperAngle": 110
+  },
+  "attributes": { "_lemonadeUniqueId": "5EBURFCAWAYI" }
+}

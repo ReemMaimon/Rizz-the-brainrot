@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Bambini_Crostini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 2, "_lemonadeUniqueId": "AJUJSZDCKY4O" },
+  "tags": ["Brainrot"]
+}

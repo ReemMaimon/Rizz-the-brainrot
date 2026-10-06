@@ -1,0 +1,18 @@
+{
+  "attributes": { "_lemonadeUniqueId": "tr6b8Ruktr6b" },
+  "childOrder": [
+    "Collecting_Coins",
+    "Closing_Lazer",
+    "Opening_Lazer",
+    "Error",
+    "Success",
+    "Stealing_From_Someone",
+    "Getting_Stoled",
+    "ButtonHover",
+    "ButtonPress",
+    "ButtonRelease",
+    "Code_Reedemed",
+    "Brainrot",
+    "Tacos"
+  ]
+}

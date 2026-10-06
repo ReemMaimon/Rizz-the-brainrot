@@ -1,0 +1,5 @@
+{
+  "className": "Attachment",
+  "attributes": { "_lemonadeUniqueId": "cqcM3QMKcqcM" },
+  "childOrder": ["Charged", "ParticleEmitter2", "Spark", "ParticleEmitter1"]
+}

@@ -1,0 +1,24 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [
+      502.38574,
+      3.995285,
+      -65.35129,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "PivotOffset": [0, -3, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Transparency": 1,
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "GN7ONUHYJ42O" },
+  "childOrder": ["RootAttachment", "OriginalSize", "RootRigAttachment"]
+}

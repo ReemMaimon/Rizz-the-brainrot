@@ -1,0 +1,10 @@
+{
+  "className": "ProximityPrompt",
+  "properties": {
+    "ActionText": "Train Rizz",
+    "MaxActivationDistance": 12,
+    "ObjectText": "RIZZ TRAINING",
+    "RequiresLineOfSight": false
+  },
+  "attributes": { "_lemonadeUniqueId": "4Yo9RMzV4Yo9" }
+}

@@ -1,0 +1,19 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#AC62FF"], [1, "#AC62FF"]],
+    "Drag": 7,
+    "Lifetime": [1, 2],
+    "LightEmission": 1,
+    "Rate": 40,
+    "RotSpeed": [-360, 360],
+    "Rotation": [-360, 360],
+    "Size": [[0, 0, 0], [0.25, 4.5823, 0], [1, 0, 0]],
+    "Speed": [70.496895, 158.61797],
+    "SpreadAngle": [-360, 360],
+    "Texture": "rbxassetid://9997556038",
+    "ZOffset": 3.674403
+  },
+  "attributes": { "EmitCount": 35, "EmitDelay": 0, "_lemonadeUniqueId": "AUBEQKAGEXXM" }
+}

@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [803.70105, 7.918762, -49.625, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": "#CC8E69",
+    "TopSurface": "Smooth",
+    "size": [2, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "3QVMFGDPZZPW" },
+  "childOrder": ["FaceCenterAttachment", "FaceFrontAttachment", "Mesh", "face", "HatAttachment", "HairAttachment"]
+}

@@ -1,0 +1,28 @@
+{
+  "className": "Model",
+  "name": "",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace//HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "7nR8wuLZ7nR8" },
+  "childOrder": [
+    "BrownMessyWavyHair",
+    "Meshes_glassesAccessory",
+    "smitehammer",
+    "Meshes_hazemAccessory",
+    "AnimSaves",
+    "Glow_Cat_Hat",
+    "Humanoid",
+    "PurpleSparkleTimeFedora",
+    "Black Bandana",
+    "Body Colors",
+    "Head",
+    "Torso",
+    "Right Arm",
+    "Left Leg",
+    "Left Arm",
+    "Proxy",
+    "Right Leg",
+    "HumanoidRootPart"
+  ]
+}

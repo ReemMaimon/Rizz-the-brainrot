@@ -1,0 +1,17 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/SourceSansPro.json", "Style": "Normal", "Weight": "Bold" },
+    "Size": [[1, 0], [1, 0]],
+    "Text": "Milestones are unavailable in Private Servers.",
+    "TextColor3": "#FF0004",
+    "TextSize": 77,
+    "TextStrokeTransparency": 0,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "J8MS5zjhJ8MS" }
+}

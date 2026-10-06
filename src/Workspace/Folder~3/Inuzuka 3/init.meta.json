@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/Folder/Inuzuka 3/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "RSIYJUELNMXN" },
+  "childOrder": ["Humanoid", "HumanoidRootPart", "Torso", "Left Arm", "Right Arm", "Left Leg", "Right Leg", "Head"]
+}

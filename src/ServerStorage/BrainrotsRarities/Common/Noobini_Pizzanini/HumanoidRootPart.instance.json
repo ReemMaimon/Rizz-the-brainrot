@@ -1,0 +1,15 @@
+{
+  "className": "Part",
+  "properties": {
+    "AudioCanCollide": false,
+    "CFrame": [319.9664, 9.889634, -96.664566, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Massless": true,
+    "PivotOffset": [0, -3.29, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Transparency": 1,
+    "size": [1.808, 1.808, 0.904]
+  },
+  "attributes": { "_lemonadeUniqueId": "DXCWVpNdDXCW" }
+}

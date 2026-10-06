@@ -1,0 +1,16 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.3, 0.3],
+    "LightEmission": 1,
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 5,
+    "Rotation": [-360, 360],
+    "Size": [[0, 4.875, 0.31249952], [1, 7.5, 0.24999952]],
+    "Speed": [0.001, 0.001],
+    "Texture": "rbxassetid://16937144632",
+    "Transparency": [[0, 1, 0], [0.50435865, 0, 0], [1, 1, 0]]
+  },
+  "attributes": { "EmitCount": 2, "_lemonadeUniqueId": "q48MYKMkq48M" }
+}

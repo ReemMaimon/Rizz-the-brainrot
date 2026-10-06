@@ -1,0 +1,19 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#550000"], [1, "#550000"]],
+    "FlipbookFramerate": [16, 16],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.8, 1],
+    "LockedToPart": true,
+    "Rate": 50,
+    "Rotation": [0, 360],
+    "Size": [[0, 1.18098, 0], [1, 1.18098, 0]],
+    "SpreadAngle": [360, 360],
+    "Texture": "http://www.roblox.com/asset/?id=17658261549",
+    "ZOffset": -0.5
+  },
+  "attributes": { "EmitCount": 25, "EmitDelay": 0, "_lemonadeUniqueId": "SJD3OXCNILRZ" }
+}

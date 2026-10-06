@@ -1,0 +1,5 @@
+{
+  "className": "ProximityPrompt",
+  "properties": { "ActionText": "Open Robux Shop", "MaxActivationDistance": 15 },
+  "attributes": { "_lemonadeUniqueId": "NND4NHCENND4" }
+}

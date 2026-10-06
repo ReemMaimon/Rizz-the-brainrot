@@ -1,0 +1,31 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [847.11084, 4.433553, -66.91037, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Color": "#7F7F7F",
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "LeftSurface": "Weld",
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "RightSurface": "Weld",
+    "size": [2, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "MRAFAMLIBFIY" },
+  "childOrder": [
+    "RightCollarAttachment",
+    "Right Hip",
+    "LeftCollarAttachment",
+    "Left Shoulder",
+    "WaistBackAttachment",
+    "Right Shoulder",
+    "BodyBackAttachment",
+    "Neck",
+    "BodyFrontAttachment",
+    "WaistCenterAttachment",
+    "roblox",
+    "WaistFrontAttachment",
+    "Left Hip",
+    "NeckAttachment"
+  ]
+}

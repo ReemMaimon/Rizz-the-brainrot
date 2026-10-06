@@ -1,0 +1,16 @@
+{
+  "className": "ImageLabel",
+  "name": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": "#000000",
+    "BackgroundTransparency": 0.8,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxasset://textures/ui/GuiImagePlaceholder.png",
+    "ImageTransparency": 1,
+    "Position": [[0.00994734, 0], [0.17582808, 0]],
+    "Size": [[0.9803589, 0], [0.81232446, 0]],
+    "ZIndex": 0
+  },
+  "attributes": { "_lemonadeUniqueId": "ZGocN9yiZGoc" }
+}

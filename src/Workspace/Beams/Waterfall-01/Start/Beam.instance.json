@@ -1,0 +1,16 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Beams/Waterfall-01/Start" },
+    "Attachment1": { "$ref": "Workspace/Beams/Waterfall-01/End" },
+    "Brightness": 2,
+    "FaceCamera": true,
+    "Texture": "rbxassetid://12781828706",
+    "TextureLength": 0.5,
+    "TextureSpeed": 1.5,
+    "Transparency": [[0, 1, 0], [0.011221945, 0, 0], [0.99127185, 0, 0], [1, 1, 0]],
+    "Width0": 3,
+    "Width1": 3
+  },
+  "attributes": { "_lemonadeUniqueId": "bfbWs4B5bfbW" }
+}

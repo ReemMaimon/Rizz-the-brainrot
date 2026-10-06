@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Legendary/Mutations/Diamond /Diamond_Tirilikalika_Tirilikalako/Cube.021"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "MU4R2HIPF4GP" },
+  "tags": ["Brainrot"]
+}

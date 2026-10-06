@@ -1,0 +1,17 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Regular" },
+    "Position": [[0.5, 0], [0.74, 0]],
+    "Size": [[0.9, 0], [0.08, 0]],
+    "Text": "NOT ENOUGH RIZZ",
+    "TextColor3": "#78FFC8",
+    "TextScaled": true,
+    "TextStrokeColor3": "#0F192D",
+    "TextStrokeTransparency": 0,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "zf4wTIAqzf4w" }
+}

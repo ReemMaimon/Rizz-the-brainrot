@@ -1,0 +1,26 @@
+{
+  "className": "Part",
+  "properties": {
+    "BottomSurface": "Smooth",
+    "CFrame": [
+      327.70197,
+      7.085504,
+      -121.61983,
+      -1,
+      7.8713756e-9,
+      3.031814e-15,
+      7.8713756e-9,
+      1,
+      2.3283106e-10,
+      -3.0299813e-15,
+      2.3283106e-10,
+      -1
+    ],
+    "CanCollide": false,
+    "Locked": true,
+    "TopSurface": "Smooth",
+    "size": [1, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "XG3zm8UeXG3z" },
+  "childOrder": ["AvatarPartScaleType", "SpecialMesh", "HatAttachment", "AccessoryWeld"]
+}

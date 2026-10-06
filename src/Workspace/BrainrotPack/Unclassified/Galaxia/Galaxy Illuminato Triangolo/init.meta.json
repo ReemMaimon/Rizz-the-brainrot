@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Galaxia/Galaxy Illuminato Triangolo/Cube.085" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "5L4Z5SH7Y5QG" },
+  "tags": ["Brainrot"]
+}

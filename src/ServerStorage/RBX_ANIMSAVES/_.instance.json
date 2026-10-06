@@ -1,0 +1,8 @@
+{
+  "className": "ObjectValue",
+  "name": "",
+  "properties": {
+    "Value": { "$ref": "Workspace/_~3" }
+  },
+  "attributes": { "_lemonadeUniqueId": "8H6ySjnh8H6y" }
+}

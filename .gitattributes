@@ -1,0 +1,9 @@
+# Keep line endings identical on every OS so Studio <-> Git diffs stay clean
+* text=auto eol=lf
+*.luau text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Binary models written by Roblox Git Sync (Unions etc.)
+*.rbxm binary

@@ -1,0 +1,17 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": "#000000",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://14905298636",
+    "ScaleType": "Tile",
+    "Size": [[1, 0], [1, 0]],
+    "TileSize": [[0, 250], [0, 250]],
+    "ZIndex": 0
+  },
+  "attributes": {
+    "OriginalParent": "StarterGui.WorldButtonGui.WorldButton.WorldTextLabel",
+    "_lemonadeUniqueId": "RTHW6SHFI6FH"
+  }
+}

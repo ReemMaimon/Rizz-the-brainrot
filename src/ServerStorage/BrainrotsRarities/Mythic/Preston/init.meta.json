@@ -1,0 +1,25 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Preston/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "BNDWjFdNBNDW" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "Humanoid",
+    "Body Colors",
+    "Pants",
+    "Shirt Graphic",
+    "Head",
+    "Torso",
+    "Left Arm",
+    "Right Arm",
+    "Left Leg",
+    "Right Leg",
+    "HumanoidRootPart",
+    "Handle",
+    "Proxy",
+    "Text"
+  ]
+}

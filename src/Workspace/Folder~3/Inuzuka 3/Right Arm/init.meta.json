@@ -1,0 +1,10 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [812.80945, 7.41876, -87.65005, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CanCollide": false,
+    "size": [1, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "QFQJQCLNXWI5" },
+  "childOrder": ["ParticleEmitter", "Cinder", "RightGripAttachment", "RightShoulderAttachment"]
+}

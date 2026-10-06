@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 15,
+    "Color": [[0, "#FF0000"], [1, "#FF0000"]],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.3, 1.3],
+    "Rate": 5,
+    "Rotation": [-15, 15],
+    "Size": [[0, 0, 0], [0.917766, 0.70597214, 0], [1, 0.7451931, 0]],
+    "Speed": [0.00076923065, 0.00076923065],
+    "Texture": "rbxassetid://134678107719923",
+    "Transparency": [[0, 1, 0], [0.49154332, 0.050000012, 0], [1, 1, 0]]
+  },
+  "attributes": { "Size_End": 1, "Size_Start": 0, "_lemonadeUniqueId": "ZEYOLXE4RYH5" }
+}

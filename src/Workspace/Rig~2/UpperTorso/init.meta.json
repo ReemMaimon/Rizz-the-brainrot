@@ -1,0 +1,49 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [
+      502.38574,
+      4.2177453,
+      -65.3757,
+      1,
+      1.1920936e-7,
+      -4.7683528e-7,
+      -1.192093e-7,
+      1,
+      1.1920879e-7,
+      4.7683528e-7,
+      -1.19208735e-7,
+      1
+    ],
+    "Color": "#3A7D15",
+    "HasJointOffset": true,
+    "JointOffset": [5.981567e-17, -0.73402816, 0.024409235],
+    "MeshId": "https://assetdelivery.roblox.com/v1/asset/?id=14915799293",
+    "RenderFidelity": "Precise",
+    "size": [1.8470364, 1.7851932, 1.4239095]
+  },
+  "attributes": { "_lemonadeUniqueId": "VHH2PXNUGCBK" },
+  "childOrder": [
+    "RightLowerArmNoCollision",
+    "LeftShoulderRigAttachment",
+    "HumanoidRootPartNoCollision",
+    "RightUpperLegNoCollision",
+    "RightShoulderRigAttachment",
+    "LeftUpperLegNoCollision",
+    "LeftLowerArmNoCollision",
+    "LeftCollarAttachment",
+    "OriginalSize",
+    "BodyBackAttachment",
+    "BodyFrontAttachment",
+    "RightCollarAttachment",
+    "NeckAttachment",
+    "UpperTorso",
+    "AvatarPartScaleType",
+    "RightLowerLegNoCollision",
+    "LeftLowerLegNoCollision",
+    "WaistBallSocket",
+    "NeckRigAttachment",
+    "Waist",
+    "WaistRigAttachment"
+  ]
+}

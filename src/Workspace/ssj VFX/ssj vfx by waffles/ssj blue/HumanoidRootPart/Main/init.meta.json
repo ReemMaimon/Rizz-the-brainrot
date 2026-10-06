@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "properties": { "CFrame": [0, -2.69, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "WL2VTMHDJTTV" },
+  "childOrder": ["Wind2", "Wind1"]
+}

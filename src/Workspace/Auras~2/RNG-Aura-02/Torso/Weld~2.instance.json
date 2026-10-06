@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "properties": {
+    "C0": [-1, 0, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "C1": [0.5, -0.30000114, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "Part0": { "$ref": "Workspace/Auras~2/RNG-Aura-02/Torso" }
+  },
+  "attributes": { "_lemonadeUniqueId": "23W2GZLNQHWC" }
+}

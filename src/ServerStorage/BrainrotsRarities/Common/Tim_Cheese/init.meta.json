@@ -1,0 +1,22 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Common/Tim_Cheese/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "Bs6ggNPnBs6g" },
+  "tags": ["NormalBabies"],
+  "childOrder": [
+    "Weld",
+    "Cube.001",
+    "Cube.002",
+    "Cube.003",
+    "Cube.004",
+    "Cube.005",
+    "Cube.006",
+    "Cube.030",
+    "HumanoidRootPart",
+    "Proxy",
+    "Text",
+    "Diamond"
+  ]
+}

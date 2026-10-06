@@ -1,0 +1,19 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/ssj VFX/ssj vfx by waffles/super saiyan/Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "VV7OBZGRL6MX" },
+  "childOrder": [
+    "HumanoidRootPart",
+    "Torso",
+    "Body Colors",
+    "Right Arm",
+    "Humanoid",
+    "Right Leg",
+    "Head",
+    "Animate",
+    "Left Arm",
+    "Left Leg"
+  ]
+}

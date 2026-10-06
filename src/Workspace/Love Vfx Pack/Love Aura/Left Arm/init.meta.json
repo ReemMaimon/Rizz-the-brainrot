@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [818.0792, 6.4187803, -41.865944, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Color": "#E8B995",
+    "size": [1, 2, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "XERM2SC7ETN4" },
+  "childOrder": ["LeftGripAttachment", "Fire1", "LeftShoulderAttachment", "Fire1~2"]
+}

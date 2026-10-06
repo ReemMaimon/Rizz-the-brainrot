@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Galaxia/Galaxy Nyannini Cattalini/Cube.161" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "GKPT4KHARKZM" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.161", "Anims", "InitialPoses", "AnimationController"]
+}

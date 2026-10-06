@@ -1,0 +1,6 @@
+{
+  "className": "Tool",
+  "properties": { "CanBeDropped": false, "Grip": [0, 0, -0.6902046, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "HnHVohb7HnHV" },
+  "childOrder": ["LocalScript", "Handle"]
+}

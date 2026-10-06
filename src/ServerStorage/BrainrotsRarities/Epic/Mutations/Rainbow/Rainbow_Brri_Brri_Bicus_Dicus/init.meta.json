@@ -1,0 +1,10 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": {
+      "$ref": "ServerStorage/BrainrotsRarities/Epic/Mutations/Rainbow/Rainbow_Brri_Brri_Bicus_Dicus/Mesh"
+    }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "LY4OLXKWGCJZ" },
+  "tags": ["Brainrot", "Rainbow"]
+}

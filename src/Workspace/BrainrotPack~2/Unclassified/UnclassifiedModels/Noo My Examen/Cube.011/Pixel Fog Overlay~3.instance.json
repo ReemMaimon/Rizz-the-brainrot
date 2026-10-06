@@ -1,0 +1,24 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Pixel Fog Overlay",
+  "properties": {
+    "Brightness": 2,
+    "Color": [
+      [0, [0.27904406, 0.6878984, 0.9882811]],
+      [1, [0.27904406, 0.6878984, 0.9882811]]
+    ],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [1.5, 2],
+    "LightEmission": 1,
+    "LockedToPart": true,
+    "Rate": 14,
+    "Rotation": [-360, 360],
+    "Size": [[0, 1.9956511, 0.6521736], [1, 2.0000002, 0.9780002]],
+    "Speed": [0.2, 0.4],
+    "SpreadAngle": [360, 360],
+    "Texture": "rbxassetid://102145598777345",
+    "Transparency": [[0, 0.96000004, 0], [0.3391813, 0.8327273, 0.08484852], [1, 0.96000004, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "LFZ7XXJH7AYN" }
+}

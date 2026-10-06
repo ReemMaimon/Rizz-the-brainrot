@@ -1,0 +1,6 @@
+{
+  "className": "Tool",
+  "properties": { "CanBeDropped": false, "Grip": [0, 0, -0.58291006, 1, 0, 0, 0, 1, 0, 0, 0, 1] },
+  "attributes": { "_lemonadeUniqueId": "XUYXWwIoXUYX" },
+  "childOrder": ["GravityScript", "GravityController", "Handle"]
+}

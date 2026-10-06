@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Chimpanzini Bananini/Mesh" }
+  },
+  "attributes": { "Offset": 0.5, "ZOffset": 0, "_lemonadeUniqueId": "DESMBFNXEWUL" },
+  "tags": ["Brainrot"],
+  "childOrder": ["AnimSaves", "AnimationController", "Anims", "Mesh"]
+}

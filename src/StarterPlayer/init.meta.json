@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "AllowCustomAnimations": true,
+    "AutoJumpEnabled": true,
+    "CameraMaxZoomDistance": 128,
+    "CameraMinZoomDistance": 0.5,
+    "CameraMode": "Classic",
+    "CharacterBreakJointsOnDeath": true,
+    "CharacterJumpHeight": 7.2,
+    "CharacterJumpPower": 50,
+    "CharacterMaxSlopeAngle": 89,
+    "CharacterUseJumpPower": false,
+    "CharacterWalkSpeed": 26,
+    "ClassicDeath": true,
+    "DevCameraOcclusionMode": "Zoom",
+    "DevComputerCameraMovementMode": "UserChoice",
+    "DevComputerMovementMode": "UserChoice",
+    "DevTouchCameraMovementMode": "UserChoice",
+    "DevTouchMovementMode": "UserChoice",
+    "EnableMouseLockOption": true,
+    "HealthDisplayDistance": 100,
+    "LoadCharacterAppearance": true,
+    "LuaCharacterController": "Default",
+    "NameDisplayDistance": 100,
+    "UserEmotesEnabled": true
+  },
+  "attributes": { "_lemonadeUniqueId": "sp1" },
+  "childOrder": ["StarterPlayerScripts", "StarterCharacterScripts"]
+}

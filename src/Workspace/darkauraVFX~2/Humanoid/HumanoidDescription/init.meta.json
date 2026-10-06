@@ -1,0 +1,13 @@
+{
+  "className": "HumanoidDescription",
+  "properties": {
+    "BodyTypeScale": 0,
+    "DepthScale": 0.92,
+    "Face": 18151826,
+    "Pants": 12719043468,
+    "ProportionScale": 0,
+    "Shirt": 129252765764744,
+    "WidthScale": 0.85
+  },
+  "attributes": { "_lemonadeUniqueId": "SYZTGNJQOXEH" }
+}

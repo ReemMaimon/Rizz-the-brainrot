@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "Workspace/Automatic Save" }
+  },
+  "attributes": { "_lemonadeUniqueId": "xojGXqqqxojG" }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "AnimationRigData",
+  "properties": {
+    "name": "RigAnimationRigData",
+    "parent": { "$ref": "ServerStorage/RBX_ANIMSAVES/Rig~8/Flowers on riiz punch" }
+  },
+  "attributes": { "_lemonadeUniqueId": "BEYDPYA3CSPV" }
+}

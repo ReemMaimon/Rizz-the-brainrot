@@ -1,0 +1,11 @@
+{
+  "className": "Motor6D",
+  "properties": {
+    "C0": [-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "C1": [-0.5, 1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "MaxVelocity": 0.1,
+    "Part0": { "$ref": "Workspace/_/Torso" },
+    "Part1": { "$ref": "Workspace/_/Left Leg" }
+  },
+  "attributes": { "_lemonadeUniqueId": "XGXHDLH5VEL3" }
+}

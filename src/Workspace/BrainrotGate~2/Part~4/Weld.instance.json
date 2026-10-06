@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, 4.7683716e-7, 11.2682495, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "C1": [1.344574, 4.7683716e-7, -1.3382568, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "Workspace/BrainrotGate~2/Part~4" },
+    "Part1": { "$ref": "Workspace/BrainrotGate~2/Part~2" }
+  },
+  "attributes": { "_lemonadeUniqueId": "o72WAh4oo72W" }
+}

@@ -1,0 +1,5 @@
+{
+  "className": "UISizeConstraint",
+  "properties": { "MaxSize": [400, 160], "MinSize": [160, 100] },
+  "attributes": { "_lemonadeUniqueId": "HVR8S48AHVR8" }
+}

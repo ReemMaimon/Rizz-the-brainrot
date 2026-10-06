@@ -1,0 +1,6 @@
+{
+  "className": "Sound",
+  "properties": { "PlaybackSpeed": 0.8, "SoundId": "rbxassetid://114598564110899" },
+  "attributes": { "_lemonadeUniqueId": "ZC8khov1ZC8k" },
+  "childOrder": ["EqualizerSoundEffect", "CompressorSoundEffect"]
+}

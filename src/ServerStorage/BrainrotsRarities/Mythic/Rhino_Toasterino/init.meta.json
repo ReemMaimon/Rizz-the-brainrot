@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Rhino_Toasterino/Mesh" }
+  },
+  "attributes": { "Offset": 1, "ZOffset": 1.7, "_lemonadeUniqueId": "SXLESFNGPUCT" },
+  "tags": ["Brainrot"]
+}

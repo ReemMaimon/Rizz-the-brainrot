@@ -1,0 +1,9 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0, -0.49723896, 0, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "C1": [10.86761, 2.539997, 2.224595, 0, -1, 0, 0, 0, -1, 1, 0, 0],
+    "Part0": { "$ref": "Workspace/Model~4/Rock 1/Part~2" }
+  },
+  "attributes": { "_lemonadeUniqueId": "2242IWOZBTOG" }
+}

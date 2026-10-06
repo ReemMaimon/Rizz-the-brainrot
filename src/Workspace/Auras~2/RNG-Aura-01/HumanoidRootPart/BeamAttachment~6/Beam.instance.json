@@ -1,0 +1,17 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Auras~2/RNG-Aura-01/HumanoidRootPart/BeamAttachment~6" },
+    "Attachment1": { "$ref": "Workspace/Auras/RNG-Aura-01/HumanoidRootPart/BeamAttachment" },
+    "Brightness": 5,
+    "Color": [[0, "#D174FF"], [1, "#D174FF"]],
+    "FaceCamera": true,
+    "LightEmission": 1,
+    "Segments": 50,
+    "Texture": "rbxassetid://3029306948",
+    "Transparency": [[0, 0, 0], [0.700565, 0, 0], [1, 1, 0]],
+    "Width0": 2,
+    "Width1": 2
+  },
+  "attributes": { "_lemonadeUniqueId": "JUKUETESMZ36" }
+}

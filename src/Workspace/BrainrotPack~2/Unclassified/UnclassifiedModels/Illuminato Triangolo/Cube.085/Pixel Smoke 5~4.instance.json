@@ -1,0 +1,23 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Pixel Smoke 5",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#D041FF"], [1, "#D041FF"]],
+    "Drag": 3,
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.7, 1.3],
+    "LightEmission": -1,
+    "LockedToPart": true,
+    "Rate": 5,
+    "Rotation": [-360, 360],
+    "Size": [[0, 2.0802276, 0], [1, 2.0802276, 0]],
+    "Speed": [1, 2],
+    "SpreadAngle": [360, 360],
+    "Texture": "rbxassetid://11826888424",
+    "Transparency": [[0, 1, 0], [0.47076023, 0.46249998, 0.24374998], [1, 1, 0]],
+    "ZOffset": -1
+  },
+  "attributes": { "_lemonadeUniqueId": "XH3CMTNDLEDZ" }
+}

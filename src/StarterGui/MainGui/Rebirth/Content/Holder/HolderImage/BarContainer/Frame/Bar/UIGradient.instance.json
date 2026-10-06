@@ -1,0 +1,12 @@
+{
+  "className": "UIGradient",
+  "properties": {
+    "Color": [
+      [0, "#00F800"],
+      [0.4429066, [0.22449286, 0.9809078, 0.21016353]],
+      [1, "#BCFFB0"]
+    ],
+    "Rotation": -180
+  },
+  "attributes": { "_lemonadeUniqueId": "6Q63Vy0Y6Q63" }
+}

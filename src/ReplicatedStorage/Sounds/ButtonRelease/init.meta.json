@@ -1,0 +1,6 @@
+{
+  "className": "Sound",
+  "properties": { "SoundId": "rbxassetid://83901096398280" },
+  "attributes": { "_lemonadeUniqueId": "Qig821P9Qig8" },
+  "childOrder": ["EqualizerSoundEffect", "CompressorSoundEffect"]
+}

@@ -1,0 +1,10 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [0.14198399, -0.60024595, -0.040971126, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "C1": [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "Workspace/_~3/Meshes_hazemAccessory/Handle" },
+    "Part1": { "$ref": "Workspace//Left Arm" }
+  },
+  "attributes": { "_lemonadeUniqueId": "K6KKzUyWK6KK" }
+}

@@ -1,0 +1,19 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.495, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://114231710514920",
+    "ImageColor3": "#1DD5CF",
+    "LayoutOrder": 1,
+    "Position": [[0.26251677, 0], [1.93, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.495, 0], [1, 0]]
+  },
+  "attributes": { "ProductId": 3296367825, "_lemonadeUniqueId": "45gBXPmG45gB" },
+  "tags": ["GamepassProduct"],
+  "childOrder": ["Frame", "Locked", "ItemName", "Buy", "UICorner", "Icon", "ItemName~2"]
+}

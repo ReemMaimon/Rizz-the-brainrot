@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "name": "ItemName",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.64460677, 0], [0.4592982, 0]],
+    "Size": [[0.4998458, 0], [0.2948737, 0]],
+    "Text": "X50 CASH",
+    "TextColor3": "#C9C9C9",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "PA7gGbkoPA7g" },
+  "childOrder": ["UIStroke", "UIGradient"]
+}

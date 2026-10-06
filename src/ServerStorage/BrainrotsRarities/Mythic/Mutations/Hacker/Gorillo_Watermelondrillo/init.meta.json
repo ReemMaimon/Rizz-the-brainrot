@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Hacker /Gorillo_Watermelondrillo/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "RLZYQWIYC57H" },
+  "tags": ["Brainrot"]
+}

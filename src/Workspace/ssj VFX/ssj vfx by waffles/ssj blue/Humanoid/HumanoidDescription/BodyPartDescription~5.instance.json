@@ -1,0 +1,6 @@
+{
+  "className": "BodyPartDescription",
+  "name": "BodyPartDescription",
+  "properties": { "BodyPart": "LeftLeg", "Color": [0.5, 0.5, 0.5] },
+  "attributes": { "_lemonadeUniqueId": "DTIHZNEIDLEF" }
+}

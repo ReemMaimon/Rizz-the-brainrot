@@ -1,0 +1,18 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Bold" },
+    "Size": [[0.45, 0], [0.3, 0]],
+    "Text": "Guaranteed",
+    "TextColor3": "#FFFFFF",
+    "TextSize": 77,
+    "TextStrokeTransparency": 0,
+    "TextWrapped": true,
+    "TextXAlignment": "Left"
+  },
+  "attributes": { "_lemonadeUniqueId": "D3JQXXKSIUSS" }
+}

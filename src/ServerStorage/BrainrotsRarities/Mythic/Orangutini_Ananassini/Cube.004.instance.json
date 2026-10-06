@@ -1,0 +1,12 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [464.46292, 6.3500843, -90.312164, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "Color": "#DE9534",
+    "HasSkinnedMesh": true,
+    "MeshId": "rbxassetid://74316913515708",
+    "PivotOffset": [0, -0.66889143, -1.0728836e-7, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "size": [9.5598135, 1.0892644, 1.0808817]
+  },
+  "attributes": { "Color": 2, "_lemonadeUniqueId": "dAt3gQd9dAt3" }
+}

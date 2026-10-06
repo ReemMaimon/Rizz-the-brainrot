@@ -1,0 +1,21 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Glow",
+  "properties": {
+    "Color": [[0, "#AA55FF"], [1, "#AA55FF"]],
+    "Lifetime": [1, 1],
+    "LightEmission": 1,
+    "LightInfluence": 1,
+    "LockedToPart": true,
+    "Rate": 10,
+    "RotSpeed": [-50, 50],
+    "Rotation": [-360, 360],
+    "Size": [[0, 0.2, 0], [0.2, 0.3, 0], [0.5, 0.4, 0], [1, 0.2, 0]],
+    "Speed": [0.25, 0.25],
+    "SpreadAngle": [65, 65],
+    "Texture": "http://www.roblox.com/asset/?id=7451831540",
+    "Transparency": [[0, 1, 0], [0.4, 0.9, 0], [0.6, 0.9, 0], [1, 1, 0]],
+    "ZOffset": 2
+  },
+  "attributes": { "_lemonadeUniqueId": "AZ5CWWBE7SIC" }
+}

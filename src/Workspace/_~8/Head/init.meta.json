@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [327.71344, 6.810087, -121.72258, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CanCollide": false,
+    "CanQuery": false,
+    "Color": "#EAB892",
+    "TopSurface": "Smooth",
+    "size": [2, 1, 1]
+  },
+  "attributes": { "_lemonadeUniqueId": "QZKTQAEOX377" },
+  "childOrder": ["HairAttachment", "FaceCenterAttachment", "face", "FaceFrontAttachment", "Mesh", "HatAttachment"]
+}

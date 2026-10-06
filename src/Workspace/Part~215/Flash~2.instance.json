@@ -1,0 +1,21 @@
+{
+  "className": "ParticleEmitter",
+  "name": "Flash",
+  "properties": {
+    "Brightness": 5,
+    "Color": [[0, "#000000"], [1, "#000000"]],
+    "FlipbookFramerate": [20, 20],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.4, 0.4],
+    "LightInfluence": 1,
+    "Rate": 2,
+    "Rotation": [-360, 360],
+    "Size": [[0, 3.9945645, 0], [0.5042283, 13.61413, 0], [0.9899577, 15, 0], [1, 15, 0]],
+    "Speed": [0, 0],
+    "SpreadAngle": [-360, 360],
+    "Texture": "rbxassetid://11372606236",
+    "ZOffset": 3.3
+  },
+  "attributes": { "EmitCount": 1, "EmitDelay": 0, "_lemonadeUniqueId": "JB4V3QNL7N3A" }
+}

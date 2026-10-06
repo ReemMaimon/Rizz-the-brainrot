@@ -1,0 +1,10 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "Size": [[0.5943536, 0], [0.70422536, 0]],
+    "ZIndex": 20
+  },
+  "attributes": { "_lemonadeUniqueId": "2UZHRQPXDWNN" }
+}

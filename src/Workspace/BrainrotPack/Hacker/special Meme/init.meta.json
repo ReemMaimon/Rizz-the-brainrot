@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Hacker/special Meme/Cube.088" }
+  },
+  "attributes": { "_lemonadeUniqueId": "2TDTGIAUE6FU" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Cube.088", "AnimationController"]
+}

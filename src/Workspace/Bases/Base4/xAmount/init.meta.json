@@ -1,0 +1,15 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "Studs",
+    "BottomSurface": "Studs",
+    "CFrame": [454.60065, 0.77238905, -151.02914, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "Color": "#00C300",
+    "FrontSurface": "Studs",
+    "LeftSurface": "Studs",
+    "RightSurface": "Studs",
+    "size": [14.967237, 1.0671287, 16.89588]
+  },
+  "attributes": { "_lemonadeUniqueId": "9iHZxgxP9iHZ" }
+}

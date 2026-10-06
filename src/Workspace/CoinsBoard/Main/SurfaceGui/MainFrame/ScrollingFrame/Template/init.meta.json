@@ -1,0 +1,12 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Size": [[1, 0], [0, 90]]
+  },
+  "attributes": { "_lemonadeUniqueId": "jDYMSXvNjDYM" },
+  "childOrder": ["PositionLabel", "Value", "NameLabel", "AvatarImage"]
+}

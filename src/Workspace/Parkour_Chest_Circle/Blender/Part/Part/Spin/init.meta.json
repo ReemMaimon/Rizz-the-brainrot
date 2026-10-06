@@ -1,0 +1,28 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [
+      137.55135,
+      1.2136774,
+      -62.186802,
+      0.2923588,
+      0.0005073152,
+      -0.9563058,
+      -0.0017199288,
+      0.9999985,
+      0.000004682692,
+      0.95630795,
+      0.001643415,
+      0.2923635
+    ],
+    "CanCollide": false,
+    "Color": "#787800",
+    "DoubleSided": true,
+    "Material": "Neon",
+    "MeshId": "rbxassetid://4972350204",
+    "RenderFidelity": "Precise",
+    "size": [15.821908, 0.24089196, 15.821908]
+  },
+  "attributes": { "_lemonadeUniqueId": "dSGQ6aFVdSGQ" }
+}

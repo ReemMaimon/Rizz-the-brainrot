@@ -1,0 +1,8 @@
+{
+  "className": "Bone",
+  "properties": {
+    "CFrame": [-0.043869615, -0.1625318, 4.1409564, 1, 0, 0, 0, 0.18369222, 0.9829838, 0, -0.9829838, 0.18369222]
+  },
+  "attributes": { "_lemonadeUniqueId": "RJ45D4N363ER" },
+  "childOrder": ["Bone.010", "Bone.001", "Bone.007", "Bone.013", "Bone.004"]
+}

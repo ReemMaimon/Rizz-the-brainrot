@@ -1,0 +1,16 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://103496706609895",
+    "Position": [[0.45790452, 0], [4.866269e-7, 0]],
+    "ScaleType": "Fit",
+    "Size": [[0.084190845, 0], [1, 0]],
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "v9GpIGZtv9Gp" },
+  "childOrder": ["UIGradient", "CharacterName", "ViewportFrame", "CheckImage"]
+}

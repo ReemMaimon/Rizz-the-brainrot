@@ -1,0 +1,31 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#F3F3F3",
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "Image": "rbxassetid://126131926164992",
+    "ImageColor3": "#00DE00",
+    "ImageTransparency": 0.21,
+    "LayoutOrder": 1,
+    "Position": [[0.19679579, 0], [0.18316554, 0]],
+    "Size": [[0.37586218, 0], [0.20760219, 0]],
+    "Visible": false
+  },
+  "attributes": { "_lemonadeUniqueId": "7lwCWYOO7lwC" },
+  "childOrder": [
+    "Buy",
+    "Text",
+    "BoostAmount",
+    "UIGradient",
+    "LuckVector",
+    "Glow",
+    "Pattern",
+    "Timer",
+    "UICorner",
+    "Amount",
+    "Hide",
+    "UIAspectRatioConstraint"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [127.13487, 4.400372, -63.127937, 0.98732173, 0, -0.15873232, 0, 1, 0, 0.15873234, 0, 0.9873216],
+    "Color": "#0D69AC",
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "SmoothPlastic",
+    "RightSurface": "SmoothNoOutlines",
+    "TopSurface": "SmoothNoOutlines",
+    "Transparency": 1,
+    "size": [5.920852, 5.920852, 5.920852]
+  },
+  "attributes": { "_lemonadeUniqueId": "VT3VFEIFERDY" }
+}

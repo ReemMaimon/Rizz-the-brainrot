@@ -1,0 +1,31 @@
+{
+  "className": "Part",
+  "name": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [
+      125.60074,
+      6.585499,
+      -62.09336,
+      0.93440604,
+      -0.25186652,
+      0.25186652,
+      0,
+      0.70710677,
+      0.70710677,
+      -0.35619655,
+      -0.66072965,
+      0.6607295
+    ],
+    "Color": "#C1BE42",
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "SmoothPlastic",
+    "RightSurface": "SmoothNoOutlines",
+    "TopSurface": "SmoothNoOutlines",
+    "size": [0.6452647, 0.64526486, 0.57356906]
+  },
+  "attributes": { "_lemonadeUniqueId": "QEVO6REWBARA" }
+}

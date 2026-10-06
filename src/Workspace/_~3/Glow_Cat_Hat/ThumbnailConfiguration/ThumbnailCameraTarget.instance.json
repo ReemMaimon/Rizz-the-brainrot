@@ -1,0 +1,7 @@
+{
+  "className": "ObjectValue",
+  "properties": {
+    "Value": { "$ref": "Workspace//Glow_Cat_Hat/Handle" }
+  },
+  "attributes": { "_lemonadeUniqueId": "8rM45mUk8rM4" }
+}

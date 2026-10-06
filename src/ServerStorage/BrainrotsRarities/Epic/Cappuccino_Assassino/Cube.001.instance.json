@@ -1,0 +1,17 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "AudioCanCollide": false,
+    "CFrame": [371.29572, 7.627139, -93.015015, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "HasSkinnedMesh": true,
+    "Massless": true,
+    "MeshId": "rbxassetid://133529934241168",
+    "PivotOffset": [0, -2.0275204, -0.74157476, 1, 0, 0, 0, 0, -1, 0, 1, 0],
+    "TextureID": "rbxassetid://88286908945775",
+    "size": [8.747627, 4.754705, 1.6260849]
+  },
+  "attributes": { "_lemonadeUniqueId": "MyvFnlqQMyvF" }
+}

@@ -1,0 +1,30 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 4.2,
+    "Color": [[0, "#FF7D5C"], [1, "#FF7D5C"]],
+    "Drag": 5,
+    "FlipbookFramerate": [30, 30],
+    "FlipbookLayout": "Grid4x4",
+    "FlipbookMode": "OneShot",
+    "Lifetime": [0.5, 0.5],
+    "Rate": 10,
+    "RotSpeed": [-30, 30],
+    "Rotation": [-360, 360],
+    "Size": [[0, 10.699857, 0.867347], [1, 12.674656, 5.1932926]],
+    "Speed": [20, 20],
+    "SpreadAngle": [-360, 360],
+    "Squash": [[0, 0, 0], [1, -0.12, 0.24]],
+    "Texture": "http://www.roblox.com/asset/?id=11395089850",
+    "Transparency": [
+      [0, 0, 0],
+      [0.694604, 0, 0],
+      [0.769231, 0.5375, 0],
+      [0.862227, 0.84375, 0],
+      [0.93341, 0.95, 0],
+      [1, 1, 0]
+    ],
+    "ZOffset": 1
+  },
+  "attributes": { "_lemonadeUniqueId": "d9bw6Gr1d9bw" }
+}

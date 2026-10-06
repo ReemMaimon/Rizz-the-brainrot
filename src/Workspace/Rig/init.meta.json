@@ -1,0 +1,33 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/Rig/HumanoidRootPart" }
+  },
+  "attributes": { "_lemonadeUniqueId": "7SC2M3NTEAUH" },
+  "childOrder": [
+    "UpperTorso",
+    "RightUpperLeg",
+    "Animate",
+    "LeftFoot",
+    "RightHand",
+    "RightLowerArm",
+    "LeftLowerArm",
+    "LeftLowerLeg",
+    "HumanoidRootPart",
+    "Brows",
+    "RightFoot",
+    "AnimSaves",
+    "Body Colors",
+    "HairAccessory",
+    "LeftUpperArm",
+    "Shirt",
+    "RightLowerLeg",
+    "Pants",
+    "Humanoid",
+    "LeftUpperLeg",
+    "Head",
+    "RightUpperArm",
+    "LowerTorso",
+    "LeftHand"
+  ]
+}

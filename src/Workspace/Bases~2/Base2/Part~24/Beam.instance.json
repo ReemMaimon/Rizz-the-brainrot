@@ -1,0 +1,16 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Bases/Base2/Part/Attachment1" },
+    "Attachment1": { "$ref": "Workspace/Bases/Base2/Part/Attachment2" },
+    "FaceCamera": true,
+    "LightEmission": 1,
+    "LightInfluence": 1,
+    "Texture": "rbxassetid://83383970487441",
+    "TextureSpeed": 0,
+    "Transparency": [[0, 0.95, 0], [1, 0.95, 0]],
+    "Width0": 7,
+    "Width1": 10
+  },
+  "attributes": { "_lemonadeUniqueId": "777J5YPJVFEB" }
+}

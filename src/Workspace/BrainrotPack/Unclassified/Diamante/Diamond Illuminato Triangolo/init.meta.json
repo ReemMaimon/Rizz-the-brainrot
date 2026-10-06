@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Diamante/Diamond Illuminato Triangolo/Cube.085" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "AOZSCCEBFH2C" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Cube.085", "AnimationController"]
+}

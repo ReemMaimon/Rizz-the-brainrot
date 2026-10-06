@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Job Job Job Sahur/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "47QH4YKPHHYC" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["Mesh", "AnimationController", "Anims"]
+}

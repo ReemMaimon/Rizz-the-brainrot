@@ -1,0 +1,14 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "LayoutOrder": 1,
+    "Position": [[0.44, 0], [0.014983942, 0]],
+    "Size": [[0.2, 0], [1, 0]]
+  },
+  "attributes": { "_lemonadeUniqueId": "tM8SP6BvtM8S" },
+  "childOrder": ["Overlay", "ItemName", "ItemImage"]
+}

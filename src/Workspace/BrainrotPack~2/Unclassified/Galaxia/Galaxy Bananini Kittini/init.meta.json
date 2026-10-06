@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Unclassified/Galaxia/Galaxy Bananini Kittini/Cube.148" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "TUZ7VWO4XFCN" },
+  "tags": ["Brainrot"],
+  "childOrder": ["Anims", "Cube.148", "AnimationController"]
+}

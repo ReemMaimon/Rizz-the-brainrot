@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Hacker /Tralalero_Tralala/Cube.035" }
+  },
+  "attributes": { "_lemonadeUniqueId": "PWAMHPGBD7UQ" },
+  "tags": ["Brainrot"]
+}

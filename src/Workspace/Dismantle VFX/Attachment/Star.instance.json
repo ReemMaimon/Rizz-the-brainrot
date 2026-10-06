@@ -1,0 +1,17 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 10,
+    "Lifetime": [0.05, 0.1],
+    "Orientation": "VelocityParallel",
+    "Rate": 100,
+    "Rotation": [-180, 180],
+    "Size": [[0, 0, 0], [0.30099502, 5.125, 0], [1, 0, 0]],
+    "Speed": [0.001, 0.001],
+    "SpreadAngle": [360, -360],
+    "Squash": [[0, 0, 0], [1, 1.9830441, 0]],
+    "Texture": "rbxassetid://15401642957",
+    "ZOffset": 3.1
+  },
+  "attributes": { "_lemonadeUniqueId": "XFNS6FOE2Z45" }
+}

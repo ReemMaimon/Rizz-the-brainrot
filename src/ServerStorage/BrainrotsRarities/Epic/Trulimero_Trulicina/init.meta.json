@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Epic/Trulimero_Trulicina/Mesh" }
+  },
+  "attributes": { "Offset": -1, "ZOffset": 2, "_lemonadeUniqueId": "BQOMMWKPCAD3" },
+  "tags": ["Brainrot"]
+}

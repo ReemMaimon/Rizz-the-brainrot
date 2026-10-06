@@ -1,0 +1,5 @@
+{
+  "className": "ScreenGui",
+  "properties": { "DisplayOrder": 120, "ResetOnSpawn": false, "ZIndexBehavior": "Sibling" },
+  "attributes": { "_lemonadeUniqueId": "jPgbJNRvjPgb" }
+}

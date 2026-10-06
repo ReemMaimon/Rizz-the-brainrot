@@ -1,0 +1,11 @@
+{
+  "className": "Motor6D",
+  "properties": {
+    "C0": [1, 0.5, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "C1": [-0.5, 0.5, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "MaxVelocity": 0.1,
+    "Part0": { "$ref": "Workspace/Love Vfx Pack~2/Love Aura/Torso" },
+    "Part1": { "$ref": "Workspace/Love Vfx Pack/Love Aura/Right Arm" }
+  },
+  "attributes": { "_lemonadeUniqueId": "4OBBYONL3HX6" }
+}

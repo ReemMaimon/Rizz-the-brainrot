@@ -1,0 +1,22 @@
+{
+  "className": "Accessory",
+  "name": "Meshes/glassesAccessory",
+  "properties": {
+    "AttachmentPoint": [
+      3.9356887e-9,
+      -0.23168755,
+      -0.396829,
+      1,
+      7.8713756e-9,
+      3.0299813e-15,
+      -7.8713756e-9,
+      1,
+      -4.1444258e-16,
+      -3.0299813e-15,
+      4.1444255e-16,
+      1
+    ]
+  },
+  "attributes": { "_lemonadeUniqueId": "FQyikoUgFQyi" },
+  "childOrder": ["ThumbnailConfiguration", "Handle"]
+}

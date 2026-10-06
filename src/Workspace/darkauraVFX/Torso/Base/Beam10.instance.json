@@ -1,0 +1,18 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/darkauraVFX/Torso/Base" },
+    "Attachment1": { "$ref": "Workspace/darkauraVFX/Torso/Esquerda" },
+    "Brightness": 10,
+    "CurveSize0": -1,
+    "FaceCamera": true,
+    "Segments": 50,
+    "Texture": "rbxassetid://16892450421",
+    "TextureSpeed": 3,
+    "Transparency": [[0, 1, 0], [0.19492657, 0.25, 0], [0.5, 0, 0], [0.799733, 0.24374998, 0], [1, 1, 0]],
+    "Width0": 3,
+    "Width1": 5,
+    "ZOffset": 0.1
+  },
+  "attributes": { "_lemonadeUniqueId": "C45M4EOIFH6K" }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Cappuccino Assassino/Mesh" }
+  },
+  "attributes": { "Offset": 1, "ZOffset": 0.5, "_lemonadeUniqueId": "RUKXH6MQGVRE" },
+  "tags": ["Brainrot"]
+}

@@ -1,0 +1,11 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [715, 106.02311, -177.01187, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "MeshId": "rbxassetid://12281930442",
+    "TextureID": "rbxassetid://12281930482",
+    "size": [1.2055165, 1.2086954, 1.4294796]
+  },
+  "attributes": { "_lemonadeUniqueId": "SHSSWKC2EDMQ" },
+  "childOrder": ["HatAttachment", "Weld", "AvatarPartScaleType"]
+}

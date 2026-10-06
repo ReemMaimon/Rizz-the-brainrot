@@ -1,0 +1,6 @@
+{
+  "className": "Attachment",
+  "name": "Attachment",
+  "attributes": { "_lemonadeUniqueId": "VVXOBICUAHOC" },
+  "childOrder": ["GLOW", "SPECKS", "FLAMEPILLAR", "SPIKES"]
+}

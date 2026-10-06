@@ -1,0 +1,27 @@
+{
+  "className": "StarterPlayerScripts",
+  "attributes": { "_lemonadeUniqueId": "sps" },
+  "childOrder": [
+    "Client",
+    "UIStroke adjustment",
+    "ShopLockSystem",
+    "GuaranteedDropsClient",
+    "GUI",
+    "Group",
+    "FavoriteGame",
+    "ServerMessages",
+    "ShopProxy",
+    "CoinsShopProxy",
+    "DestroyProxies",
+    "CountDown",
+    "RizzDebugHUD",
+    "RizzHUDController",
+    "BrainrotEncounterClient",
+    "WorldButtonTeleportClient",
+    "MirrorTrainingClient",
+    "BattleClient",
+    "AbilityCardShopClient",
+    "AnimationIntegration",
+    "BaseClaimArrows"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "className": "BallSocketConstraint",
+  "properties": {
+    "Attachment0": { "$ref": "Workspace/Rig~2/LeftLowerArm/LeftWristRigAttachment" },
+    "Attachment1": { "$ref": "Workspace/Rig/LeftHand/LeftWristRigAttachment" },
+    "LimitsEnabled": true,
+    "TwistLimitsEnabled": true,
+    "TwistLowerAngle": -10,
+    "TwistUpperAngle": 10,
+    "UpperAngle": 30
+  },
+  "attributes": { "_lemonadeUniqueId": "WMQIMNMRPXZW" }
+}

@@ -1,0 +1,8 @@
+{
+  "className": "NoCollisionConstraint",
+  "properties": {
+    "Part0": { "$ref": "Workspace/Rig/LeftUpperLeg" },
+    "Part1": { "$ref": "Workspace/Rig/LeftFoot" }
+  },
+  "attributes": { "_lemonadeUniqueId": "FX7VWNGQV3N6" }
+}

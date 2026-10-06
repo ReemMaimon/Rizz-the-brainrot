@@ -1,0 +1,23 @@
+{
+  "className": "Weld",
+  "properties": {
+    "C0": [
+      3.9356887e-9,
+      -0.23168755,
+      -0.396829,
+      1,
+      7.8713756e-9,
+      3.0299813e-15,
+      -7.8713756e-9,
+      1,
+      -4.1444258e-16,
+      -3.0299813e-15,
+      4.1444255e-16,
+      1
+    ],
+    "C1": [0, 0, -0.6, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Part0": { "$ref": "Workspace/_~3/Meshes_glassesAccessory/Handle" },
+    "Part1": { "$ref": "Workspace//Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "MJhdc1UKMJhd" }
+}

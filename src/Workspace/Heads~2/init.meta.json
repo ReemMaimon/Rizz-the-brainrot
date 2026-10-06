@@ -1,0 +1,6 @@
+{
+  "className": "Model",
+  "name": "Heads",
+  "attributes": { "_lemonadeUniqueId": "0Eo953uI0Eo9" },
+  "childOrder": ["Angry-01", "Glowing-Eyes-01", "Confused-01", "Surprised-02", "Surprised-01", "Flamming-Eyes-01"]
+}

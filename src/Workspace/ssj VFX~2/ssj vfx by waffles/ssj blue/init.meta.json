@@ -1,0 +1,18 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/ssj VFX/ssj vfx by waffles/ssj blue/Head" }
+  },
+  "attributes": { "_lemonadeUniqueId": "DXK2KBJVJCLY" },
+  "childOrder": [
+    "Left Leg",
+    "HumanoidRootPart",
+    "Humanoid",
+    "Right Arm",
+    "Torso",
+    "Body Colors",
+    "Head",
+    "Right Leg",
+    "Left Arm"
+  ]
+}

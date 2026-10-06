@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "Workspace/BrainrotPack/Arcoiris/Rainbow Blueberrinni Octopusini/Mesh" }
+  },
+  "attributes": { "Offset": 0, "ZOffset": 0, "_lemonadeUniqueId": "PKOFK3C62C4A" },
+  "tags": ["Brainrot", "Rainbow"],
+  "childOrder": ["AnimationController", "Mesh", "Anims"]
+}

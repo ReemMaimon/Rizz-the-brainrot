@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.5, 0], [3.2171337e-7, 0]],
+    "Size": [[1.0303429, 0], [0.18956076, 0]],
+    "Text": "Requirements:",
+    "TextColor3": "#FFEC20",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextTransparency": 1,
+    "TextWrapped": true
+  },
+  "attributes": { "_lemonadeUniqueId": "RONIwVxXRONI" }
+}

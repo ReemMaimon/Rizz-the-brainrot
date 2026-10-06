@@ -1,0 +1,16 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "FontFace": { "Family": "rbxasset://fonts/families/FredokaOne.json", "Style": "Normal", "Weight": "Heavy" },
+    "Position": [[0.05, 0], [0.05, 0]],
+    "Size": [[0.9, 0], [0.23856, 0]],
+    "Text": "RIZZ TRAINING",
+    "TextColor3": "#FFDD5C",
+    "TextScaled": true,
+    "TextSize": 22,
+    "TextWrapped": true,
+    "ZIndex": 6
+  },
+  "attributes": { "_lemonadeUniqueId": "K72VG6DLX3TN" }
+}

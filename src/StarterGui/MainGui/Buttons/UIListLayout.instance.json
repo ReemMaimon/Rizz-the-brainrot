@@ -1,0 +1,10 @@
+{
+  "className": "UIListLayout",
+  "properties": {
+    "HorizontalAlignment": "Center",
+    "Padding": [0.047709923, 0],
+    "SortOrder": "LayoutOrder",
+    "VerticalAlignment": "Center"
+  },
+  "attributes": { "_lemonadeUniqueId": "0wsQ2Rw40wsQ" }
+}

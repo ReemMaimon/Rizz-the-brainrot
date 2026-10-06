@@ -1,0 +1,23 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": "#FFFFFF",
+    "BackgroundTransparency": 1,
+    "BorderColor3": "#000000",
+    "BorderSizePixel": 0,
+    "FontFace": { "Family": "rbxasset://fonts/families/GothamSSm.json", "Style": "Normal", "Weight": "ExtraBold" },
+    "LayoutOrder": 1,
+    "Position": [[0.82592106, 0], [0.839599, 0]],
+    "Size": [[0.27619818, 0], [0.15600519, 0]],
+    "Text": "(VERY LIMITED, OP!)",
+    "TextColor3": "#FFFFFF",
+    "TextScaled": true,
+    "TextSize": 14,
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "ZIndex": 100
+  },
+  "attributes": { "_lemonadeUniqueId": "7BE5mu1X7BE5" },
+  "tags": ["ZebraText"]
+}

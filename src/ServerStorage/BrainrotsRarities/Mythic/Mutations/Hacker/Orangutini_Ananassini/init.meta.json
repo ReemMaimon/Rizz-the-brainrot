@@ -1,0 +1,8 @@
+{
+  "className": "Model",
+  "properties": {
+    "PrimaryPart": { "$ref": "ServerStorage/BrainrotsRarities/Mythic/Mutations/Hacker /Orangutini_Ananassini/Mesh" }
+  },
+  "attributes": { "_lemonadeUniqueId": "Y4OAX7EZX2RD" },
+  "tags": ["Brainrot"]
+}
